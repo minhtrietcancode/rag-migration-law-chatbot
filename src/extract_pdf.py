@@ -10,7 +10,9 @@ def fix_subdivision_splits(text):
     Fixes subdivision entries that got concatenated with previous lines.
     Only splits when Subdivision is NOT at the start of a line.
     """
-    subdivision_pattern = r'(\S+.*?)(Subdivision\s+[A-Z0-9]+—)'
+    # Updated pattern to match any characters/numbers in the code
+    # and handle both em dash (—) and regular hyphen (-)
+    subdivision_pattern = r'(\S+.*?)(Subdivision\s+[A-Za-z0-9]+[—-])'
     return re.sub(subdivision_pattern, r'\1\n\2', text)
 
 def fix_division_splits(text):
@@ -18,7 +20,9 @@ def fix_division_splits(text):
     Fixes division entries that got concatenated with previous lines.
     Only splits when Division is NOT at the start of a line.
     """
-    division_pattern = r'(\S+.*?)(Division\s+[A-Z0-9]+—)'
+    # Updated pattern to match any characters/numbers in the code
+    # and handle both em dash (—) and regular hyphen (-)
+    division_pattern = r'(\S+.*?)(Division\s+[A-Za-z0-9]+[—-])'
     return re.sub(division_pattern, r'\1\n\2', text)
 
 def fix_all_splits(text):
