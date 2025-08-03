@@ -494,7 +494,8 @@ PAGE 18 - CLEANED CONTENT:
 506 Regulations about passenger cards 307
 506A Regulations may provide for infringement notices 308
 506B Tax file numbers 308
-507 Marital or relationship status 310 The Schedule—Acts relating to immigration and deportation repealed 312
+507 Marital or relationship status 310 
+The Schedule—Acts relating to immigration and deportation repealed 312
 Endnotes 313
 Endnote 1—About the endnotes 313
 Endnote 2—Abbreviation key 315
@@ -503,121 +504,5 @@ Endnote 4—Amendment history 353
 Endnote 5—Editorial changes 448
 Endnote 6—Repeal tables 449
 Endnote 7—Renumbering tables 456
-========================================================================================================================
-
-========================================================================================================================
-PAGE 19 - CLEANED CONTENT:
-========================================================================================================================
-Part 2—Arrival, presence and departure of persons
-Division 14—Recovery of costs from certain persons
-262 Liability to the Commonwealth for the cost of keeping, maintaining and removing certain persons (1) A person who: (a) is, or has been, detained under section 189; and (b) was on board a vessel (not being an aircraft) when it was used in connection with the commission of an offence against this Act or against a prescribed law in force in the Commonwealth or in a State or Territory, being a law relating to the control of fishing; and (ba) is convicted of the offence; and the master, owner, agent and charterer of the vessel on which the person travelled to Australia, are, jointly and severally, liable to pay the Commonwealth: (c) the amount applicable to the person under subsection (2) for the cost of keeping and maintaining the person while the person is in immigration detention; and (d) the cost of transporting the person, and a person holding the person, from the vessel to the place of immigration detention; and (e) the cost of transporting the person, and a person holding the person, between places of immigration detention; and (f) if the person is returned to the vessel or another vessel—the cost of transporting the person, and a person holding the person, from the place of immigration detention to the vessel or that other vessel; and (g) if the person is, or is to be, removed from Australia at the expense of the Commonwealth—the cost of that removal (including the cost of transporting a person holding the person).
-========================================================================================================================
-
-========================================================================================================================
-PAGE 20 - CLEANED CONTENT:
-========================================================================================================================
-(2) The Minister may, by legislative instrument, determine a daily
-amount for the keeping and maintaining of a person in immigration
-detention at a specified place in a specified period.
-(3) An amount determined under subsection (2) is to be no more than
-the cost to the Commonwealth of detaining a person at that place in
-that period.
-(4) To avoid doubt, the liability to pay the Commonwealth an amount
-under subsection (1) may be enforced:
-(a) at the time the person is convicted of an offence mentioned in
-paragraph (1)(b); or
-(b) after the person has served the whole or a part of any
-sentence imposed upon the person because of his or her
-conviction of an offence mentioned in paragraph (1)(b).
-263 Secretary or Australian Border Force Commissioner able to issue notice of debt If: (a) a person is liable to pay to the Commonwealth an amount under section 262; and (b) the Secretary or Australian Border Force Commissioner gives written notice to the person giving particulars of the liability and stating that the Secretary or Australian Border Force Commissioner requires payment of a specified amount not exceeding that amount; the specified amount is a debt recoverable by the Commonwealth from the person: (c) in a court of competent jurisdiction; or (d) by garnishee notice under section 264.
-264 Garnishee notice (1) If an amount (debt) is a debt recoverable from a person (debtor) by the Commonwealth under section 263 or 265, the Secretary or Australian Border Force Commissioner may by written notice given to another person:
-========================================================================================================================
-
-========================================================================================================================
-PAGE 21 - CLEANED CONTENT:
-========================================================================================================================
-(a) from whom any money is due or accruing, or may become
-due, to the debtor; or
-(b) who holds, or may later hold, money for or on account of the
-debtor; or
-(c) who holds, or may later hold, money on account of some
-other person for payment to the debtor; or
-(d) who has authority from some other person to pay money to
-the debtor;
-require the person to whom the notice is given to pay to the
-Commonwealth:
-(e) an amount specified in the notice, not exceeding the debt or
-the amount of the relevant money; or
-(f) such amount as is specified in the notice out of each payment
-that the person becomes liable from time to time to make to
-the debtor until that debt is paid.
-(2) The time for making a payment in compliance with a notice under
-subsection (1) is such time as is specified in it, not being a time
-before:
-(a) the relevant money becomes due or is held; or
-(b) the end of the period of 14 days after the notice is given.
-(3) If the debtor is in Australia when the Secretary or Australian
-Border Force Commissioner gives the notice, the Secretary or
-Australian Border Force Commissioner must give a copy of the
-notice to the debtor.
-(4) A person who makes a payment to the Commonwealth in
-compliance with the notice is taken to have made the payment
-under the authority of the person who owes the debt to the
-Commonwealth and of any other person concerned.
-(5) If, after the notice is given to a person, an amount is paid by
-another person in reduction or satisfaction of the debt, the
-Secretary or Australian Border Force Commissioner must notify
-the person given the notice accordingly, and the amount specified
-in the notice is taken to be reduced by the amount paid.
-========================================================================================================================
-
-========================================================================================================================
-PAGE 22 - CLEANED CONTENT:
-========================================================================================================================
-(6) If money is not due, or repayable, to a person on demand unless a
-condition is fulfilled, the money is taken, for the purposes of this
-section, to be due or repayable on demand, even though the
-condition has not been fulfilled.
-265 Debt from failure to comply with garnishee notice (1) If a person (garnishee debtor): (a) is given a notice under section 264 in respect of a debt; and (b) fails to comply with the notice to the extent that the garnishee debtor is capable of complying with it; then the amount of the debt outstanding is recoverable from the garnishee debtor by the Commonwealth by: (c) legal proceedings in a court of competent jurisdiction; or (d) a garnishee notice under section 264. (2) The reference in subsection (1) to the amount of the debt outstanding is a reference to whichever is the lesser of: (a) as much of the amount required by the notice under section 264 to be paid by the garnishee debtor as the garnishee debtor was able to pay; or (b) as much of the debt due at the time when the notice was given as remains due from time to time. (3) If the Commonwealth recovers: (a) the whole or a part of the debt due by the garnishee debtor; or (b) the whole or a part of the debt due by the debtor (within the meaning of section 264); then: (c) both debts are reduced by the amount that the Commonwealth has so recovered; and (d) the amount specified in the notice under section 264 is taken to be reduced by the amount so recovered.
-========================================================================================================================
-
-========================================================================================================================
-PAGE 23 - CLEANED CONTENT:
-========================================================================================================================
-266 Future debts For the purposes of this Division, an amount is a future debt in relation to a person if the Secretary or Australian Border Force Commissioner believes on reasonable grounds that the person will, under section 262, become liable to pay the amount to the Commonwealth.
-267 Secretary or Australian Border Force Commissioner may freeze amounts to secure future debts (1) If there is a future debt in relation to a person (future debtor), the Secretary or Australian Border Force Commissioner may by written notice given to another person: (a) from whom any money is due or accruing, or may become due, to the future debtor; or (b) who holds, or may later hold, money for or on account of the future debtor; or (c) who holds, or may later hold, money on account of some other person for payment to the future debtor; or (d) who has authority from some other person to pay money to the future debtor; require the other person to retain for the period, not exceeding 28
-days, specified in that notice:
-(e) an amount specified in the notice, not exceeding the future
-debt or the amount of the relevant money; or
-(f) such amount as is specified in the notice out of each payment
-that the person becomes liable from time to time to make to
-the future debtor until that debt is paid.
-(2) If the future debtor is in Australia when the Secretary or Australian
-Border Force Commissioner gives the notice, the Secretary or
-Australian Border Force Commissioner must give a copy of the
-notice to the future debtor.
-(3) If, after the notice is given to a person, an amount is paid by
-another person in respect of the future debt, the Secretary or
-Australian Border Force Commissioner must notify the person
-========================================================================================================================
-
-========================================================================================================================
-PAGE 24 - CLEANED CONTENT:
-========================================================================================================================
-given the notice accordingly, and the amount specified in the
-notice is taken to be reduced by the amount paid.
-(4) If money is not due, or repayable, to a person on demand unless a
-condition is fulfilled, the money is taken, for the purposes of this
-section, to be due or repayable on demand even though the
-condition has not been fulfilled.
-268 Application of Division to the Crown (1) This Division binds the Crown in right of the Commonwealth, of each of the States, of the Australian Capital Territory and of the Northern Territory. (2) For the purposes of this Division, a notice may be given to the Commonwealth, a State or Territory by giving it to a person employed by the Commonwealth, State or Territory, respectively, being a person who, under a law of the Commonwealth, State or Territory, respectively, has a duty of disbursing public money, and a notice so given is taken, for the purposes of this section, to have been given to the Commonwealth, the State or the Territory, as the case may be.
-========================================================================================================================
-
-========================================================================================================================
-PAGE 25 - CLEANED CONTENT:
-========================================================================================================================
-Division 14A—Monitoring compliance with student visa conditions
-Subdivision A—Preliminary
-268AA Definitions In this Division: attendance notice means a notice given under section 268BD. document includes copy of a document. education provider means an institution or other body or person in Australia that provides, has provided or seeks to provide courses of education or of training to persons who hold student visas. monitoring warrant means a warrant issued under section 268CE or 268CZD. occupier: (a) in relation to premises comprising a vehicle or vessel— means the person apparently in charge of the vehicle or vessel; and (b) in any case—includes a person who apparently represents the occupier. premises means: (a) an area of land or any other place, whether or not it is enclosed or built on; or (b) a building or other structure; or (c) a vehicle or vessel; and includes a part of any such premises. production notice means a notice given under section 268BA.
 ========================================================================================================================
 

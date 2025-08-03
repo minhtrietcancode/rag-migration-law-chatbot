@@ -2,8 +2,13 @@ import PyPDF2
 import re
 import contextlib
 
-START_INDEX_PAGES = 3
-END_INDEX_PAGES = 25
+# start and end pages of volume 1
+START_INDEX_PAGES_VOLUME_1 = 3
+END_INDEX_PAGES_VOLUME_1 = 25
+
+# start and end pages of volume 2
+START_INDEX_PAGES_VOLUME_2 = 3
+END_INDEX_PAGES_VOLUME_2 = 18
 
 def fix_subdivision_splits(text):
     """
@@ -115,18 +120,20 @@ def extract_and_clean_pdf_page(page_number, pdf_path):
         raw = reader.pages[page_number - 1].extract_text()
         return clean_extracted_text(raw)
 
-def extract_pdf_indexes(pdf_path, output_txt_path):
+def extract_pdf_indexes(pdf_path, output_txt_path, start_page, end_page):
     """
     Extracts indexes from PDF pages and writes to output file.
     
     Args:
         pdf_path (str): Path to the input PDF file
         output_txt_path (str): Path to the output text file
+        start_page (int): Starting page number for extraction
+        end_page (int): Ending page number for extraction
     """
     with open(output_txt_path, 'w', encoding='utf-8') as logfile, \
          contextlib.redirect_stdout(logfile):
 
-        for i in range(START_INDEX_PAGES, END_INDEX_PAGES + 1):
+        for i in range(start_page, end_page + 1):
             print("=" * 120)
             print(f"PAGE {i} - CLEANED CONTENT:")
             print("=" * 120)
@@ -140,7 +147,13 @@ def extract_pdf_indexes(pdf_path, output_txt_path):
 
 if __name__ == "__main__":
     # Process Volume 1
-    extract_pdf_indexes('Migration Act 1958 – Volume 1.pdf', 'extracted_index_pages/Volume 1/volume_1_indexes.txt')
+    # extract_pdf_indexes('Migration Act 1958 – Volume 1.pdf', 
+    #                    'extracted_index_pages/Volume 1/volume_1_indexes.txt',
+    #                    START_INDEX_PAGES_VOLUME_1, 
+    #                    END_INDEX_PAGES_VOLUME_1)
     
     # Process Volume 2
-    extract_pdf_indexes('Migration Act 1958 – Volume 2.pdf', 'extracted_index_pages/Volume 2/volume_2_indexes.txt')
+    extract_pdf_indexes('Migration Act 1958 – Volume 2.pdf', 
+                       'extracted_index_pages/Volume 2/volume_2_indexes.txt',
+                       START_INDEX_PAGES_VOLUME_2, 
+                       END_INDEX_PAGES_VOLUME_2)
