@@ -101,7 +101,7 @@ def clean_extracted_text(text):
     text = fix_broken_lines(text)
     return text
 
-def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Volume 1.pdf'):
+def extract_and_clean_pdf_page(page_number, pdf_path):
     """
     Extracts and cleans text from a specific PDF page.
     """
@@ -109,16 +109,21 @@ def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Vol
         reader = PyPDF2.PdfReader(f)
         total = len(reader.pages)
         if page_number > total:
-            print(f"PDF only has {total} pages.")     # debug, now goes to our file
+            print(f"PDF only has {total} pages.")
             return None
 
         raw = reader.pages[page_number - 1].extract_text()
         return clean_extracted_text(raw)
 
-if __name__ == "__main__":
-    # All prints below (including those in extract_and_clean_pdf_page)
-    # go into indexes.txt instead of the console.
-    with open('extracted_index_pages/Volume 1/volume_1_indexes.txt', 'w', encoding='utf-8') as logfile, \
+def extract_pdf_indexes(pdf_path, output_txt_path):
+    """
+    Extracts indexes from PDF pages and writes to output file.
+    
+    Args:
+        pdf_path (str): Path to the input PDF file
+        output_txt_path (str): Path to the output text file
+    """
+    with open(output_txt_path, 'w', encoding='utf-8') as logfile, \
          contextlib.redirect_stdout(logfile):
 
         for i in range(START_INDEX_PAGES, END_INDEX_PAGES + 1):
@@ -126,9 +131,16 @@ if __name__ == "__main__":
             print(f"PAGE {i} - CLEANED CONTENT:")
             print("=" * 120)
 
-            content = extract_and_clean_pdf_page(i)
+            content = extract_and_clean_pdf_page(i, pdf_path)
             if content:
                 print(content)
 
             print("=" * 120)
             print()
+
+if __name__ == "__main__":
+    # Process Volume 1
+    extract_pdf_indexes('Migration Act 1958 – Volume 1.pdf', 'extracted_index_pages/Volume 1/volume_1_indexes.txt')
+    
+    # Process Volume 2
+    extract_pdf_indexes('Migration Act 1958 – Volume 2.pdf', 'extracted_index_pages/Volume 2/volume_2_indexes.txt')
