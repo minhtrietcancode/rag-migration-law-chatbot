@@ -61,8 +61,7 @@ Division 2—Power to obtain information and documents about unlawful non-citize
 25 Copies of documents 64
 26 Minister may retain documents 64
 27 Division binds the Crown 65
-Division 3—Visas for non-citizens 66
-Subdivision A—General provisions about visas 66
+Division 3—Visas for non-citizens 66 Subdivision A—General provisions about visas 66
 28 Interpretation 66
 29 Visas 66
 30 Kinds of visas 67
@@ -89,8 +88,7 @@ PAGE 5 - CLEANED CONTENT:
 40 Circumstances for granting visas 83
 41 Conditions on visas 83
 42 Visa essential for travel 85
-43 Visa holders must usually enter at a port 87
-Subdivision AA—Applications for visas 88
+43 Visa holders must usually enter at a port 87 Subdivision AA—Applications for visas 88
 44 Extent of following Subdivisions 88
 45 Application for visa 89
 45AA Application for one visa taken to be an application for a different visa 89
@@ -113,8 +111,7 @@ Subdivision AA—Applications for visas 88
 PAGE 6 - CLEANED CONTENT:
 ========================================================================================================================
 50 Only new information to be considered in later protection visa applications 114
-51 Order of consideration 115
-Subdivision AB—Code of procedure for dealing fairly, efficiently and quickly with visa applications 115
+51 Order of consideration 115 Subdivision AB—Code of procedure for dealing fairly, efficiently and quickly with visa applications 115
 51A Exhaustive statement of natural justice hearing rule 115
 52 Communication with Minister 115
 54 Minister must have regard to all information in application 116
@@ -127,14 +124,12 @@ Subdivision AB—Code of procedure for dealing fairly, efficiently and quickly w
 61 Prescribed periods 119
 62 Failure to receive information does not require action 120
 63 When decision about visa may be made 120
-64 Notice that visa application charge is payable 121
-Subdivision AC—Grant of visas 122
+64 Notice that visa application charge is payable 121 Subdivision AC—Grant of visas 122
 65 Decision to grant or refuse to grant visa 122
 66 Notification of decision 123
 67 Grant and refusal of visa—how and when 124
 68 When visa is in effect 124
-69 Effect of compliance or non-compliance 125
-Subdivision AF—Bridging visas 125
+69 Effect of compliance or non-compliance 125 Subdivision AF—Bridging visas 125
 72 Interpretation 125
 73 Bridging visas 127
 74 Further applications for bridging visa 127
@@ -156,8 +151,7 @@ PAGE 7 - CLEANED CONTENT:
 76DAC Offence relating to requirement not to contact victim of offence etc 141
 76DA Mandatory 1 year imprisonment for offences 142
 76E Rules of natural justice do not apply to decision to grant certain bridging visas 142
-76F Powers of officers etc. 143
-Subdivision AG—Other provisions about visas 146
+76F Powers of officers etc. 143 Subdivision AG—Other provisions about visas 146
 77 Visas held during visa period 146
 78 Children born in Australia 146
 79 Effect on visa of leaving Australia 147
@@ -187,8 +181,7 @@ Subdivision AI—Safe third countries 154
 91D Safe third countries 155
 91E Non-citizens to which this Subdivision applies unable to make valid applications for certain visas 156
 91F Minister may determine that section 91E does not apply to non-citizen 157
-91G Applications made before regulations take effect 158
-Subdivision AJ—Temporary safe haven visas 159
+91G Applications made before regulations take effect 158 Subdivision AJ—Temporary safe haven visas 159
 91H Reason for this Subdivision 159
 91J Non-citizens to whom this Subdivision applies 160
 91K Non-citizens to whom this Subdivision applies are unable to make valid applications for certain visas 160
@@ -205,8 +198,7 @@ Subdivision B—The “points” system 167
 94 Initial application of “points” system 167
 95 Applications in pool 168
 95A Extension of period in pool 169
-96 Minister may set pool mark and pass mark 170
-Subdivision C—Visas based on incorrect information may be cancelled 170
+96 Minister may set pool mark and pass mark 170 Subdivision C—Visas based on incorrect information may be cancelled 170
 97 Interpretation 170
 97A Exhaustive statement of natural justice hearing rule 171
 ========================================================================================================================
@@ -232,12 +224,12 @@ PAGE 9 - CLEANED CONTENT:
 112 Action because of one non-compliance does not prevent action because of other non-compliance 177
 113 No cancellation if full disclosure 177
 114 Effect of setting aside decision to cancel visa 178
-115 Application of Subdivision 178
-Subdivision D—Visas may be cancelled on certain grounds 179
+115 Application of Subdivision 178 Subdivision D—Visas may be cancelled on certain grounds 179
 116 Power to cancel 179
 117 When visa may be cancelled 182
 118 Cancellation powers do not limit or affect each other 182
-Subdivision E—Procedure for cancelling visas under Subdivision D in or outside Australia 183
+Subdivision E—Procedure for cancelling visas under Subdivision
+D in or outside Australia 183
 118A Exhaustive statement of natural justice hearing rule 183
 119 Notice of proposed cancellation 183
 120 Certain information must be given to visa holder 184
@@ -252,16 +244,14 @@ PAGE 10 - CLEANED CONTENT:
 124 When decision about visa cancellation may be made 186
 125 Application of Subdivision to non-citizen in immigration clearance 187
 126 Application of Subdivision to non-citizen in questioning detention 187
-127 Notification of decision 187
-Subdivision F—Other procedure for cancelling visas under Subdivision D outside Australia 188
+127 Notification of decision 187 Subdivision F—Other procedure for cancelling visas under Subdivision D outside Australia 188
 127A Exhaustive statement of natural justice hearing rule 188
 128 Cancellation of visas of people outside Australia 188
 129 Notice of cancellation 189
 130 Prescribed periods 189
 131 Decision about revocation of cancellation 190
 132 Notification of decision about revocation of cancellation 190
-133 Effect of revocation of cancellation 190
-Subdivision FA—Additional personal powers for Minister to cancel visas on section 109 or 116 grounds 191
+133 Effect of revocation of cancellation 190 Subdivision FA—Additional personal powers for Minister to cancel visas on section 109 or 116 grounds 191
 133A Minister’s personal powers to cancel visas on section 109 grounds 191
 133B Other provisions relating to the exercise of powers in section 133A 193
 133C Minister’s personal powers to cancel visas on section 116 grounds 194
@@ -291,22 +281,17 @@ Subdivision GB—Automatic cancellation of student visas 209
 137L Dealing with the application 210
 137M Notification of decision 211
 137N Minister may revoke cancellation on his or her own initiative 211
-137P Effect of revocation 212
-Subdivision GC—Cancellation of regional sponsored employment visas 213
+137P Effect of revocation 212 Subdivision GC—Cancellation of regional sponsored employment visas 213
 137Q Cancellation of regional sponsored employment visas 213
 137R Representations concerning cancellation etc 214
 137S Notice of cancellation 214
-137T Cancellation of other visas 215
-Subdivision H—General provisions on cancellation 215
+137T Cancellation of other visas 215 Subdivision H—General provisions on cancellation 215
 138 Cancellation and revocation of cancellation of visas—how and when 215
 139 Visas held by 2 or more 216
-140 Cancellation of visa results in other cancellation 216 
-Division 3A—Sponsorship 218
-Subdivision A—Preliminary 218
+140 Cancellation of visa results in other cancellation 216 Division 3A—Sponsorship 218 Subdivision A—Preliminary 218
 140A Division applies to prescribed kinds of visa 218
 140AA Purposes of this Division 218
-140AB Ministerial Advisory Council on Skilled Migration 219
-Subdivision B—Approval of sponsors 220
+140AB Ministerial Advisory Council on Skilled Migration 219 Subdivision B—Approval of sponsors 220
 140E Minister to approve work and family sponsors 220
 140F Approval process 220
 140G Terms of approval 221
@@ -316,13 +301,13 @@ Subdivision B—Approval of sponsors 220
 ========================================================================================================================
 PAGE 12 - CLEANED CONTENT:
 ========================================================================================================================
-Subdivision BA—Approval of nominations made by approved work sponsors 222
+Subdivision BA—Approval of nominations made by approved
+work sponsors 222
 140GB Minister to approve nominations 222
 140GBA Labour market testing—condition 223
 140GBB Labour market testing—major disaster exemption 226
 140GBC Labour market testing—skill and occupational exemptions 227
-140GC Work agreements 229
-Subdivision C—Sponsorship obligations 229
+140GC Work agreements 229 Subdivision C—Sponsorship obligations 229
 140H Sponsorship obligations—general 229
 140HA Sponsorship obligations—Minister’s responsibility 230
 140J Amounts payable in relation to sponsorship obligations 233
@@ -335,15 +320,13 @@ Subdivision D—Enforcement 233
 140P Process for waiving a bar 238
 140Q Civil penalty—failing to satisfy sponsorship obligations 239
 140RA Enforceable undertakings 239
-140RB Compliance notices 241
-Subdivision E—Liability and recovery of amounts 243
+140RB Compliance notices 241 Subdivision E—Liability and recovery of amounts 243
 140S Liability to pay amounts 243
 140SA Interest up to judgment 243
 140SB Interest on judgment 244
 140SC Certain plaintiffs may choose small claims procedure in magistrates courts 244
 140T Notice regarding amount of debt or other amount 245
-140U Liability is in addition to any other liability 245
-Subdivision F—Inspector powers 246
+140U Liability is in addition to any other liability 245 Subdivision F—Inspector powers 246
 140UA Exercise of inspector powers 246
 140V Inspectors 246
 ========================================================================================================================
@@ -363,20 +346,19 @@ PAGE 13 - CLEANED CONTENT:
 140XH Certain records and documents are inadmissible 252
 140XI Power to keep records or documents 253
 140XJ Disclosure of information by the Secretary or Australian Border Force Commissioner 253
-Subdivision G—Application of Division to partnerships and unincorporated associations 254
+Subdivision G—Application of Division to partnerships and
+unincorporated associations 254
 140ZB Partnerships—sponsorship rights and obligations 254
 140ZC Partnerships—offences and civil penalties 254
 140ZD Partnership ceases to exist 255
 140ZE Unincorporated associations—sponsorship rights and obligations 256
 140ZF Unincorporated associations—offences and civil penalties 256
-140ZG Unincorporated association ceases to exist 257
-Subdivision H—Miscellaneous 258
+140ZG Unincorporated association ceases to exist 257 Subdivision H—Miscellaneous 258
 140ZH Disclosure of personal information by Minister 258
 140ZI Disclosure of personal information to Minister 261
 140ZJ Unclaimed money 262
 140ZK Other regulation making powers not limited 262
-140ZL Division binds the Crown 262 
-Division 3B—Nominations 263
+140ZL Division binds the Crown 262 Division 3B—Nominations 263
 140ZM Nomination training contribution charge 263
 140ZN Regulations about nomination training contribution charge 263
 140ZO Recovery of nomination training contribution charge and late payment penalty 264
@@ -387,16 +369,13 @@ PAGE 14 - CLEANED CONTENT:
 ========================================================================================================================
 140ZP Notional application of nomination training contribution charge in relation to nominations by the Commonwealth 264
 140ZQ Division binds the Crown 265
-Division 4—Criminal justice visitors 266
-Subdivision A—Preliminary 266
+Division 4—Criminal justice visitors 266 Subdivision A—Preliminary 266
 141 Object of Division 266
 142 Interpretation 266
 143 Delegation by Minister 267
-144 Authorised officials 267
-Subdivision B—Criminal justice certificates for entry 268
+144 Authorised officials 267 Subdivision B—Criminal justice certificates for entry 268
 145 Commonwealth criminal justice entry certificate 268
-146 State criminal justice entry certificate 268
-Subdivision C—Criminal justice certificates etc. staying removal or deportation 269
+146 State criminal justice entry certificate 268 Subdivision C—Criminal justice certificates etc. staying removal or deportation 269
 147 Commonwealth criminal justice stay certificate 269
 148 State criminal justice stay certificate 270
 149 Application for visa not to prevent certificate 271
@@ -412,8 +391,7 @@ Subdivision D—Criminal justice visas 273
 158 Criteria for criminal justice visas 273
 159 Procedure for obtaining criminal justice visa 274
 160 Conditions of criminal justice visa 274
-161 Effect of criminal justice visas 274
-Subdivision E—Cancellation etc. of criminal justice certificates and criminal justice visas 275
+161 Effect of criminal justice visas 274 Subdivision E—Cancellation etc. of criminal justice certificates and criminal justice visas 275
 162 Criminal justice certificates to be cancelled 275
 163 Stay warrant to be cancelled 276
 ========================================================================================================================
@@ -421,8 +399,7 @@ Subdivision E—Cancellation etc. of criminal justice certificates and criminal 
 ========================================================================================================================
 PAGE 15 - CLEANED CONTENT:
 ========================================================================================================================
-164 Effect of cancellation etc. on criminal justice visa 277 
-Division 4A—Enforcement visas 278
+164 Effect of cancellation etc. on criminal justice visa 277 Division 4A—Enforcement visas 278
 164A Definitions 278
 164B Grant of enforcement visas (fisheries matters) 278
 164BA Grant of enforcement visas (environment matters) 280
@@ -459,8 +436,7 @@ Division 6—Certain non-citizens to be kept in immigration detention 296
 ========================================================================================================================
 PAGE 16 - CLEANED CONTENT:
 ========================================================================================================================
-Division 7—Detention of unlawful non-citizens 303
-Subdivision A—General provisions 303
+Division 7—Detention of unlawful non-citizens 303 Subdivision A—General provisions 303
 188 Lawful non-citizen to give evidence of being so 303
 189 Detention of unlawful non-citizens 303
 190 Non-compliance with immigration clearance or requirement to provide personal identifier 304
@@ -471,8 +447,7 @@ Subdivision A—General provisions 303
 195 Detainee may apply for visa 309
 195A Minister may grant detainee visa (whether or not on application) 310
 196 Duration of detention 311
-197 Effect of escape from immigration detention 312
-Subdivision B—Residence determinations 313
+197 Effect of escape from immigration detention 312 Subdivision B—Residence determinations 313
 197AA Persons to whom Subdivision applies 313
 197AB Minister may determine that person is to reside at a specified place rather than being held in detention centre etc 313
 197AC Effect of residence determination 313
@@ -483,8 +458,7 @@ Subdivision B—Residence determinations 313
 Division 7A—Offences relating to immigration detention 318
 197A Detainees must not escape from detention 318
 197B Manufacture, possession etc. of weapons by detainees 318
-Division 8—Removal of unlawful non-citizens etc. 319
-Subdivision A—Removal 319
+Division 8—Removal of unlawful non-citizens etc. 319 Subdivision A—Removal 319
 197C Relevance of Australia’s non-refoulement obligations to removal of unlawful non-citizens under section 198 319
 ========================================================================================================================
 
@@ -507,11 +481,9 @@ Subdivision B—Regional processing 334
 198AHB Power to take action etc. in relation to third country reception arrangement 344
 198AHC Relevance of Ministerial intervention powers to transfer of unauthorised maritime arrivals 345
 198AI Ministerial report 348
-198AJ Reports about unauthorised maritime arrivals 349
-Subdivision C—Transitory persons etc 350
+198AJ Reports about unauthorised maritime arrivals 349 Subdivision C—Transitory persons etc 350
 198B Power to bring transitory persons to Australia 350
-199 Dependants of removed non-citizens 350
-Subdivision D—Duty to cooperate in relation to removal and removal concern countries 351
+199 Dependants of removed non-citizens 350 Subdivision D—Duty to cooperate in relation to removal and removal concern countries 351
 199A Reason for Subdivision 351
 199B Removal pathway non-citizens—protection findings etc 351
 199C Minister may give removal pathway directions 352
@@ -559,8 +531,7 @@ Division 11—Duties of masters in relation to crews 383
 226 Production of identity documents by persons on board resources installation 383
 227 Production of identity documents by persons on board sea installation 384
 228 Master to report absences 385
-Division 12—Offences etc. in relation to entry into, and remaining in, Australia 387
-Subdivision A—People smuggling and related offences 387
+Division 12—Offences etc. in relation to entry into, and remaining in, Australia 387 Subdivision A—People smuggling and related offences 387
 228A Application of Subdivision 387
 228B Circumstances in which a non-citizen has no lawful right to come to Australia 387
 229 Carriage of non-citizens to Australia without documentation 387
@@ -586,8 +557,7 @@ Subdivision A—People smuggling and related offences 387
 ========================================================================================================================
 PAGE 20 - CLEANED CONTENT:
 ========================================================================================================================
-236F Evidentiary certificates—procedural matters 403
-Subdivision B—Offences relating to abuse of laws allowing spouses etc. of Australian citizens or of permanent residents to become permanent residents 404
+236F Evidentiary certificates—procedural matters 403 Subdivision B—Offences relating to abuse of laws allowing spouses etc. of Australian citizens or of permanent residents to become permanent residents 404
 237 Reason for Subdivision 404
 238 Interpretation 404
 239 Application of Subdivision 405
@@ -635,8 +605,7 @@ sponsored visas 433
 245AV Contravening civil penalty provisions 439
 245AW Geographical scope of offence and civil penalty provisions 439
 245AX Treatment of partnerships 443
-245AY Treatment of unincorporated associations 443
-Subdivision E—Prohibited employers 444
+245AY Treatment of unincorporated associations 443 Subdivision E—Prohibited employers 444
 245AYAA Objects of this Subdivision 444
 245AYA Overview 445
 245AYB Definitions 445
@@ -657,8 +626,7 @@ PAGE 22 - CLEANED CONTENT:
 245AYL Prohibition on allowing additional non-citizens to begin work 459
 245AYM Publishing information about prohibited employers 460
 245AYN Former prohibited employers to give certain information 461
-245AYO Contravening civil penalty provisions 462
-Subdivision F—Compliance notices for work-related breaches 462
+245AYO Contravening civil penalty provisions 462 Subdivision F—Compliance notices for work-related breaches 462
 245AYP Compliance notices 462 Division 12A—Chasing, boarding etc. aircraft 465
 245A Definitions 465
 245E Identifying an aircraft and requesting it to land for boarding 465
@@ -713,8 +681,7 @@ PAGE 24 - CLEANED CONTENT:
 258G Authorised officer may get help to carry out identification tests 510
 259 Detention of vessel for purpose of search 510
 260 Detention of vessel pending recovery of penalty 511
-261 Disposal of dilapidated vessels etc 512 Division 13AA—Identification of immigration detainees 514
-Subdivision A—Provision of personal identifiers 514
+261 Disposal of dilapidated vessels etc 512 Division 13AA—Identification of immigration detainees 514 Subdivision A—Provision of personal identifiers 514
 261AA Immigration detainees must provide personal identifiers 514
 261AB Authorised officers must require and carry out identification tests 515
 261AC Information to be provided before carrying out identification tests 515
@@ -726,8 +693,7 @@ Subdivision B—How identification tests are carried out 516
 261AH Identification tests to be carried out by authorised officer of same sex as non-citizen 519
 261AI Independent person to be present 519
 261AJ Recording of identification tests 519
-261AK Retesting 520
-Subdivision C—Obligations relating to video recordings of identification tests 522
+261AK Retesting 520 Subdivision C—Obligations relating to video recordings of identification tests 522
 261AKA Definitions 522
 261AKB Accessing video recordings 523
 261AKC Authorising access to video recordings 523
@@ -742,22 +708,17 @@ PAGE 25 - CLEANED CONTENT:
 261AKG Meanings of unauthorised modification and unauthorised impairment etc 526
 261AKH Destroying video recordings 526 Division 13AB—Identification of minors and incapable persons 528
 261AL Minors 528
-261AM Incapable persons 528 Division 13A—Automatic forfeiture of things used in certain offences 530
-Subdivision A—Automatic forfeiture 530
-261A Forfeiture of things used in certain offences 530
-Subdivision B—Seizure 531
-261B Seizure of things used in certain offences 531
-Subdivision C—Dealing with things seized as automatically forfeited 531
+261AM Incapable persons 528 Division 13A—Automatic forfeiture of things used in certain offences 530 Subdivision A—Automatic forfeiture 530
+261A Forfeiture of things used in certain offences 530 Subdivision B—Seizure 531
+261B Seizure of things used in certain offences 531 Subdivision C—Dealing with things seized as automatically forfeited 531
 261C Application of this Subdivision 531
 261D Notice of seizure 531
 261E Dealing with thing before it is condemned 532
 261F Thing condemned if not claimed in time 533
 261G Dealing with claim for thing 533
 261H What happens if thing is claimed 534
-261I Dealing with thing after it is condemned 536
-Subdivision D—Operation of Division 536
-261J Operation of Division 536
-Subdivision E—Minister’s order that a thing not be condemned as forfeited 536
+261I Dealing with thing after it is condemned 536 Subdivision D—Operation of Division 536
+261J Operation of Division 536 Subdivision E—Minister’s order that a thing not be condemned as forfeited 536
 261K Minister’s order that a thing not be condemned 536
 ========================================================================================================================
 
