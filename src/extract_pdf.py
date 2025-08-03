@@ -4,6 +4,22 @@ import re
 START_INDEX_PAGES = 3
 END_INDEX_PAGES = 25
 
+def fix_subdivision_splits(text):
+    """
+    Fixes subdivision entries that got concatenated with previous lines.
+    
+    :param text: Text with subdivision concatenation issues
+    :return: Text with subdivisions properly separated
+    """
+    # Pattern to match "Subdivision" followed by code and dash
+    # Examples: "Subdivision FA—", "Subdivision AB—", "Subdivision AC—"
+    subdivision_pattern = r'(\s+)(Subdivision\s+[A-Z]+—)'
+    
+    # Replace with newline + subdivision
+    fixed_text = re.sub(subdivision_pattern, r'\n\2', text)
+    
+    return fixed_text
+
 def fix_broken_lines(text):
     """
     Fixes broken lines in the table of contents and removes dot leaders.
@@ -98,6 +114,9 @@ def clean_extracted_text(text):
     
     # Fix broken lines and remove dot leaders
     text = fix_broken_lines(text)
+
+    # Fix subdivision splits first
+    text = fix_subdivision_splits(text)
     
     return text
 
