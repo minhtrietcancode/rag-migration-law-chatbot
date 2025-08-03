@@ -147,13 +147,13 @@ def extract_pdf_indexes(pdf_path, output_txt_path, start_page, end_page):
 
 if __name__ == "__main__":
     # Process Volume 1
-    # extract_pdf_indexes('Migration Act 1958 – Volume 1.pdf', 
-    #                    'extracted_index_pages/Volume 1/volume_1_indexes.txt',
-    #                    START_INDEX_PAGES_VOLUME_1, 
-    #                    END_INDEX_PAGES_VOLUME_1)
+    extract_pdf_indexes('Migration Act 1958/Migration Act 1958 – Volume 1.pdf', 
+                       'extracted_index_pages/Volume 1/volume_1_indexes.txt',
+                       START_INDEX_PAGES_VOLUME_1, 
+                       END_INDEX_PAGES_VOLUME_1)
     
     # Process Volume 2
-    extract_pdf_indexes('Migration Act 1958 – Volume 2.pdf', 
+    extract_pdf_indexes('Migration Act 1958/Migration Act 1958 – Volume 2.pdf', 
                        'extracted_index_pages/Volume 2/volume_2_indexes.txt',
                        START_INDEX_PAGES_VOLUME_2, 
                        END_INDEX_PAGES_VOLUME_2)
