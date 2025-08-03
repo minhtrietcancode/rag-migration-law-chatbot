@@ -237,8 +237,7 @@ Subdivision D—Visas may be cancelled on certain grounds 179
 116 Power to cancel 179
 117 When visa may be cancelled 182
 118 Cancellation powers do not limit or affect each other 182
-Subdivision E—Procedure for cancelling visas under Subdivision
-D in or outside Australia 183
+Subdivision E—Procedure for cancelling visas under Subdivision D in or outside Australia 183
 118A Exhaustive statement of natural justice hearing rule 183
 119 Notice of proposed cancellation 183
 120 Certain information must be given to visa holder 184
@@ -301,7 +300,8 @@ Subdivision GC—Cancellation of regional sponsored employment visas 213
 Subdivision H—General provisions on cancellation 215
 138 Cancellation and revocation of cancellation of visas—how and when 215
 139 Visas held by 2 or more 216
-140 Cancellation of visa results in other cancellation 216 Division 3A—Sponsorship 218
+140 Cancellation of visa results in other cancellation 216 
+Division 3A—Sponsorship 218
 Subdivision A—Preliminary 218
 140A Division applies to prescribed kinds of visa 218
 140AA Purposes of this Division 218
@@ -316,8 +316,7 @@ Subdivision B—Approval of sponsors 220
 ========================================================================================================================
 PAGE 12 - CLEANED CONTENT:
 ========================================================================================================================
-Subdivision BA—Approval of nominations made by approved
-work sponsors 222
+Subdivision BA—Approval of nominations made by approved work sponsors 222
 140GB Minister to approve nominations 222
 140GBA Labour market testing—condition 223
 140GBB Labour market testing—major disaster exemption 226
@@ -364,8 +363,7 @@ PAGE 13 - CLEANED CONTENT:
 140XH Certain records and documents are inadmissible 252
 140XI Power to keep records or documents 253
 140XJ Disclosure of information by the Secretary or Australian Border Force Commissioner 253
-Subdivision G—Application of Division to partnerships and
-unincorporated associations 254
+Subdivision G—Application of Division to partnerships and unincorporated associations 254
 140ZB Partnerships—sponsorship rights and obligations 254
 140ZC Partnerships—offences and civil penalties 254
 140ZD Partnership ceases to exist 255
@@ -377,7 +375,8 @@ Subdivision H—Miscellaneous 258
 140ZI Disclosure of personal information to Minister 261
 140ZJ Unclaimed money 262
 140ZK Other regulation making powers not limited 262
-140ZL Division binds the Crown 262 Division 3B—Nominations 263
+140ZL Division binds the Crown 262 
+Division 3B—Nominations 263
 140ZM Nomination training contribution charge 263
 140ZN Regulations about nomination training contribution charge 263
 140ZO Recovery of nomination training contribution charge and late payment penalty 264
@@ -422,7 +421,8 @@ Subdivision E—Cancellation etc. of criminal justice certificates and criminal 
 ========================================================================================================================
 PAGE 15 - CLEANED CONTENT:
 ========================================================================================================================
-164 Effect of cancellation etc. on criminal justice visa 277 Division 4A—Enforcement visas 278
+164 Effect of cancellation etc. on criminal justice visa 277 
+Division 4A—Enforcement visas 278
 164A Definitions 278
 164B Grant of enforcement visas (fisheries matters) 278
 164BA Grant of enforcement visas (environment matters) 280
