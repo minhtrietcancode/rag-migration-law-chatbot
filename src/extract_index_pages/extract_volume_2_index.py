@@ -101,7 +101,7 @@ def clean_extracted_text(text):
     text = fix_broken_lines(text)
     return text
 
-def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Volume 1.pdf'):
+def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Volume 2.pdf'):
     """
     Extracts and cleans text from a specific PDF page.
     """
