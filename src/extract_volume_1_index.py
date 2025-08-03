@@ -118,7 +118,7 @@ def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Vol
 if __name__ == "__main__":
     # All prints below (including those in extract_and_clean_pdf_page)
     # go into indexes.txt instead of the console.
-    with open('indexes.txt', 'w', encoding='utf-8') as logfile, \
+    with open('extracted_index_pages\Volume 1\indexes.txt', 'w', encoding='utf-8') as logfile, \
          contextlib.redirect_stdout(logfile):
 
         for i in range(START_INDEX_PAGES, END_INDEX_PAGES + 1):
