@@ -1,115 +1,130 @@
 import PyPDF2
 import re
+import contextlib
 
 START_INDEX_PAGES = 3
 END_INDEX_PAGES = 25
-PDF_PATH = 'Migration Act 1958 – Volume 1.pdf'
-OUTPUT_PATH = 'indexes.txt'
 
 def fix_subdivision_splits(text):
     """
     Fixes subdivision entries that got concatenated with previous lines.
+    Only splits when Subdivision is NOT at the start of a line.
     """
-    subdivision_pattern = r'(\s+)(Subdivision\s+[A-Z]+—)'
-    return re.sub(subdivision_pattern, r'\n\2', text)
+    subdivision_pattern = r'(\S+.*?)(Subdivision\s+[A-Z0-9]+—)'
+    return re.sub(subdivision_pattern, r'\1\n\2', text)
 
 def fix_division_splits(text):
     """
     Fixes division entries that got concatenated with previous lines.
+    Only splits when Division is NOT at the start of a line.
     """
-    division_pattern = r'(\s+)(Division\s+[0-9A-Z]+—)'
-    return re.sub(division_pattern, r'\n\2', text)
+    division_pattern = r'(\S+.*?)(Division\s+[A-Z0-9]+—)'
+    return re.sub(division_pattern, r'\1\n\2', text)
+
+def fix_all_splits(text):
+    """
+    Applies division and subdivision fixes repeatedly until no more changes.
+    """
+    max_iterations = 5
+    for _ in range(max_iterations):
+        prior = text
+        text = fix_division_splits(text)
+        text = fix_subdivision_splits(text)
+        if text == prior:
+            break
+    return text
 
 def fix_broken_lines(text):
     """
     Fixes broken lines in the table of contents and removes dot leaders.
     """
     lines = text.split('\n')
-    fixed_lines = []
+    result = []
     i = 0
 
     while i < len(lines):
-        current_line = lines[i].strip()
-        if not current_line:
+        curr = lines[i].strip()
+        if not curr:
             i += 1
             continue
 
-        if re.match(r'^(\d+[A-Z]*\s+|[A-Z]+\s+|\w+\s+\d+—)', current_line):
-            full_entry = current_line
+        # If it's a TOC entry, stitch following lines
+        if re.match(r'^(\d+[A-Z]*\s+|Part\s+\d+|Division\s+\d+|Subdivision\s+[A-Z]+)', curr):
+            full = curr
             j = i + 1
-
             while j < len(lines):
-                next_line = lines[j].strip()
-                if not next_line:
+                nxt = lines[j].strip()
+                if not nxt or re.match(r'^(\d+[A-Z]*\s+|Part\s+\d+|Division\s+\d+|Subdivision\s+[A-Z]+)', nxt):
                     break
-                if re.match(r'^(\d+[A-Z]*\s+|[A-Z]+\s+|\w+\s+\d+—)', next_line):
-                    break
-                if re.search(r'\.+\s*\d+\s*$', next_line):
-                    continuation = re.sub(r'\.+', '', next_line).strip()
-                    full_entry += ' ' + continuation
-                    j += 1
-                    break
-                full_entry += ' ' + next_line
+                full += ' ' + nxt
                 j += 1
+                if re.search(r'\d+\s*$', nxt):
+                    break
 
-            full_entry = re.sub(r'\.{2,}', ' ', full_entry)
-            full_entry = re.sub(r'\s+', ' ', full_entry).strip()
-            fixed_lines.append(full_entry)
+            # cleanup
+            full = re.sub(r'\.{2,}', ' ', full)
+            full = re.sub(r'\s+', ' ', full).strip()
+            result.append(full)
             i = j
         else:
-            fixed_lines.append(current_line)
+            result.append(curr)
             i += 1
 
-    return '\n'.join(fixed_lines)
+    return '\n'.join(result)
 
 def clean_extracted_text(text):
     """
-    Cleans the extracted PDF text by removing header/footer content,
-    fixing subdivision & division splits, and broken lines.
+    Cleans the extracted PDF text by removing header/footer and fixing formatting.
     """
-    # strip everything before compilation date
-    start_match = re.search(r"Compilation date: 21/02/2025", text)
-    if start_match:
-        text = text[start_match.end():]
+    # strip header
+    header_pat = r"Compilation date: 21/02/2025"
+    m = re.search(header_pat, text)
+    if m:
+        text = text[m.end():]
 
-    # strip everything after authorised version
-    end_match = re.search(r"Authorised Version C2025C00194 registered 12/03/2025", text)
-    if end_match:
-        text = text[:end_match.start()]
+    # strip footer
+    footer_pat = r"Authorised Version C2025C00194 registered 12/03/2025"
+    m = re.search(footer_pat, text)
+    if m:
+        text = text[:m.start()]
 
+    # basic cleanup
     text = re.sub(r'\*+', '', text)
     text = re.sub(r'\n\s*\n', '\n', text).strip()
-    text = fix_subdivision_splits(text)
-    text = fix_division_splits(text)
+
+    # fix splits & broken lines
+    text = fix_all_splits(text)
     text = fix_broken_lines(text)
     return text
 
-def extract_and_clean_pdf_page(page_number, pdf_path=PDF_PATH):
+def extract_and_clean_pdf_page(page_number, pdf_path='Migration Act 1958 – Volume 1.pdf'):
     """
-    Extracts and cleans the text from a specified PDF page.
-    Returns cleaned text, or a debug message if the page is out of range.
+    Extracts and cleans text from a specific PDF page.
     """
-    with open(pdf_path, 'rb') as file:
-        reader = PyPDF2.PdfReader(file)
+    with open(pdf_path, 'rb') as f:
+        reader = PyPDF2.PdfReader(f)
         total = len(reader.pages)
+        if page_number > total:
+            print(f"PDF only has {total} pages.")     # debug, now goes to our file
+            return None
 
-        if page_number <= total:
-            raw = reader.pages[page_number - 1].extract_text() or ''
-            return clean_extracted_text(raw)
-        else:
-            return f"DEBUG: PDF only has {total} pages, asked for page {page_number}."
+        raw = reader.pages[page_number - 1].extract_text()
+        return clean_extracted_text(raw)
 
 if __name__ == "__main__":
-    with open(OUTPUT_PATH, 'w', encoding='utf-8') as out_f:
+    # All prints below (including those in extract_and_clean_pdf_page)
+    # go into indexes.txt instead of the console.
+    with open('indexes.txt', 'w', encoding='utf-8') as logfile, \
+         contextlib.redirect_stdout(logfile):
+
         for i in range(START_INDEX_PAGES, END_INDEX_PAGES + 1):
-            sep = "=" * 120
-            out_f.write(sep + "\n")
-            out_f.write(f"PAGE {i} - CLEANED CONTENT:\n")
-            out_f.write(sep + "\n")
+            print("=" * 120)
+            print(f"PAGE {i} - CLEANED CONTENT:")
+            print("=" * 120)
 
-            result = extract_and_clean_pdf_page(i)
-            out_f.write(result + "\n")
+            content = extract_and_clean_pdf_page(i)
+            if content:
+                print(content)
 
-            out_f.write(sep + "\n\n")
-
-    print(f"All pages processed. Results written to {OUTPUT_PATH}")
+            print("=" * 120)
+            print()
