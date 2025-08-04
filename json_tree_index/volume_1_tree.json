@@ -1,6 +1,7 @@
 {
-  "name": "Contents",
+  "name": "Contents - Volume 1",
   "type": "root",
+  "volume": 1,
   "children": [
     {
       "name": "Part 1—Preliminary 1",
