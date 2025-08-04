@@ -486,8 +486,7 @@ Subdivision A—People smuggling and related offences 387
 232 Penalty on master, owner, agent and charterer of vessel 391
 233A Offence of people smuggling 393
 233B Aggravated offence of people smuggling (danger of death or serious harm etc.) 393
-233C Aggravated offence of people smuggling (at least
-5 people) 394
+233C Aggravated offence of people smuggling (at least 5 people) 394
 233D Supporting the offence of people smuggling 395
 233E Concealing and harbouring non-citizens etc. 395
 234 False documents and false or misleading information etc. relating to non-citizens 396
