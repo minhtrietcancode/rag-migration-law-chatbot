@@ -1,0 +1,2760 @@
+{
+  "name": "Contents",
+  "type": "root",
+  "children": [
+    {
+      "name": "Part 1—Preliminary 1",
+      "type": "part",
+      "children": [
+        {
+          "name": "1 Short title 1",
+          "type": "section"
+        },
+        {
+          "name": "2 Commencement 1",
+          "type": "section"
+        },
+        {
+          "name": "3 Repeal and savings 1",
+          "type": "section"
+        },
+        {
+          "name": "3A Act not to apply so as to exceed Commonwealth power 2",
+          "type": "section"
+        },
+        {
+          "name": "3B Compensation for acquisition of property 3",
+          "type": "section"
+        },
+        {
+          "name": "4 Object of Act 4",
+          "type": "section"
+        },
+        {
+          "name": "4AA Detention of minors a last resort 4",
+          "type": "section"
+        },
+        {
+          "name": "4A Application of the Criminal Code 4",
+          "type": "section"
+        },
+        {
+          "name": "5 Interpretation 5",
+          "type": "section"
+        },
+        {
+          "name": "5AAA Non-citizen’s responsibility in relation to protection claims 37",
+          "type": "section"
+        },
+        {
+          "name": "5AA Meaning of unauthorised maritime arrival 37",
+          "type": "section"
+        },
+        {
+          "name": "5AB Sentencing for offences 40",
+          "type": "section"
+        },
+        {
+          "name": "5A Meaning of personal identifier 40",
+          "type": "section"
+        },
+        {
+          "name": "5B When personal identifier taken not to have been provided 42",
+          "type": "section"
+        },
+        {
+          "name": "5C Meaning of character concern 43",
+          "type": "section"
+        },
+        {
+          "name": "5CA Child of a person 45",
+          "type": "section"
+        },
+        {
+          "name": "5CB De facto partner 46",
+          "type": "section"
+        },
+        {
+          "name": "5D Limiting the types of identification tests that authorised officers may carry out 47",
+          "type": "section"
+        },
+        {
+          "name": "5E Meaning of purported privative clause decision 47",
+          "type": "section"
+        },
+        {
+          "name": "5F Spouse 48",
+          "type": "section"
+        },
+        {
+          "name": "5G Relationships and family members 48",
+          "type": "section"
+        },
+        {
+          "name": "5H Meaning of refugee 49",
+          "type": "section"
+        },
+        {
+          "name": "5J Meaning of well-founded fear of persecution 49",
+          "type": "section"
+        },
+        {
+          "name": "5K Membership of a particular social group consisting of family 52",
+          "type": "section"
+        },
+        {
+          "name": "5L Membership of a particular social group other than family 52",
+          "type": "section"
+        },
+        {
+          "name": "5LA Effective protection measures 53",
+          "type": "section"
+        },
+        {
+          "name": "5M Particularly serious crime 53",
+          "type": "section"
+        },
+        {
+          "name": "6 Effect of limited meaning of enter Australia etc. 54",
+          "type": "section"
+        },
+        {
+          "name": "7 Act to extend to certain Territories 54",
+          "type": "section"
+        },
+        {
+          "name": "7A Effect on executive power to protect Australia’s borders 54",
+          "type": "section"
+        },
+        {
+          "name": "8 Certain resources installations to be part of Australia 55",
+          "type": "section"
+        },
+        {
+          "name": "9 Certain sea installations to be part of Australia 55",
+          "type": "section"
+        },
+        {
+          "name": "9A Migration zone etc.—offshore resources activities 56",
+          "type": "section"
+        },
+        {
+          "name": "10 Certain children taken to enter Australia at birth 58",
+          "type": "section"
+        },
+        {
+          "name": "11 Visa applicable to 2 or more persons 58",
+          "type": "section"
+        },
+        {
+          "name": "11A When applications under this Act are finally determined 59",
+          "type": "section"
+        },
+        {
+          "name": "12 Application of Part VA of the Marriage Act 59",
+          "type": "section"
+        }
+      ]
+    },
+    {
+      "name": "Part 2—Arrival, presence and departure of persons 60",
+      "type": "part",
+      "children": [
+        {
+          "name": "Division 1—Immigration status 60",
+          "type": "division",
+          "children": [
+            {
+              "name": "13 Lawful non-citizens 60",
+              "type": "section"
+            },
+            {
+              "name": "14 Unlawful non-citizens 60",
+              "type": "section"
+            },
+            {
+              "name": "15 Effect of cancellation of visa on status 60",
+              "type": "section"
+            },
+            {
+              "name": "16 Removal of immigration rights of inhabitant of Protected Zone 60",
+              "type": "section"
+            },
+            {
+              "name": "17 Pre-cleared flights 61",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 2—Power to obtain information and documents about unlawful non-citizens 62",
+          "type": "division",
+          "children": [
+            {
+              "name": "18 Power to obtain information and documents about unlawful non-citizens 62",
+              "type": "section"
+            },
+            {
+              "name": "19 Scales of expenses 62",
+              "type": "section"
+            },
+            {
+              "name": "20 Reasonable compensation 62",
+              "type": "section"
+            },
+            {
+              "name": "21 Failure to comply with section 18 notice 63",
+              "type": "section"
+            },
+            {
+              "name": "24 Information and documents that incriminate a person 63",
+              "type": "section"
+            },
+            {
+              "name": "25 Copies of documents 64",
+              "type": "section"
+            },
+            {
+              "name": "26 Minister may retain documents 64",
+              "type": "section"
+            },
+            {
+              "name": "27 Division binds the Crown 65",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 3—Visas for non-citizens 66",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—General provisions about visas 66",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "28 Interpretation 66",
+                  "type": "section"
+                },
+                {
+                  "name": "29 Visas 66",
+                  "type": "section"
+                },
+                {
+                  "name": "30 Kinds of visas 67",
+                  "type": "section"
+                },
+                {
+                  "name": "31 Classes of visas 67",
+                  "type": "section"
+                },
+                {
+                  "name": "32 Special category visas 69",
+                  "type": "section"
+                },
+                {
+                  "name": "33 Special purpose visas 69",
+                  "type": "section"
+                },
+                {
+                  "name": "34 Absorbed person visas 72",
+                  "type": "section"
+                },
+                {
+                  "name": "35 Ex-citizen visas 73",
+                  "type": "section"
+                },
+                {
+                  "name": "35A Protection visas—classes of visas 73",
+                  "type": "section"
+                },
+                {
+                  "name": "36 Protection visas—criteria provided for by this Act 74",
+                  "type": "section"
+                },
+                {
+                  "name": "36A Consideration of protection obligations 78",
+                  "type": "section"
+                },
+                {
+                  "name": "37 Bridging visas 79",
+                  "type": "section"
+                },
+                {
+                  "name": "37A Temporary safe haven visas 79",
+                  "type": "section"
+                },
+                {
+                  "name": "38 Criminal justice visas 80",
+                  "type": "section"
+                },
+                {
+                  "name": "38A Enforcement visas 80",
+                  "type": "section"
+                },
+                {
+                  "name": "38B Maritime crew visas 80",
+                  "type": "section"
+                },
+                {
+                  "name": "39 Criterion limiting number of visas 81",
+                  "type": "section"
+                },
+                {
+                  "name": "39A Minimum annual numbers of Protection (Class XA) visas and Refugee and Humanitarian (Class XB) visas 82",
+                  "type": "section"
+                },
+                {
+                  "name": "40 Circumstances for granting visas 83",
+                  "type": "section"
+                },
+                {
+                  "name": "41 Conditions on visas 83",
+                  "type": "section"
+                },
+                {
+                  "name": "42 Visa essential for travel 85",
+                  "type": "section"
+                },
+                {
+                  "name": "43 Visa holders must usually enter at a port 87",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AA—Applications for visas 88",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "44 Extent of following Subdivisions 88",
+                  "type": "section"
+                },
+                {
+                  "name": "45 Application for visa 89",
+                  "type": "section"
+                },
+                {
+                  "name": "45AA Application for one visa taken to be an application for a different visa 89",
+                  "type": "section"
+                },
+                {
+                  "name": "45A Visa application charge 92",
+                  "type": "section"
+                },
+                {
+                  "name": "45B Amount of visa application charge 93",
+                  "type": "section"
+                },
+                {
+                  "name": "45C Regulations about visa application charge 93",
+                  "type": "section"
+                },
+                {
+                  "name": "46 Valid visa application 94",
+                  "type": "section"
+                },
+                {
+                  "name": "46AA Visa applications, and the grant of visas, for some Act-based visas 97",
+                  "type": "section"
+                },
+                {
+                  "name": "46A Visa applications by unauthorised maritime arrivals 99",
+                  "type": "section"
+                },
+                {
+                  "name": "46B Visa applications by transitory persons 101",
+                  "type": "section"
+                },
+                {
+                  "name": "46C Visa pre-application process 102",
+                  "type": "section"
+                },
+                {
+                  "name": "47 Consideration of valid visa application 107",
+                  "type": "section"
+                },
+                {
+                  "name": "48 Non-citizen refused a visa or whose visa cancelled may only apply for particular visas 108",
+                  "type": "section"
+                },
+                {
+                  "name": "48A No further applications for protection visa after refusal or cancellation 110",
+                  "type": "section"
+                },
+                {
+                  "name": "48B Minister may determine that section 48A does not apply to non-citizen 113",
+                  "type": "section"
+                },
+                {
+                  "name": "49 Withdrawal of visa application 114",
+                  "type": "section"
+                },
+                {
+                  "name": "50 Only new information to be considered in later protection visa applications 114",
+                  "type": "section"
+                },
+                {
+                  "name": "51 Order of consideration 115",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AB—Code of procedure for dealing fairly, efficiently and quickly with visa applications 115",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "51A Exhaustive statement of natural justice hearing rule 115",
+                  "type": "section"
+                },
+                {
+                  "name": "52 Communication with Minister 115",
+                  "type": "section"
+                },
+                {
+                  "name": "54 Minister must have regard to all information in application 116",
+                  "type": "section"
+                },
+                {
+                  "name": "55 Further information may be given 117",
+                  "type": "section"
+                },
+                {
+                  "name": "56 Further information may be sought 117",
+                  "type": "section"
+                },
+                {
+                  "name": "57 Certain information must be given to applicant 117",
+                  "type": "section"
+                },
+                {
+                  "name": "58 Invitation to give further information or comments 118",
+                  "type": "section"
+                },
+                {
+                  "name": "59 Interviews 119",
+                  "type": "section"
+                },
+                {
+                  "name": "60 Medical examination 119",
+                  "type": "section"
+                },
+                {
+                  "name": "61 Prescribed periods 119",
+                  "type": "section"
+                },
+                {
+                  "name": "62 Failure to receive information does not require action 120",
+                  "type": "section"
+                },
+                {
+                  "name": "63 When decision about visa may be made 120",
+                  "type": "section"
+                },
+                {
+                  "name": "64 Notice that visa application charge is payable 121",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AC—Grant of visas 122",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "65 Decision to grant or refuse to grant visa 122",
+                  "type": "section"
+                },
+                {
+                  "name": "66 Notification of decision 123",
+                  "type": "section"
+                },
+                {
+                  "name": "67 Grant and refusal of visa—how and when 124",
+                  "type": "section"
+                },
+                {
+                  "name": "68 When visa is in effect 124",
+                  "type": "section"
+                },
+                {
+                  "name": "69 Effect of compliance or non-compliance 125",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AF—Bridging visas 125",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "72 Interpretation 125",
+                  "type": "section"
+                },
+                {
+                  "name": "73 Bridging visas 127",
+                  "type": "section"
+                },
+                {
+                  "name": "74 Further applications for bridging visa 127",
+                  "type": "section"
+                },
+                {
+                  "name": "75 When eligible non-citizen in immigration detention granted visa 128",
+                  "type": "section"
+                },
+                {
+                  "name": "76 Bridging visa not affect visa applications 128",
+                  "type": "section"
+                },
+                {
+                  "name": "76AAA Cessation of certain bridging visas—holder has permission to enter and remain in another country 129",
+                  "type": "section"
+                },
+                {
+                  "name": "76A Cessation of certain bridging visas, and grant of new visas, for certain non-citizens 131",
+                  "type": "section"
+                },
+                {
+                  "name": "76AA Effect of community safety order on visa held by non-citizen etc. 132",
+                  "type": "section"
+                },
+                {
+                  "name": "76B Offence relating to monitoring conditions of certain bridging visas 136",
+                  "type": "section"
+                },
+                {
+                  "name": "76C Offence relating to requirement to remain at notified address 137",
+                  "type": "section"
+                },
+                {
+                  "name": "76D Offences relating to monitoring device and related monitoring equipment 137",
+                  "type": "section"
+                },
+                {
+                  "name": "76DAA Offence relating to requirement not to perform certain work etc. 139",
+                  "type": "section"
+                },
+                {
+                  "name": "76DAB Offence relating to requirement not to go within certain distance of a school etc 140",
+                  "type": "section"
+                },
+                {
+                  "name": "76DAC Offence relating to requirement not to contact victim of offence etc 141",
+                  "type": "section"
+                },
+                {
+                  "name": "76DA Mandatory 1 year imprisonment for offences 142",
+                  "type": "section"
+                },
+                {
+                  "name": "76E Rules of natural justice do not apply to decision to grant certain bridging visas 142",
+                  "type": "section"
+                },
+                {
+                  "name": "76F Powers of officers etc. 143",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AG—Other provisions about visas 146",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "77 Visas held during visa period 146",
+                  "type": "section"
+                },
+                {
+                  "name": "78 Children born in Australia 146",
+                  "type": "section"
+                },
+                {
+                  "name": "79 Effect on visa of leaving Australia 147",
+                  "type": "section"
+                },
+                {
+                  "name": "80 Certain persons taken not to leave Australia 147",
+                  "type": "section"
+                },
+                {
+                  "name": "81 Extent of visa authority 147",
+                  "type": "section"
+                },
+                {
+                  "name": "82 When visas cease to be in effect 148",
+                  "type": "section"
+                },
+                {
+                  "name": "83 Certain persons taken to be included in spouse, de facto partner or parent’s visa 149",
+                  "type": "section"
+                },
+                {
+                  "name": "84 Minister may suspend processing of visa applications 150",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AH—Limit on visas 151",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "85 Limit on visas 151",
+                  "type": "section"
+                },
+                {
+                  "name": "86 Effect of limit 152",
+                  "type": "section"
+                },
+                {
+                  "name": "87 Limit does not prevent visas for certain persons 152",
+                  "type": "section"
+                },
+                {
+                  "name": "87A Limit does not prevent the grant of visas to certain people who are unable to meet health or character requirements before the limit applies because of circumstances beyond their control 152",
+                  "type": "section"
+                },
+                {
+                  "name": "88 Limit does not affect processing of applications 153",
+                  "type": "section"
+                },
+                {
+                  "name": "89 Determination of limit not to mean failure to decide 153",
+                  "type": "section"
+                },
+                {
+                  "name": "90 Order of dealing with limited visas 154",
+                  "type": "section"
+                },
+                {
+                  "name": "91 Order of dealing with visas 154",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AI—Safe third countries 154",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "91A Reason for Subdivision 154",
+                  "type": "section"
+                },
+                {
+                  "name": "91B Interpretation 154",
+                  "type": "section"
+                },
+                {
+                  "name": "91C Non-citizens covered by Subdivision 155",
+                  "type": "section"
+                },
+                {
+                  "name": "91D Safe third countries 155",
+                  "type": "section"
+                },
+                {
+                  "name": "91E Non-citizens to which this Subdivision applies unable to make valid applications for certain visas 156",
+                  "type": "section"
+                },
+                {
+                  "name": "91F Minister may determine that section 91E does not apply to non-citizen 157",
+                  "type": "section"
+                },
+                {
+                  "name": "91G Applications made before regulations take effect 158",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AJ—Temporary safe haven visas 159",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "91H Reason for this Subdivision 159",
+                  "type": "section"
+                },
+                {
+                  "name": "91J Non-citizens to whom this Subdivision applies 160",
+                  "type": "section"
+                },
+                {
+                  "name": "91K Non-citizens to whom this Subdivision applies are unable to make valid applications for certain visas 160",
+                  "type": "section"
+                },
+                {
+                  "name": "91L Minister may determine that section 91K does not apply to a non-citizen 160",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision AL—Other provisions about protection visas 161",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "91V Verification of information 161",
+                  "type": "section"
+                },
+                {
+                  "name": "91W Evidence of identity and bogus documents 164",
+                  "type": "section"
+                },
+                {
+                  "name": "91WA Providing bogus documents or destroying identity documents 165",
+                  "type": "section"
+                },
+                {
+                  "name": "91WB Application for protection visa by member of same family unit 166",
+                  "type": "section"
+                },
+                {
+                  "name": "91X Names of applicants for protection visas not to be published by the High Court, Federal Court or Federal Circuit and Family Court of Australia (Division 2) 166",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—The “points” system 167",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "92 Operation of Subdivision 167",
+                  "type": "section"
+                },
+                {
+                  "name": "93 Determination of applicant’s score 167",
+                  "type": "section"
+                },
+                {
+                  "name": "94 Initial application of “points” system 167",
+                  "type": "section"
+                },
+                {
+                  "name": "95 Applications in pool 168",
+                  "type": "section"
+                },
+                {
+                  "name": "95A Extension of period in pool 169",
+                  "type": "section"
+                },
+                {
+                  "name": "96 Minister may set pool mark and pass mark 170",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Visas based on incorrect information may be cancelled 170",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "97 Interpretation 170",
+                  "type": "section"
+                },
+                {
+                  "name": "97A Exhaustive statement of natural justice hearing rule 171",
+                  "type": "section"
+                },
+                {
+                  "name": "98 Completion of visa application 171",
+                  "type": "section"
+                },
+                {
+                  "name": "99 Information is answer 171",
+                  "type": "section"
+                },
+                {
+                  "name": "100 Incorrect answers 171",
+                  "type": "section"
+                },
+                {
+                  "name": "101 Visa applications to be correct 172",
+                  "type": "section"
+                },
+                {
+                  "name": "102 Passenger cards to be correct 172",
+                  "type": "section"
+                },
+                {
+                  "name": "103 Bogus documents not to be given etc 172",
+                  "type": "section"
+                },
+                {
+                  "name": "104 Changes in circumstances to be notified 172",
+                  "type": "section"
+                },
+                {
+                  "name": "105 Particulars of incorrect answers to be given 173",
+                  "type": "section"
+                },
+                {
+                  "name": "106 Obligations to give etc. information is not affected by other sources of information 173",
+                  "type": "section"
+                },
+                {
+                  "name": "107 Notice of incorrect applications 173",
+                  "type": "section"
+                },
+                {
+                  "name": "107A Possible non-compliances in connection with a previous visa may be grounds for cancellation of current visa 175",
+                  "type": "section"
+                },
+                {
+                  "name": "108 Decision about non-compliance 175",
+                  "type": "section"
+                },
+                {
+                  "name": "109 Cancellation of visa if information incorrect 176",
+                  "type": "section"
+                },
+                {
+                  "name": "110 Cancellation provisions apply whatever source of knowledge of non-compliance 177",
+                  "type": "section"
+                },
+                {
+                  "name": "111 Cancellation provisions apply whether or not non-compliance deliberate 177",
+                  "type": "section"
+                },
+                {
+                  "name": "112 Action because of one non-compliance does not prevent action because of other non-compliance 177",
+                  "type": "section"
+                },
+                {
+                  "name": "113 No cancellation if full disclosure 177",
+                  "type": "section"
+                },
+                {
+                  "name": "114 Effect of setting aside decision to cancel visa 178",
+                  "type": "section"
+                },
+                {
+                  "name": "115 Application of Subdivision 178",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Visas may be cancelled on certain grounds 179",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "116 Power to cancel 179",
+                  "type": "section"
+                },
+                {
+                  "name": "117 When visa may be cancelled 182",
+                  "type": "section"
+                },
+                {
+                  "name": "118 Cancellation powers do not limit or affect each other 182",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision E—Procedure for cancelling visas under Subdivision D in or outside Australia 183",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "118A Exhaustive statement of natural justice hearing rule 183",
+                  "type": "section"
+                },
+                {
+                  "name": "119 Notice of proposed cancellation 183",
+                  "type": "section"
+                },
+                {
+                  "name": "120 Certain information must be given to visa holder 184",
+                  "type": "section"
+                },
+                {
+                  "name": "121 Invitation to give comments etc. 185",
+                  "type": "section"
+                },
+                {
+                  "name": "122 Prescribed periods 186",
+                  "type": "section"
+                },
+                {
+                  "name": "123 Failure to accept invitation not require action 186",
+                  "type": "section"
+                },
+                {
+                  "name": "124 When decision about visa cancellation may be made 186",
+                  "type": "section"
+                },
+                {
+                  "name": "125 Application of Subdivision to non-citizen in immigration clearance 187",
+                  "type": "section"
+                },
+                {
+                  "name": "126 Application of Subdivision to non-citizen in questioning detention 187",
+                  "type": "section"
+                },
+                {
+                  "name": "127 Notification of decision 187",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision F—Other procedure for cancelling visas under Subdivision D outside Australia 188",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "127A Exhaustive statement of natural justice hearing rule 188",
+                  "type": "section"
+                },
+                {
+                  "name": "128 Cancellation of visas of people outside Australia 188",
+                  "type": "section"
+                },
+                {
+                  "name": "129 Notice of cancellation 189",
+                  "type": "section"
+                },
+                {
+                  "name": "130 Prescribed periods 189",
+                  "type": "section"
+                },
+                {
+                  "name": "131 Decision about revocation of cancellation 190",
+                  "type": "section"
+                },
+                {
+                  "name": "132 Notification of decision about revocation of cancellation 190",
+                  "type": "section"
+                },
+                {
+                  "name": "133 Effect of revocation of cancellation 190",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision FA—Additional personal powers for Minister to cancel visas on section 109 or 116 grounds 191",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "133A Minister’s personal powers to cancel visas on section 109 grounds 191",
+                  "type": "section"
+                },
+                {
+                  "name": "133B Other provisions relating to the exercise of powers in section 133A 193",
+                  "type": "section"
+                },
+                {
+                  "name": "133C Minister’s personal powers to cancel visas on section 116 grounds 194",
+                  "type": "section"
+                },
+                {
+                  "name": "133D Cancellation under subsection 133A(1) or 133C(1)—method of satisfying Minister of matters 196",
+                  "type": "section"
+                },
+                {
+                  "name": "133E Cancellation under subsection 133A(1) or 133C(1)—notice of cancellation 196",
+                  "type": "section"
+                },
+                {
+                  "name": "133F Cancellation under subsection 133A(3) or 133C(3)—Minister may revoke cancellation in certain circumstances 196",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision FB—Emergency cancellation on security grounds 198",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "134A Natural justice 198",
+                  "type": "section"
+                },
+                {
+                  "name": "134B Emergency cancellation on security grounds 198",
+                  "type": "section"
+                },
+                {
+                  "name": "134C Decision about revocation of emergency cancellation 198",
+                  "type": "section"
+                },
+                {
+                  "name": "134D Effect of revocation of cancellation 199",
+                  "type": "section"
+                },
+                {
+                  "name": "134E Notice of cancellation 200",
+                  "type": "section"
+                },
+                {
+                  "name": "134F Effect of cancellation on other visas 200",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision G—Cancellation of business visas 201",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "134 Cancellation of business visas 201",
+                  "type": "section"
+                },
+                {
+                  "name": "135 Representations concerning cancellation of business visa 206",
+                  "type": "section"
+                },
+                {
+                  "name": "136 Review of decisions 207",
+                  "type": "section"
+                },
+                {
+                  "name": "137 Provision of information—holders of business visas 207",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision GB—Automatic cancellation of student visas 209",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "137J Non-complying students may have their visas automatically cancelled 209",
+                  "type": "section"
+                },
+                {
+                  "name": "137K Applying for revocation of cancellation 209",
+                  "type": "section"
+                },
+                {
+                  "name": "137L Dealing with the application 210",
+                  "type": "section"
+                },
+                {
+                  "name": "137M Notification of decision 211",
+                  "type": "section"
+                },
+                {
+                  "name": "137N Minister may revoke cancellation on his or her own initiative 211",
+                  "type": "section"
+                },
+                {
+                  "name": "137P Effect of revocation 212",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision GC—Cancellation of regional sponsored employment visas 213",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "137Q Cancellation of regional sponsored employment visas 213",
+                  "type": "section"
+                },
+                {
+                  "name": "137R Representations concerning cancellation etc 214",
+                  "type": "section"
+                },
+                {
+                  "name": "137S Notice of cancellation 214",
+                  "type": "section"
+                },
+                {
+                  "name": "137T Cancellation of other visas 215",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision H—General provisions on cancellation 215",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "138 Cancellation and revocation of cancellation of visas—how and when 215",
+                  "type": "section"
+                },
+                {
+                  "name": "139 Visas held by 2 or more 216",
+                  "type": "section"
+                },
+                {
+                  "name": "140 Cancellation of visa results in other cancellation 216",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 3A—Sponsorship 218",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—Preliminary 218",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140A Division applies to prescribed kinds of visa 218",
+                  "type": "section"
+                },
+                {
+                  "name": "140AA Purposes of this Division 218",
+                  "type": "section"
+                },
+                {
+                  "name": "140AB Ministerial Advisory Council on Skilled Migration 219",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Approval of sponsors 220",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140E Minister to approve work and family sponsors 220",
+                  "type": "section"
+                },
+                {
+                  "name": "140F Approval process 220",
+                  "type": "section"
+                },
+                {
+                  "name": "140G Terms of approval 221",
+                  "type": "section"
+                },
+                {
+                  "name": "140GA Variation of terms of approval 221",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision BA—Approval of nominations made by approved work sponsors 222",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140GB Minister to approve nominations 222",
+                  "type": "section"
+                },
+                {
+                  "name": "140GBA Labour market testing—condition 223",
+                  "type": "section"
+                },
+                {
+                  "name": "140GBB Labour market testing—major disaster exemption 226",
+                  "type": "section"
+                },
+                {
+                  "name": "140GBC Labour market testing—skill and occupational exemptions 227",
+                  "type": "section"
+                },
+                {
+                  "name": "140GC Work agreements 229",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Sponsorship obligations 229",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140H Sponsorship obligations—general 229",
+                  "type": "section"
+                },
+                {
+                  "name": "140HA Sponsorship obligations—Minister’s responsibility 230",
+                  "type": "section"
+                },
+                {
+                  "name": "140J Amounts payable in relation to sponsorship obligations 233",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Enforcement 233",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140K Sanctions for failing to satisfy sponsorship obligations 233",
+                  "type": "section"
+                },
+                {
+                  "name": "140L Regulations may prescribe circumstances in which sponsor may be barred or sponsor’s approval cancelled 236",
+                  "type": "section"
+                },
+                {
+                  "name": "140M Cancelling approval as a sponsor or barring a sponsor 237",
+                  "type": "section"
+                },
+                {
+                  "name": "140N Process for cancelling approval or barring approved sponsor 237",
+                  "type": "section"
+                },
+                {
+                  "name": "140O Waiving a bar 238",
+                  "type": "section"
+                },
+                {
+                  "name": "140P Process for waiving a bar 238",
+                  "type": "section"
+                },
+                {
+                  "name": "140Q Civil penalty—failing to satisfy sponsorship obligations 239",
+                  "type": "section"
+                },
+                {
+                  "name": "140RA Enforceable undertakings 239",
+                  "type": "section"
+                },
+                {
+                  "name": "140RB Compliance notices 241",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision E—Liability and recovery of amounts 243",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140S Liability to pay amounts 243",
+                  "type": "section"
+                },
+                {
+                  "name": "140SA Interest up to judgment 243",
+                  "type": "section"
+                },
+                {
+                  "name": "140SB Interest on judgment 244",
+                  "type": "section"
+                },
+                {
+                  "name": "140SC Certain plaintiffs may choose small claims procedure in magistrates courts 244",
+                  "type": "section"
+                },
+                {
+                  "name": "140T Notice regarding amount of debt or other amount 245",
+                  "type": "section"
+                },
+                {
+                  "name": "140U Liability is in addition to any other liability 245",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision F—Inspector powers 246",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140UA Exercise of inspector powers 246",
+                  "type": "section"
+                },
+                {
+                  "name": "140V Inspectors 246",
+                  "type": "section"
+                },
+                {
+                  "name": "140W Identity cards 247",
+                  "type": "section"
+                },
+                {
+                  "name": "140X Purpose for which powers of inspectors may be exercised 248",
+                  "type": "section"
+                },
+                {
+                  "name": "140XA When powers of inspectors may be exercised 249",
+                  "type": "section"
+                },
+                {
+                  "name": "140XB Power of inspectors to enter premises or places 249",
+                  "type": "section"
+                },
+                {
+                  "name": "140XC Powers of inspectors while on premises or at a place 249",
+                  "type": "section"
+                },
+                {
+                  "name": "140XD Persons assisting inspectors 250",
+                  "type": "section"
+                },
+                {
+                  "name": "140XE Power to ask for person’s name and address 251",
+                  "type": "section"
+                },
+                {
+                  "name": "140XF Power to require persons to produce records or documents 251",
+                  "type": "section"
+                },
+                {
+                  "name": "140XG Self-incrimination 252",
+                  "type": "section"
+                },
+                {
+                  "name": "140XH Certain records and documents are inadmissible 252",
+                  "type": "section"
+                },
+                {
+                  "name": "140XI Power to keep records or documents 253",
+                  "type": "section"
+                },
+                {
+                  "name": "140XJ Disclosure of information by the Secretary or Australian Border Force Commissioner 253",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision G—Application of Division to partnerships and unincorporated associations 254",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140ZB Partnerships—sponsorship rights and obligations 254",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZC Partnerships—offences and civil penalties 254",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZD Partnership ceases to exist 255",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZE Unincorporated associations—sponsorship rights and obligations 256",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZF Unincorporated associations—offences and civil penalties 256",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZG Unincorporated association ceases to exist 257",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision H—Miscellaneous 258",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "140ZH Disclosure of personal information by Minister 258",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZI Disclosure of personal information to Minister 261",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZJ Unclaimed money 262",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZK Other regulation making powers not limited 262",
+                  "type": "section"
+                },
+                {
+                  "name": "140ZL Division binds the Crown 262",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 3B—Nominations 263",
+          "type": "division",
+          "children": [
+            {
+              "name": "140ZM Nomination training contribution charge 263",
+              "type": "section"
+            },
+            {
+              "name": "140ZN Regulations about nomination training contribution charge 263",
+              "type": "section"
+            },
+            {
+              "name": "140ZO Recovery of nomination training contribution charge and late payment penalty 264",
+              "type": "section"
+            },
+            {
+              "name": "140ZP Notional application of nomination training contribution charge in relation to nominations by the Commonwealth 264",
+              "type": "section"
+            },
+            {
+              "name": "140ZQ Division binds the Crown 265",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 4—Criminal justice visitors 266",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—Preliminary 266",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "141 Object of Division 266",
+                  "type": "section"
+                },
+                {
+                  "name": "142 Interpretation 266",
+                  "type": "section"
+                },
+                {
+                  "name": "143 Delegation by Minister 267",
+                  "type": "section"
+                },
+                {
+                  "name": "144 Authorised officials 267",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Criminal justice certificates for entry 268",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "145 Commonwealth criminal justice entry certificate 268",
+                  "type": "section"
+                },
+                {
+                  "name": "146 State criminal justice entry certificate 268",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Criminal justice certificates etc. staying removal or deportation 269",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "147 Commonwealth criminal justice stay certificate 269",
+                  "type": "section"
+                },
+                {
+                  "name": "148 State criminal justice stay certificate 270",
+                  "type": "section"
+                },
+                {
+                  "name": "149 Application for visa not to prevent certificate 271",
+                  "type": "section"
+                },
+                {
+                  "name": "150 Criminal justice stay certificates stay removal or deportation 271",
+                  "type": "section"
+                },
+                {
+                  "name": "151 Certain warrants stay removal or deportation 271",
+                  "type": "section"
+                },
+                {
+                  "name": "152 Certain subjects of stay certificates and stay warrants may be detained etc. 271",
+                  "type": "section"
+                },
+                {
+                  "name": "153 Removal or deportation not contempt etc. if no stay certificate or warrant 272",
+                  "type": "section"
+                },
+                {
+                  "name": "154 Officer not liable—criminal justice stay certificates or warrants 272",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Criminal justice visas 273",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "155 Criminal justice visas 273",
+                  "type": "section"
+                },
+                {
+                  "name": "156 Criterion for criminal justice entry visas 273",
+                  "type": "section"
+                },
+                {
+                  "name": "157 Criterion for criminal justice stay visas 273",
+                  "type": "section"
+                },
+                {
+                  "name": "158 Criteria for criminal justice visas 273",
+                  "type": "section"
+                },
+                {
+                  "name": "159 Procedure for obtaining criminal justice visa 274",
+                  "type": "section"
+                },
+                {
+                  "name": "160 Conditions of criminal justice visa 274",
+                  "type": "section"
+                },
+                {
+                  "name": "161 Effect of criminal justice visas 274",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision E—Cancellation etc. of criminal justice certificates and criminal justice visas 275",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "162 Criminal justice certificates to be cancelled 275",
+                  "type": "section"
+                },
+                {
+                  "name": "163 Stay warrant to be cancelled 276",
+                  "type": "section"
+                },
+                {
+                  "name": "164 Effect of cancellation etc. on criminal justice visa 277",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 4A—Enforcement visas 278",
+          "type": "division",
+          "children": [
+            {
+              "name": "164A Definitions 278",
+              "type": "section"
+            },
+            {
+              "name": "164B Grant of enforcement visas (fisheries matters) 278",
+              "type": "section"
+            },
+            {
+              "name": "164BA Grant of enforcement visas (environment matters) 280",
+              "type": "section"
+            },
+            {
+              "name": "164C When enforcement visa ceases to be in effect 283",
+              "type": "section"
+            },
+            {
+              "name": "164D Applying for other visas 284",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 5—Immigration clearance 285",
+          "type": "division",
+          "children": [
+            {
+              "name": "165 Interpretation 285",
+              "type": "section"
+            },
+            {
+              "name": "166 Persons entering to present certain evidence of identity etc. 285",
+              "type": "section"
+            },
+            {
+              "name": "167 When and where evidence to be presented 287",
+              "type": "section"
+            },
+            {
+              "name": "168 Section 166 not to apply 288",
+              "type": "section"
+            },
+            {
+              "name": "169 Section 166 not usually to apply 288",
+              "type": "section"
+            },
+            {
+              "name": "170 Certain persons to present evidence of identity 289",
+              "type": "section"
+            },
+            {
+              "name": "171 Assistance with evidence 290",
+              "type": "section"
+            },
+            {
+              "name": "172 Immigration clearance 290",
+              "type": "section"
+            },
+            {
+              "name": "173 Visa ceases if holder enters in way not permitted 292",
+              "type": "section"
+            },
+            {
+              "name": "174 Visa ceases if holder remains without immigration clearance 293",
+              "type": "section"
+            },
+            {
+              "name": "175 Departing person to present certain evidence etc 293",
+              "type": "section"
+            },
+            {
+              "name": "175A Determinations relating to kinds of passports 294",
+              "type": "section"
+            },
+            {
+              "name": "175B Collection, access and disclosure of information 294",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 6—Certain non-citizens to be kept in immigration detention 296",
+          "type": "division",
+          "children": [
+            {
+              "name": "176 Reason for Division 296",
+              "type": "section"
+            },
+            {
+              "name": "177 Interpretation 296",
+              "type": "section"
+            },
+            {
+              "name": "178 Designated persons to be in immigration detention 297",
+              "type": "section"
+            },
+            {
+              "name": "179 Beginning of immigration detention of certain designated persons 297",
+              "type": "section"
+            },
+            {
+              "name": "180 Detention of designated person 298",
+              "type": "section"
+            },
+            {
+              "name": "181 Removal from Australia of designated persons 298",
+              "type": "section"
+            },
+            {
+              "name": "182 No immigration detention or removal after certain period 300",
+              "type": "section"
+            },
+            {
+              "name": "183 Courts must not release designated persons 301",
+              "type": "section"
+            },
+            {
+              "name": "185 Effect of Division on status etc. 301",
+              "type": "section"
+            },
+            {
+              "name": "186 Division applies despite other laws 302",
+              "type": "section"
+            },
+            {
+              "name": "187 Evidence 302",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 7—Detention of unlawful non-citizens 303",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—General provisions 303",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "188 Lawful non-citizen to give evidence of being so 303",
+                  "type": "section"
+                },
+                {
+                  "name": "189 Detention of unlawful non-citizens 303",
+                  "type": "section"
+                },
+                {
+                  "name": "190 Non-compliance with immigration clearance or requirement to provide personal identifier 304",
+                  "type": "section"
+                },
+                {
+                  "name": "191 End of certain detention 305",
+                  "type": "section"
+                },
+                {
+                  "name": "192 Detention of visa holders whose visas liable to cancellation 306",
+                  "type": "section"
+                },
+                {
+                  "name": "193 Application of law to certain non-citizens while they remain in immigration detention 307",
+                  "type": "section"
+                },
+                {
+                  "name": "194 Detainee to be told of consequences of detention 309",
+                  "type": "section"
+                },
+                {
+                  "name": "195 Detainee may apply for visa 309",
+                  "type": "section"
+                },
+                {
+                  "name": "195A Minister may grant detainee visa (whether or not on application) 310",
+                  "type": "section"
+                },
+                {
+                  "name": "196 Duration of detention 311",
+                  "type": "section"
+                },
+                {
+                  "name": "197 Effect of escape from immigration detention 312",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Residence determinations 313",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "197AA Persons to whom Subdivision applies 313",
+                  "type": "section"
+                },
+                {
+                  "name": "197AB Minister may determine that person is to reside at a specified place rather than being held in detention centre etc 313",
+                  "type": "section"
+                },
+                {
+                  "name": "197AC Effect of residence determination 313",
+                  "type": "section"
+                },
+                {
+                  "name": "197AD Revocation or variation of residence determination 315",
+                  "type": "section"
+                },
+                {
+                  "name": "197AE Minister not under duty to consider whether to exercise powers 315",
+                  "type": "section"
+                },
+                {
+                  "name": "197AF Minister to exercise powers personally 316",
+                  "type": "section"
+                },
+                {
+                  "name": "197AG Tabling of information relating to the making of residence determinations 316",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 7A—Offences relating to immigration detention 318",
+          "type": "division",
+          "children": [
+            {
+              "name": "197A Detainees must not escape from detention 318",
+              "type": "section"
+            },
+            {
+              "name": "197B Manufacture, possession etc. of weapons by detainees 318",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 8—Removal of unlawful non-citizens etc. 319",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—Removal 319",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "197C Relevance of Australia’s non-refoulement obligations to removal of unlawful non-citizens under section 198 319",
+                  "type": "section"
+                },
+                {
+                  "name": "197D Decision that protection finding would no longer be made 321",
+                  "type": "section"
+                },
+                {
+                  "name": "197E Relevance of Ministerial intervention powers to removal of unlawful non-citizens under section 198 323",
+                  "type": "section"
+                },
+                {
+                  "name": "198 Removal from Australia of unlawful non-citizens 326",
+                  "type": "section"
+                },
+                {
+                  "name": "198AAA Collection, use and disclosure of information to foreign countries 332",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Regional processing 334",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "198AA Reason for Subdivision 334 198ABRegional processing country 334",
+                  "type": "section"
+                },
+                {
+                  "name": "198AC Documents to be laid before Parliament 336",
+                  "type": "section"
+                },
+                {
+                  "name": "198AD Taking unauthorised maritime arrivals to a regional processing country 337",
+                  "type": "section"
+                },
+                {
+                  "name": "198AE Ministerial determination that section 198AD does not apply 340",
+                  "type": "section"
+                },
+                {
+                  "name": "198AF No regional processing country 342",
+                  "type": "section"
+                },
+                {
+                  "name": "198AG Non-acceptance by regional processing country 342",
+                  "type": "section"
+                },
+                {
+                  "name": "198AH Application of section 198AD to certain transitory persons 342",
+                  "type": "section"
+                },
+                {
+                  "name": "198AHA Power to take action etc. in relation to arrangement or regional processing functions of a country 343",
+                  "type": "section"
+                },
+                {
+                  "name": "198AHB Power to take action etc. in relation to third country reception arrangement 344",
+                  "type": "section"
+                },
+                {
+                  "name": "198AHC Relevance of Ministerial intervention powers to transfer of unauthorised maritime arrivals 345",
+                  "type": "section"
+                },
+                {
+                  "name": "198AI Ministerial report 348",
+                  "type": "section"
+                },
+                {
+                  "name": "198AJ Reports about unauthorised maritime arrivals 349",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Transitory persons etc. 350",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "198B Power to bring transitory persons to Australia 350",
+                  "type": "section"
+                },
+                {
+                  "name": "199 Dependants of removed non-citizens 350",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Duty to cooperate in relation to removal and removal concern countries 351",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "199A Reason for Subdivision 351",
+                  "type": "section"
+                },
+                {
+                  "name": "199B Removal pathway non-citizens—protection findings etc. 351",
+                  "type": "section"
+                },
+                {
+                  "name": "199C Minister may give removal pathway directions 352",
+                  "type": "section"
+                },
+                {
+                  "name": "199D Circumstances in which Minister must not give a removal pathway direction 354",
+                  "type": "section"
+                },
+                {
+                  "name": "199E Offence for non-compliance with removal pathway direction 356",
+                  "type": "section"
+                },
+                {
+                  "name": "199F Designation of removal concern country 357",
+                  "type": "section"
+                },
+                {
+                  "name": "199G Visa applications by certain nationals of a removal concern country 359",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 9—Deportation 361",
+          "type": "division",
+          "children": [
+            {
+              "name": "200 Deportation of certain non-citizens 361",
+              "type": "section"
+            },
+            {
+              "name": "201 Deportation of non-citizens in Australia for less than 10 years who are convicted of crimes 361",
+              "type": "section"
+            },
+            {
+              "name": "202 Deportation of non-citizens upon security grounds 362",
+              "type": "section"
+            },
+            {
+              "name": "203 Deportation of non-citizens who are convicted of certain serious offences 363",
+              "type": "section"
+            },
+            {
+              "name": "204 Determination of time for sections 201 and 202 365",
+              "type": "section"
+            },
+            {
+              "name": "205 Dependants of deportee 366",
+              "type": "section"
+            },
+            {
+              "name": "206 Deportation order to be executed 367",
+              "type": "section"
+            },
+            {
+              "name": "206A Relevance of Ministerial intervention powers to deportation 367",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 10—Costs etc. of removal and deportation 370",
+          "type": "division",
+          "children": [
+            {
+              "name": "207 Interpretation 370",
+              "type": "section"
+            },
+            {
+              "name": "210 Removed or deported non-citizen liable for costs of removal or deportation 370",
+              "type": "section"
+            },
+            {
+              "name": "212 Costs of removed or deported spouses, de facto partners and dependants 370",
+              "type": "section"
+            },
+            {
+              "name": "213 Carriers may be liable for costs of removal and deportation 371",
+              "type": "section"
+            },
+            {
+              "name": "214 Non-citizens and carriers jointly liable 372",
+              "type": "section"
+            },
+            {
+              "name": "215 Costs are debts due to the Commonwealth 372",
+              "type": "section"
+            },
+            {
+              "name": "216 Use of existing ticket for removal or deportation 372",
+              "type": "section"
+            },
+            {
+              "name": "217 Vessels required to convey certain removees 373",
+              "type": "section"
+            },
+            {
+              "name": "218 Vessels required to convey deportees or other removees 373",
+              "type": "section"
+            },
+            {
+              "name": "219 Exemption from complying 374",
+              "type": "section"
+            },
+            {
+              "name": "220 Waiver of requirement 374",
+              "type": "section"
+            },
+            {
+              "name": "221 Cost of removal under notice 374",
+              "type": "section"
+            },
+            {
+              "name": "222 Orders restraining certain non-citizens from disposing etc. of property 375",
+              "type": "section"
+            },
+            {
+              "name": "223 Secretary or Australian Border Force Commissioner may give direction about valuables of detained non-citizens 377",
+              "type": "section"
+            },
+            {
+              "name": "224 Dealing with seized valuables 380",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 11—Duties of masters in relation to crews 383",
+          "type": "division",
+          "children": [
+            {
+              "name": "225 Production of identity documents and mustering of crew 383",
+              "type": "section"
+            },
+            {
+              "name": "226 Production of identity documents by persons on board resources installation 383",
+              "type": "section"
+            },
+            {
+              "name": "227 Production of identity documents by persons on board sea installation 384",
+              "type": "section"
+            },
+            {
+              "name": "228 Master to report absences 385",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 12—Offences etc. in relation to entry into, and remaining in, Australia 387",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—People smuggling and related offences 387",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "228A Application of Subdivision 387",
+                  "type": "section"
+                },
+                {
+                  "name": "228B Circumstances in which a non-citizen has no lawful right to come to Australia 387",
+                  "type": "section"
+                },
+                {
+                  "name": "229 Carriage of non-citizens to Australia without documentation 387",
+                  "type": "section"
+                },
+                {
+                  "name": "230 Carriage of concealed persons to Australia 390",
+                  "type": "section"
+                },
+                {
+                  "name": "231 Master of vessel to comply with certain requests 391",
+                  "type": "section"
+                },
+                {
+                  "name": "232 Penalty on master, owner, agent and charterer of vessel 391",
+                  "type": "section"
+                },
+                {
+                  "name": "233A Offence of people smuggling 393",
+                  "type": "section"
+                },
+                {
+                  "name": "233B Aggravated offence of people smuggling (danger of death or serious harm etc.) 393",
+                  "type": "section"
+                },
+                {
+                  "name": "233C Aggravated offence of people smuggling (at least 5 people) 394",
+                  "type": "section"
+                },
+                {
+                  "name": "233D Supporting the offence of people smuggling 395",
+                  "type": "section"
+                },
+                {
+                  "name": "233E Concealing and harbouring non-citizens etc. 395",
+                  "type": "section"
+                },
+                {
+                  "name": "234 False documents and false or misleading information etc. relating to non-citizens 396",
+                  "type": "section"
+                },
+                {
+                  "name": "234A Aggravated offence of false documents and false or misleading information etc. relating to non-citizens (at least 5 people) 397",
+                  "type": "section"
+                },
+                {
+                  "name": "236 Offences relating to visas 398",
+                  "type": "section"
+                },
+                {
+                  "name": "236A No discharge without conviction for certain offences 399",
+                  "type": "section"
+                },
+                {
+                  "name": "236B Mandatory minimum penalties for certain offences 399",
+                  "type": "section"
+                },
+                {
+                  "name": "236C Time in immigration detention counts for sentencing etc. 400",
+                  "type": "section"
+                },
+                {
+                  "name": "236D Burden and standard of proof in relation to age 401",
+                  "type": "section"
+                },
+                {
+                  "name": "236E Evidentiary certificates in proceedings for offences 401",
+                  "type": "section"
+                },
+                {
+                  "name": "236F Evidentiary certificates—procedural matters 403",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Offences relating to abuse of laws allowing spouses etc. of Australian citizens or of permanent residents to become permanent residents 404",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "237 Reason for Subdivision 404",
+                  "type": "section"
+                },
+                {
+                  "name": "238 Interpretation 404",
+                  "type": "section"
+                },
+                {
+                  "name": "239 Application of Subdivision 405",
+                  "type": "section"
+                },
+                {
+                  "name": "240 Offence to arrange marriage to obtain permanent residence 405",
+                  "type": "section"
+                },
+                {
+                  "name": "241 Offence to arrange pretended de facto relationship to obtain permanent residence 405",
+                  "type": "section"
+                },
+                {
+                  "name": "243 Offences relating to application for permanent residence because of marriage or de facto relationship 406",
+                  "type": "section"
+                },
+                {
+                  "name": "245 Offences of making false or unsupported statements 406",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Offences and civil penalties in relation to work by non-citizens 408",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "245AA Overview 408",
+                  "type": "section"
+                },
+                {
+                  "name": "245AAA Coercing etc. a lawful non-citizen to work in breach of work-related conditions 409",
+                  "type": "section"
+                },
+                {
+                  "name": "245AAB Coercing etc. an unlawful non-citizen to work— adverse effect on presence in Australia 410",
+                  "type": "section"
+                },
+                {
+                  "name": "245AAC Coercing etc. a lawful non-citizen to work— adverse effect on status etc 411",
+                  "type": "section"
+                },
+                {
+                  "name": "245AB Allowing an unlawful non-citizen to work 412",
+                  "type": "section"
+                },
+                {
+                  "name": "245AC Allowing a lawful non-citizen to work in breach of a work-related condition 413",
+                  "type": "section"
+                },
+                {
+                  "name": "245AD Aggravated offences if a person allows, or continues to allow, another person to work 414",
+                  "type": "section"
+                },
+                {
+                  "name": "245AE Referring an unlawful non-citizen for work 415",
+                  "type": "section"
+                },
+                {
+                  "name": "245AEA Referring a lawful non-citizen for work in breach of a work-related condition 416",
+                  "type": "section"
+                },
+                {
+                  "name": "245AEB Aggravated offences if a person refers another person to a third person for work 418",
+                  "type": "section"
+                },
+                {
+                  "name": "245AF Circumstances in which this Subdivision does not apply 419",
+                  "type": "section"
+                },
+                {
+                  "name": "245AG Meaning of work and allows to work 419",
+                  "type": "section"
+                },
+                {
+                  "name": "245AGA Meaning of arrangement in relation to work 420",
+                  "type": "section"
+                },
+                {
+                  "name": "245AH Meaning of exploited 421",
+                  "type": "section"
+                },
+                {
+                  "name": "245AJ Criminal liability of executive officers of bodies corporate 421",
+                  "type": "section"
+                },
+                {
+                  "name": "245AK Civil liability of executive officers of bodies corporate 422",
+                  "type": "section"
+                },
+                {
+                  "name": "245AL Contravening civil penalty provisions 424",
+                  "type": "section"
+                },
+                {
+                  "name": "245ALA Enforceable undertakings 424",
+                  "type": "section"
+                },
+                {
+                  "name": "245AM Geographical scope of offence and civil penalty provisions 426",
+                  "type": "section"
+                },
+                {
+                  "name": "245AN Charge and trial for an aggravated offence 430",
+                  "type": "section"
+                },
+                {
+                  "name": "245AO Treatment of partnerships 431",
+                  "type": "section"
+                },
+                {
+                  "name": "245AP Treatment of unincorporated associations 431",
+                  "type": "section"
+                },
+                {
+                  "name": "245APA Effect of this Subdivision on the validity of certain contracts is to be disregarded 432",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Offences and civil penalties in relation to sponsored visas 433",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "245AQ Definitions 433",
+                  "type": "section"
+                },
+                {
+                  "name": "245AR Prohibition on asking for or receiving a benefit in return for the occurrence of a sponsorship-related event 434",
+                  "type": "section"
+                },
+                {
+                  "name": "245AS Prohibition on offering to provide or providing a benefit in return for the occurrence of a sponsorship-related event 435",
+                  "type": "section"
+                },
+                {
+                  "name": "245AT Criminal liability of executive officers of bodies corporate 436",
+                  "type": "section"
+                },
+                {
+                  "name": "245AU Civil liability of executive officers of bodies corporate 437",
+                  "type": "section"
+                },
+                {
+                  "name": "245AV Contravening civil penalty provisions 439",
+                  "type": "section"
+                },
+                {
+                  "name": "245AW Geographical scope of offence and civil penalty provisions 439",
+                  "type": "section"
+                },
+                {
+                  "name": "245AX Treatment of partnerships 443",
+                  "type": "section"
+                },
+                {
+                  "name": "245AY Treatment of unincorporated associations 443",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision E—Prohibited employers 444",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "245AYAA Objects of this Subdivision 444",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYA Overview 445",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYB Definitions 445",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYC Meaning of allows a non-citizen to begin work 446",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYD Meaning of prohibited employer 447",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYE When a person is subject to a migrant worker sanction—bar placed on approved work sponsor etc. 447",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYF When a person is subject to a migrant worker sanction—conviction of work-related offence etc. 448",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYG When a person is subject to a migrant worker sanction—contravention of certain civil penalty provisions etc 449",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYH When a person is subject to a migrant worker sanction—contravention of certain civil remedy provisions of the Fair Work Act 2009 450",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYI When a person is subject to a migrant worker sanction—contravention of term of enforceable undertaking etc. 451",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYJ When a person is subject to a migrant worker sanction—failure to comply with certain compliance notices 453",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYK Declaration of person as prohibited employer 456",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYL Prohibition on allowing additional non-citizens to begin work 459",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYM Publishing information about prohibited employers 460",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYN Former prohibited employers to give certain information 461",
+                  "type": "section"
+                },
+                {
+                  "name": "245AYO Contravening civil penalty provisions 462",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision F—Compliance notices for work-related breaches 462",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "245AYP Compliance notices 462",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 12A—Chasing, boarding etc. aircraft 465",
+          "type": "division",
+          "children": [
+            {
+              "name": "245A Definitions 465",
+              "type": "section"
+            },
+            {
+              "name": "245E Identifying an aircraft and requesting it to land for boarding 465",
+              "type": "section"
+            },
+            {
+              "name": "245F Power to board and search etc. aircraft 467",
+              "type": "section"
+            },
+            {
+              "name": "245FA Searches of people on certain ships or aircraft 472",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 12B—Reporting on passengers and crew of aircraft and ships 475",
+          "type": "division",
+          "children": [
+            {
+              "name": "245I Definitions 475",
+              "type": "section"
+            },
+            {
+              "name": "245J Approval of primary reporting systems 476",
+              "type": "section"
+            },
+            {
+              "name": "245K Approval of fall-back reporting systems 477",
+              "type": "section"
+            },
+            {
+              "name": "245L Obligation to report on persons arriving in Australia 477",
+              "type": "section"
+            },
+            {
+              "name": "245LA Obligation to report on persons departing from Australia 479",
+              "type": "section"
+            },
+            {
+              "name": "245LB Dealing with information collected under this Division etc 481",
+              "type": "section"
+            },
+            {
+              "name": "245M Approved fall-back reporting systems may be used in certain circumstances 482",
+              "type": "section"
+            },
+            {
+              "name": "245N Offence for failure to comply with reporting obligations 482",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 13—Examination, search, detention and identification 484",
+          "type": "division",
+          "children": [
+            {
+              "name": "246 Appointment of boarding stations 484",
+              "type": "section"
+            },
+            {
+              "name": "247 Vessels to enter ports and be brought to boarding stations 484",
+              "type": "section"
+            },
+            {
+              "name": "248 Exemption 486",
+              "type": "section"
+            },
+            {
+              "name": "249 Certain persons may be prevented from entering or landing 486",
+              "type": "section"
+            },
+            {
+              "name": "250 Detention of suspected offenders 487",
+              "type": "section"
+            },
+            {
+              "name": "251 Powers of entry and search 488",
+              "type": "section"
+            },
+            {
+              "name": "252 Searches of persons 490",
+              "type": "section"
+            },
+            {
+              "name": "252AA Power to conduct a screening procedure 492",
+              "type": "section"
+            },
+            {
+              "name": "252A Power to conduct a strip search 493",
+              "type": "section"
+            },
+            {
+              "name": "252B Rules for conducting a strip search 495",
+              "type": "section"
+            },
+            {
+              "name": "252C Possession and retention of certain things obtained during a screening procedure or strip search 497",
+              "type": "section"
+            },
+            {
+              "name": "252D Authorised officer may apply for a thing to be retained for a further period 498",
+              "type": "section"
+            },
+            {
+              "name": "252E Magistrate may order that thing be retained 499",
+              "type": "section"
+            },
+            {
+              "name": "252F Detainees held in State or Territory prisons or remand centres 500",
+              "type": "section"
+            },
+            {
+              "name": "252G Powers concerning entry to a detention centre 500",
+              "type": "section"
+            },
+            {
+              "name": "253 Detention of deportee 502",
+              "type": "section"
+            },
+            {
+              "name": "254 Removees and deportees held in other custody 504",
+              "type": "section"
+            },
+            {
+              "name": "255 Prescribed authorities 505",
+              "type": "section"
+            },
+            {
+              "name": "256 Person in immigration detention may have access to certain advice, facilities etc. 506",
+              "type": "section"
+            },
+            {
+              "name": "257 Persons may be required to answer questions 506",
+              "type": "section"
+            },
+            {
+              "name": "257A Person may be required to provide personal identifiers 507",
+              "type": "section"
+            },
+            {
+              "name": "258 Minister may determine that specified persons are not to be required to provide personal identifiers etc. 508",
+              "type": "section"
+            },
+            {
+              "name": "258A When detainees must not be required to provide personal identifiers under section 257A 508",
+              "type": "section"
+            },
+            {
+              "name": "258B Information to be provided—authorised officers carrying out identification tests 509",
+              "type": "section"
+            },
+            {
+              "name": "258D Regulations may prescribe manner for carrying out identification tests 509",
+              "type": "section"
+            },
+            {
+              "name": "258E General rules for carrying out identification tests 509",
+              "type": "section"
+            },
+            {
+              "name": "258F Person must not be required to provide personal identifiers in a cruel, inhuman or degrading way etc. 510",
+              "type": "section"
+            },
+            {
+              "name": "258G Authorised officer may get help to carry out identification tests 510",
+              "type": "section"
+            },
+            {
+              "name": "259 Detention of vessel for purpose of search 510",
+              "type": "section"
+            },
+            {
+              "name": "260 Detention of vessel pending recovery of penalty 511",
+              "type": "section"
+            },
+            {
+              "name": "261 Disposal of dilapidated vessels etc 512",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 13AA—Identification of immigration detainees 514",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—Provision of personal identifiers 514",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261AA Immigration detainees must provide personal identifiers 514",
+                  "type": "section"
+                },
+                {
+                  "name": "261AB Authorised officers must require and carry out identification tests 515",
+                  "type": "section"
+                },
+                {
+                  "name": "261AC Information to be provided before carrying out identification tests 515",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—How identification tests are carried out 516",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261AD General rules for carrying out identification tests 516",
+                  "type": "section"
+                },
+                {
+                  "name": "261AE Use of force in carrying out identification tests 517",
+                  "type": "section"
+                },
+                {
+                  "name": "261AF Identification tests not to be carried out in cruel, inhuman or degrading manner etc. 518",
+                  "type": "section"
+                },
+                {
+                  "name": "261AG Authorised officer may get help to carry out identification tests 519",
+                  "type": "section"
+                },
+                {
+                  "name": "261AH Identification tests to be carried out by authorised officer of same sex as non-citizen 519",
+                  "type": "section"
+                },
+                {
+                  "name": "261AI Independent person to be present 519",
+                  "type": "section"
+                },
+                {
+                  "name": "261AJ Recording of identification tests 519",
+                  "type": "section"
+                },
+                {
+                  "name": "261AK Retesting 520",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Obligations relating to video recordings of identification tests 522",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261AKA Definitions 522",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKB Accessing video recordings 523",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKC Authorising access to video recordings 523",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKD Providing video recordings 524",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKE Unauthorised modification of video recordings 525",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKF Unauthorised impairment of video recordings 525",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKG Meanings of unauthorised modification and unauthorised impairment etc 526",
+                  "type": "section"
+                },
+                {
+                  "name": "261AKH Destroying video recordings 526",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Division 13AB—Identification of minors and incapable persons 528",
+          "type": "division",
+          "children": [
+            {
+              "name": "261AL Minors 528",
+              "type": "section"
+            },
+            {
+              "name": "261AM Incapable persons 528",
+              "type": "section"
+            }
+          ]
+        },
+        {
+          "name": "Division 13A—Automatic forfeiture of things used in certain offences 530",
+          "type": "division",
+          "children": [
+            {
+              "name": "Subdivision A—Automatic forfeiture 530",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261A Forfeiture of things used in certain offences 530",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision B—Seizure 531",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261B Seizure of things used in certain offences 531",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision C—Dealing with things seized as automatically forfeited 531",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261C Application of this Subdivision 531",
+                  "type": "section"
+                },
+                {
+                  "name": "261D Notice of seizure 531",
+                  "type": "section"
+                },
+                {
+                  "name": "261E Dealing with thing before it is condemned 532",
+                  "type": "section"
+                },
+                {
+                  "name": "261F Thing condemned if not claimed in time 533",
+                  "type": "section"
+                },
+                {
+                  "name": "261G Dealing with claim for thing 533",
+                  "type": "section"
+                },
+                {
+                  "name": "261H What happens if thing is claimed 534",
+                  "type": "section"
+                },
+                {
+                  "name": "261I Dealing with thing after it is condemned 536",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision D—Operation of Division 536",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261J Operation of Division 536",
+                  "type": "section"
+                }
+              ]
+            },
+            {
+              "name": "Subdivision E—Minister’s order that a thing not be condemned as forfeited 536",
+              "type": "subdivision",
+              "children": [
+                {
+                  "name": "261K Minister’s order that a thing not be condemned 536",
+                  "type": "section"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
