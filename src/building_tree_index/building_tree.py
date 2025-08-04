@@ -1,10 +1,12 @@
 import json
 import re
 from typing import Dict, List, Any
+import os
 
 def parse_migration_act_contents(file_path: str) -> Dict[str, Any]:
     """
     Parse the Migration Act contents into a hierarchical tree structure
+    Also extracts start and end page numbers for each section
     """
     # Read the content from the file
     with open(file_path, 'r', encoding='utf-8') as file:
@@ -22,6 +24,9 @@ def parse_migration_act_contents(file_path: str) -> Dict[str, Any]:
     current_part = None
     current_division = None
     current_subdivision = None
+    
+    # Store all sections to calculate end pages later
+    all_sections = []
     
     for line in lines:
         line = line.strip()
@@ -55,7 +60,7 @@ def parse_migration_act_contents(file_path: str) -> Dict[str, Any]:
             continue
             
         # Check for Subdivision pattern: "Subdivision X—description"
-        subdivision_match = re.match(r'^(Subdivision\s+[A-Z]+[A-Z]*—.+)$', line)
+        subdivision_match = re.match(r'^(Subdivision\s+[A-Z]+—.+)$', line)
         if subdivision_match:
             current_subdivision = {
                 "name": subdivision_match.group(1),
@@ -72,10 +77,19 @@ def parse_migration_act_contents(file_path: str) -> Dict[str, Any]:
         # Pattern: number/code followed by description and page number
         header_match = re.match(r'^(\d+[A-Z]*\s+.+)$', line)
         if header_match:
+            # Extract page number from the end of the line
+            page_match = re.search(r'\s(\d+)$', line)
+            start_page = int(page_match.group(1)) if page_match else None
+            
             header_section = {
                 "name": header_match.group(1),
-                "type": "section"
+                "type": "section",
+                "start_page": start_page,
+                "end_page": None  # Will be calculated later
             }
+            
+            # Store reference for end page calculation
+            all_sections.append(header_section)
             
             # Add to the most specific current container
             if current_subdivision:
@@ -88,21 +102,59 @@ def parse_migration_act_contents(file_path: str) -> Dict[str, Any]:
                 # Fallback to root if no part is active
                 tree["children"].append(header_section)
     
+    # Calculate end pages for all sections
+    for i, section in enumerate(all_sections):
+        if i < len(all_sections) - 1:
+            # End page is one less than the next section's start page
+            next_start = all_sections[i + 1]["start_page"]
+            if next_start is not None and section["start_page"] is not None:
+                section["end_page"] = next_start
+        # Last section doesn't have an end page calculated
+    
     return tree
 
-# Calling the function with 2 volume index .txt files
-file_path_volume_1 = 'extracted_index_pages/Volume 1/completed_volume_1_indexes.txt'
-tree_structure_volume_1 = parse_migration_act_contents(file_path_volume_1)
+def create_directories_if_not_exist(file_path: str):
+    """Create directories if they don't exist"""
+    directory = os.path.dirname(file_path)
+    if directory and not os.path.exists(directory):
+        os.makedirs(directory)
 
-file_path_volume_2 = 'extracted_index_pages/Volume 2/completed_volume_2_indexes.txt'
-tree_structure_volume_2 = parse_migration_act_contents(file_path_volume_2)
-
-
-# Save to JSON file
-output_file_volume_1 = 'json_tree_index/volume_1_tree.json'
-with open(output_file_volume_1, 'w', encoding='utf-8') as f:
-    json.dump(tree_structure_volume_1, f, indent=2, ensure_ascii=False)
-
-output_file_volume_2 = 'json_tree_index/volume_2_tree.json'
-with open(output_file_volume_2, 'w', encoding='utf-8') as f:
-    json.dump(tree_structure_volume_2, f, indent=2, ensure_ascii=False)
+# Main execution
+if __name__ == "__main__":
+    # File paths for the two volumes
+    file_path_volume_1 = 'extracted_index_pages/Volume 1/completed_volume_1_indexes.txt'
+    file_path_volume_2 = 'extracted_index_pages/Volume 2/completed_volume_2_indexes.txt'
+    
+    # Output file paths
+    output_file_volume_1 = 'json_tree_index/volume_1_tree.json'
+    output_file_volume_2 = 'json_tree_index/volume_2_tree.json'
+    
+    # Create output directories if they don't exist
+    create_directories_if_not_exist(output_file_volume_1)
+    create_directories_if_not_exist(output_file_volume_2)
+    
+    # Process Volume 1
+    if os.path.exists(file_path_volume_1):
+        print("Processing Volume 1...")
+        tree_structure_volume_1 = parse_migration_act_contents(file_path_volume_1)
+        
+        # Save to JSON file
+        with open(output_file_volume_1, 'w', encoding='utf-8') as f:
+            json.dump(tree_structure_volume_1, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Volume 1 tree structure saved to {output_file_volume_1}")
+    else:
+        print(f"❌ Volume 1 file not found: {file_path_volume_1}")
+    
+    # Process Volume 2
+    if os.path.exists(file_path_volume_2):
+        print("Processing Volume 2...")
+        tree_structure_volume_2 = parse_migration_act_contents(file_path_volume_2)
+        
+        # Save to JSON file
+        with open(output_file_volume_2, 'w', encoding='utf-8') as f:
+            json.dump(tree_structure_volume_2, f, indent=2, ensure_ascii=False)
+        
+        print(f"✅ Volume 2 tree structure saved to {output_file_volume_2}")
+    else:
+        print(f"❌ Volume 2 file not found: {file_path_volume_2}")
