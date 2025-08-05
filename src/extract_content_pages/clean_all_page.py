@@ -25,3 +25,29 @@ VOLUME_2_PDF_REAL_PAGE_GAP = 18
 # Relative path that the generated .txt files should be saved
 VOLUME_1_CONTENT_PAGE_TXT_FORMAT_PATH = 'Migration Act Content Pages Txt Format/volume 1'
 VOLUME_2_CONTENT_PAGE_TXT_FORMAT_PATH = 'Migration Act Content Pages Txt Format/volume 2'
+
+# import os for directory creation and file saving
+import os
+
+def extract_clean_save_pages(pdf_path, start_page, end_page, output_dir, page_gap_real_pdf):
+    """
+    Extracts, cleans, and saves each page in the given range from the PDF.
+    Args:
+        pdf_path (str): Path to the PDF file.
+        start_page (int): 1-based start page (inclusive).
+        end_page (int): 1-based end page (inclusive).
+        output_dir (str): Directory to save the cleaned .txt files.
+    """
+    os.makedirs(output_dir, exist_ok=True)
+    for page_num in range(start_page, end_page + 1):
+        try:
+            text = extract_text_from_pdf(pdf_path, page_num)
+            cleaned = clean_extracted_text(text) if text else "[No text extracted]"
+            output_filename = f"page_{page_num - page_gap_real_pdf}.txt"
+            output_path = os.path.join(output_dir, output_filename)
+            with open(output_path, "w", encoding="utf-8") as f:
+                f.write(cleaned)
+            print(f"Saved cleaned page {page_num - page_gap_real_pdf} to {output_path}")
+        except Exception as e:
+            print(f"Error processing page {page_num}: {e}")
+
