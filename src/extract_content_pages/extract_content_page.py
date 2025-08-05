@@ -1,3 +1,4 @@
+import os
 from PyPDF2 import PdfReader
 
 def extract_text_from_pdf(pdf_relative_path, page_number):
