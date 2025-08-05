@@ -47,11 +47,11 @@ class EnhancedTreeVisualizer:
     
     def determine_node_type(self, key, value, level, parent_type=None):
         """Determine the type of node based on its position in hierarchy"""
-        if self.is_leaf_node(value):
-            return 'section'
-        elif key == "To be continued ...":
+        if key == "To be continued ...":
             # Use the same type as parent to inherit color
             return parent_type if parent_type else 'section'
+        elif self.is_leaf_node(value):
+            return 'section'  # Leaf nodes are always sections (blue/purple)
         elif level == 0:
             return 'root'
         elif level == 1:
@@ -82,18 +82,25 @@ class EnhancedTreeVisualizer:
     
     def calculate_subtree_width(self, node, level=0):
         """Calculate the total width needed for a subtree"""
+        if self.is_leaf_node(node):
+            return 1
+        
         if not isinstance(node, dict):
             return 1
         
         items = list(node.items())
         display_items = self.apply_display_rule(items)
         
-        if level == 0:  # Leaf level
+        if level == 0:  # At leaf level, just count items
             return len(display_items) * self.min_horizontal_spacing
         
         total_width = 0
         for key, value in display_items:
-            if isinstance(value, dict) and key != "...":
+            if key == "To be continued ...":
+                total_width += self.min_horizontal_spacing
+            elif self.is_leaf_node(value):
+                total_width += self.min_horizontal_spacing
+            elif isinstance(value, dict):
                 child_width = self.calculate_subtree_width(value, level - 1)
                 total_width += child_width
             else:
@@ -118,12 +125,17 @@ class EnhancedTreeVisualizer:
     
     def get_max_depth(self, node, current_depth=0):
         """Get the maximum depth of the tree"""
+        if self.is_leaf_node(node):
+            return current_depth
+        
         if not isinstance(node, dict):
             return current_depth
         
         max_child_depth = current_depth
         for key, value in node.items():
-            if isinstance(value, dict):
+            if self.is_leaf_node(value):
+                max_child_depth = max(max_child_depth, current_depth + 1)
+            elif isinstance(value, dict):
                 child_depth = self.get_max_depth(value, current_depth + 1)
                 max_child_depth = max(max_child_depth, child_depth)
             else:
@@ -131,8 +143,11 @@ class EnhancedTreeVisualizer:
         
         return max_child_depth
     
-    def position_nodes_recursive(self, node, level, center_x, parent_x, all_nodes, max_depth, parent_y=None):
+    def position_nodes_recursive(self, node, level, center_x, parent_x, all_nodes, max_depth, parent_y=None, parent_type=None):
         """Recursively position nodes with proper spacing"""
+        if self.is_leaf_node(node):
+            return center_x
+        
         if not isinstance(node, dict):
             return center_x
         
@@ -144,10 +159,27 @@ class EnhancedTreeVisualizer:
         if parent_y is None:
             parent_y = y + self.level_height
         
+        # Determine the node type for children at this level
+        child_node_type = None
+        if level == 0:
+            child_node_type = 'volume'
+        elif level == 1:
+            child_node_type = 'part'
+        elif level == 2:
+            child_node_type = 'division'
+        elif level == 3:
+            child_node_type = 'subdivision'
+        else:
+            child_node_type = 'section'
+        
         # Calculate total width needed for all children
         child_widths = []
         for key, value in display_items:
-            if isinstance(value, dict) and key != "To be continued ...":
+            if key == "To be continued ...":
+                width = self.min_horizontal_spacing
+            elif self.is_leaf_node(value):
+                width = self.min_horizontal_spacing
+            elif isinstance(value, dict):
                 width = self.calculate_subtree_width(value, max_depth - level - 1)
             else:
                 width = self.min_horizontal_spacing
@@ -163,7 +195,11 @@ class EnhancedTreeVisualizer:
             child_center_x = current_x + width / 2
             
             # Create node info
-            node_type = self.determine_node_type(key, value, level)
+            if key == "To be continued ...":
+                node_type = child_node_type  # Use the same type as siblings
+            else:
+                node_type = self.determine_node_type(key, value, level, child_node_type)
+            
             display_name = self.get_display_name(key, value)
             
             node_info = {
@@ -183,9 +219,9 @@ class EnhancedTreeVisualizer:
         
         # Recursively position children
         for child_x, key, value in child_positions:
-            if isinstance(value, dict) and key != "...":
+            if key != "To be continued ..." and not self.is_leaf_node(value) and isinstance(value, dict):
                 self.position_nodes_recursive(
-                    value, level + 1, child_x, child_x, all_nodes, max_depth, y
+                    value, level + 1, child_x, child_x, all_nodes, max_depth, y, child_node_type
                 )
         
         return center_x
@@ -401,11 +437,11 @@ def main():
         # Show the visualization
         visualizer.show()
         
-        print("\\nVisualization complete!")
-        print("- Green hierarchy shows the document structure")
-        print("- Red nodes are the actual sections/articles")
-        print("- Orange nodes indicate there are more items")
-        print("- No overlapping - each node has adequate space")
+        print("\nVisualization complete!")
+        print("- Different colors show the document hierarchy levels")
+        print("- Purple nodes are the actual sections/articles (leaf nodes)")
+        print("- 'To be continued...' nodes now have the same color as their siblings")
+        print("- All leaf nodes are now properly displayed")
         
     else:
         print("Failed to load data. Please check the file path.")
