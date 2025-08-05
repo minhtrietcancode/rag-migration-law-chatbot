@@ -14,14 +14,25 @@ def add_cleaned_names_to_tree(json_file_path: str):
         """Recursively add cleaned_name to each node"""
         original_name = node.get('name', '')
         
-        if node.get('type') == 'root':
+        node_type = node.get('type')
+        if node_type == 'root':
             # For root node "Contents", cleaned_name is same as name
             cleaned_name = original_name
+        elif node_type in {'part', 'division', 'subdivision'}:
+            # Remove page number from the end
+            name_wo_page = re.sub(r'\s+\d+$', '', original_name).strip()
+            # Get everything after the first '—'
+            if '—' in name_wo_page:
+                cleaned_name = '—'.join(name_wo_page.split('—')[1:]).strip()
+            else:
+                cleaned_name = name_wo_page
+        elif node_type == 'section':
+            # Remove page number from the end
+            name_wo_page = re.sub(r'\s+\d+$', '', original_name).strip()
+            # Remove the first term (section code or part number) from the beginning
+            cleaned_name = ' '.join(name_wo_page.split()[1:]).strip()
         else:
-            # For all other levels (part, division, subdivision, section)
-            # Remove page number from the end (last number after space)
-            cleaned_name = re.sub(r'\s+\d+$', '', original_name).strip()
-        
+            cleaned_name = original_name
         # Add cleaned_name field
         node['cleaned_name'] = cleaned_name
         

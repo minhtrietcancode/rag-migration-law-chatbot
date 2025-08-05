@@ -1,22 +1,22 @@
 {
   "name": "Contents - Volume 2",
-  "cleaned_name": "Contents",
+  "cleaned_name": "Contents - Volume 2",
   "type": "root",
   "volume": 2,
   "children": [
     {
       "name": "Part 2—Arrival, presence and departure of persons 1",
-      "cleaned_name": "Part 2—Arrival, presence and departure of persons",
+      "cleaned_name": "Arrival, presence and departure of persons",
       "type": "part",
       "children": [
         {
           "name": "Division 14—Recovery of costs from certain persons 1",
-          "cleaned_name": "Division 14—Recovery of costs from certain persons",
+          "cleaned_name": "Recovery of costs from certain persons",
           "type": "division",
           "children": [
             {
               "name": "262 Liability to the Commonwealth for the cost of keeping, maintaining and removing certain persons 1",
-              "cleaned_name": "262 Liability to the Commonwealth for the cost of keeping, maintaining and removing certain persons",
+              "cleaned_name": "Liability to the Commonwealth for the cost of keeping, maintaining and removing certain persons",
               "type": "section",
               "start_page": 1,
               "end_page": 2,
@@ -24,7 +24,7 @@
             },
             {
               "name": "263 Secretary or Australian Border Force Commissioner able to issue notice of debt 2",
-              "cleaned_name": "263 Secretary or Australian Border Force Commissioner able to issue notice of debt",
+              "cleaned_name": "Secretary or Australian Border Force Commissioner able to issue notice of debt",
               "type": "section",
               "start_page": 2,
               "end_page": 2,
@@ -32,7 +32,7 @@
             },
             {
               "name": "264 Garnishee notice 2",
-              "cleaned_name": "264 Garnishee notice",
+              "cleaned_name": "Garnishee notice",
               "type": "section",
               "start_page": 2,
               "end_page": 4,
@@ -40,7 +40,7 @@
             },
             {
               "name": "265 Debt from failure to comply with garnishee notice 4",
-              "cleaned_name": "265 Debt from failure to comply with garnishee notice",
+              "cleaned_name": "Debt from failure to comply with garnishee notice",
               "type": "section",
               "start_page": 4,
               "end_page": 5,
@@ -48,7 +48,7 @@
             },
             {
               "name": "266 Future debts 5",
-              "cleaned_name": "266 Future debts",
+              "cleaned_name": "Future debts",
               "type": "section",
               "start_page": 5,
               "end_page": 5,
@@ -56,7 +56,7 @@
             },
             {
               "name": "267 Secretary or Australian Border Force Commissioner may freeze amounts to secure future debts 5",
-              "cleaned_name": "267 Secretary or Australian Border Force Commissioner may freeze amounts to secure future debts",
+              "cleaned_name": "Secretary or Australian Border Force Commissioner may freeze amounts to secure future debts",
               "type": "section",
               "start_page": 5,
               "end_page": 6,
@@ -64,7 +64,7 @@
             },
             {
               "name": "268 Application of Division to the Crown 6",
-              "cleaned_name": "268 Application of Division to the Crown",
+              "cleaned_name": "Application of Division to the Crown",
               "type": "section",
               "start_page": 6,
               "end_page": 7,
@@ -74,17 +74,17 @@
         },
         {
           "name": "Division 14A—Monitoring compliance with student visa conditions 7",
-          "cleaned_name": "Division 14A—Monitoring compliance with student visa conditions",
+          "cleaned_name": "Monitoring compliance with student visa conditions",
           "type": "division",
           "children": [
             {
               "name": "Subdivision A—Preliminary 7",
-              "cleaned_name": "Subdivision A—Preliminary",
+              "cleaned_name": "Preliminary",
               "type": "subdivision",
               "children": [
                 {
                   "name": "268AA Definitions 7",
-                  "cleaned_name": "268AA Definitions",
+                  "cleaned_name": "Definitions",
                   "type": "section",
                   "start_page": 7,
                   "end_page": 8,
@@ -92,7 +92,7 @@
                 },
                 {
                   "name": "268AB Division binds the Crown 8",
-                  "cleaned_name": "268AB Division binds the Crown",
+                  "cleaned_name": "Division binds the Crown",
                   "type": "section",
                   "start_page": 8,
                   "end_page": 8,
@@ -100,7 +100,7 @@
                 },
                 {
                   "name": "268AD Powers conferred on magistrates in their personal capacity 8",
-                  "cleaned_name": "268AD Powers conferred on magistrates in their personal capacity",
+                  "cleaned_name": "Powers conferred on magistrates in their personal capacity",
                   "type": "section",
                   "start_page": 8,
                   "end_page": 8,
@@ -110,12 +110,12 @@
             },
             {
               "name": "Subdivision B—Notices requiring information and documents 8",
-              "cleaned_name": "Subdivision B—Notices requiring information and documents",
+              "cleaned_name": "Notices requiring information and documents",
               "type": "subdivision",
               "children": [
                 {
                   "name": "268BA Production notices 8",
-                  "cleaned_name": "268BA Production notices",
+                  "cleaned_name": "Production notices",
                   "type": "section",
                   "start_page": 8,
                   "end_page": 9,
@@ -123,7 +123,7 @@
                 },
                 {
                   "name": "268BB Contents of the production notice 9",
-                  "cleaned_name": "268BB Contents of the production notice",
+                  "cleaned_name": "Contents of the production notice",
                   "type": "section",
                   "start_page": 9,
                   "end_page": 10,
@@ -131,7 +131,7 @@
                 },
                 {
                   "name": "268BC Serving production notices 10",
-                  "cleaned_name": "268BC Serving production notices",
+                  "cleaned_name": "Serving production notices",
                   "type": "section",
                   "start_page": 10,
                   "end_page": 10,
@@ -139,7 +139,7 @@
                 },
                 {
                   "name": "268BD Attendance notices 10",
-                  "cleaned_name": "268BD Attendance notices",
+                  "cleaned_name": "Attendance notices",
                   "type": "section",
                   "start_page": 10,
                   "end_page": 11,
@@ -147,7 +147,7 @@
                 },
                 {
                   "name": "268BE Contents of attendance notice 11",
-                  "cleaned_name": "268BE Contents of attendance notice",
+                  "cleaned_name": "Contents of attendance notice",
                   "type": "section",
                   "start_page": 11,
                   "end_page": 11,
@@ -155,7 +155,7 @@
                 },
                 {
                   "name": "268BF Scales of expenses 11",
-                  "cleaned_name": "268BF Scales of expenses",
+                  "cleaned_name": "Scales of expenses",
                   "type": "section",
                   "start_page": 11,
                   "end_page": 11,
@@ -163,7 +163,7 @@
                 },
                 {
                   "name": "268BG Reasonable compensation for giving copies 11",
-                  "cleaned_name": "268BG Reasonable compensation for giving copies",
+                  "cleaned_name": "Reasonable compensation for giving copies",
                   "type": "section",
                   "start_page": 11,
                   "end_page": 12,
@@ -171,7 +171,7 @@
                 },
                 {
                   "name": "268BH Offence: failing to comply with a notice 12",
-                  "cleaned_name": "268BH Offence: failing to comply with a notice",
+                  "cleaned_name": "Offence: failing to comply with a notice",
                   "type": "section",
                   "start_page": 12,
                   "end_page": 12,
@@ -179,7 +179,7 @@
                 },
                 {
                   "name": "268BI Offence: giving false or misleading information 12",
-                  "cleaned_name": "268BI Offence: giving false or misleading information",
+                  "cleaned_name": "Offence: giving false or misleading information",
                   "type": "section",
                   "start_page": 12,
                   "end_page": 12,
@@ -187,7 +187,7 @@
                 },
                 {
                   "name": "268BJ Offence: giving false or misleading document 12",
-                  "cleaned_name": "268BJ Offence: giving false or misleading document",
+                  "cleaned_name": "Offence: giving false or misleading document",
                   "type": "section",
                   "start_page": 12,
                   "end_page": 13,
@@ -195,7 +195,7 @@
                 },
                 {
                   "name": "268BK Information and documents that incriminate a person 13",
-                  "cleaned_name": "268BK Information and documents that incriminate a person",
+                  "cleaned_name": "Information and documents that incriminate a person",
                   "type": "section",
                   "start_page": 13,
                   "end_page": 13,
@@ -203,7 +203,7 @@
                 },
                 {
                   "name": "268BL Copies of documents 13",
-                  "cleaned_name": "268BL Copies of documents",
+                  "cleaned_name": "Copies of documents",
                   "type": "section",
                   "start_page": 13,
                   "end_page": 13,
@@ -211,7 +211,7 @@
                 },
                 {
                   "name": "268BM Officer may retain documents 13",
-                  "cleaned_name": "268BM Officer may retain documents",
+                  "cleaned_name": "Officer may retain documents",
                   "type": "section",
                   "start_page": 13,
                   "end_page": 14,
@@ -219,7 +219,7 @@
                 },
                 {
                   "name": "268BN Owner of document must be given copy 14",
-                  "cleaned_name": "268BN Owner of document must be given copy",
+                  "cleaned_name": "Owner of document must be given copy",
                   "type": "section",
                   "start_page": 14,
                   "end_page": 14,
@@ -227,7 +227,7 @@
                 },
                 {
                   "name": "268BO Retaining documents 14",
-                  "cleaned_name": "268BO Retaining documents",
+                  "cleaned_name": "Retaining documents",
                   "type": "section",
                   "start_page": 14,
                   "end_page": 15,
@@ -235,7 +235,7 @@
                 },
                 {
                   "name": "268BP Officer may apply to magistrate or ART member for a further period 15",
-                  "cleaned_name": "268BP Officer may apply to magistrate or ART member for a further period",
+                  "cleaned_name": "Officer may apply to magistrate or ART member for a further period",
                   "type": "section",
                   "start_page": 15,
                   "end_page": 15,
@@ -243,7 +243,7 @@
                 },
                 {
                   "name": "268BQ Magistrate or ART member may order retention for further period 15",
-                  "cleaned_name": "268BQ Magistrate or ART member may order retention for further period",
+                  "cleaned_name": "Magistrate or ART member may order retention for further period",
                   "type": "section",
                   "start_page": 15,
                   "end_page": 16,
@@ -253,12 +253,12 @@
             },
             {
               "name": "Subdivision C—Searching education providers’ premises 16",
-              "cleaned_name": "Subdivision C—Searching education providers’ premises",
+              "cleaned_name": "Searching education providers’ premises",
               "type": "subdivision",
               "children": [
                 {
                   "name": "268CA Authorised officer may enter premises for a visa monitoring purpose 16",
-                  "cleaned_name": "268CA Authorised officer may enter premises for a visa monitoring purpose",
+                  "cleaned_name": "Authorised officer may enter premises for a visa monitoring purpose",
                   "type": "section",
                   "start_page": 16,
                   "end_page": 17,
@@ -266,7 +266,7 @@
                 },
                 {
                   "name": "268CB Being on premises with consent 17",
-                  "cleaned_name": "268CB Being on premises with consent",
+                  "cleaned_name": "Being on premises with consent",
                   "type": "section",
                   "start_page": 17,
                   "end_page": 17,
@@ -274,7 +274,7 @@
                 },
                 {
                   "name": "268CC Consent 17",
-                  "cleaned_name": "268CC Consent",
+                  "cleaned_name": "Consent",
                   "type": "section",
                   "start_page": 17,
                   "end_page": 17,
@@ -282,7 +282,7 @@
                 },
                 {
                   "name": "268CD Authorised officer may apply for monitoring warrant 17",
-                  "cleaned_name": "268CD Authorised officer may apply for monitoring warrant",
+                  "cleaned_name": "Authorised officer may apply for monitoring warrant",
                   "type": "section",
                   "start_page": 17,
                   "end_page": 17,
@@ -290,7 +290,7 @@
                 },
                 {
                   "name": "268CE Magistrate or ART member may issue monitoring warrant 17",
-                  "cleaned_name": "268CE Magistrate or ART member may issue monitoring warrant",
+                  "cleaned_name": "Magistrate or ART member may issue monitoring warrant",
                   "type": "section",
                   "start_page": 17,
                   "end_page": 18,
@@ -298,7 +298,7 @@
                 },
                 {
                   "name": "268CF Magistrate or ART member may require more information 18",
-                  "cleaned_name": "268CF Magistrate or ART member may require more information",
+                  "cleaned_name": "Magistrate or ART member may require more information",
                   "type": "section",
                   "start_page": 18,
                   "end_page": 18,
@@ -306,7 +306,7 @@
                 },
                 {
                   "name": "268CG Contents of monitoring warrant 18",
-                  "cleaned_name": "268CG Contents of monitoring warrant",
+                  "cleaned_name": "Contents of monitoring warrant",
                   "type": "section",
                   "start_page": 18,
                   "end_page": 18,
@@ -314,7 +314,7 @@
                 },
                 {
                   "name": "268CH Use of reasonable force and assistance 18",
-                  "cleaned_name": "268CH Use of reasonable force and assistance",
+                  "cleaned_name": "Use of reasonable force and assistance",
                   "type": "section",
                   "start_page": 18,
                   "end_page": 19,
@@ -322,7 +322,7 @@
                 },
                 {
                   "name": "268CI Monitoring powers of authorised officers 19",
-                  "cleaned_name": "268CI Monitoring powers of authorised officers",
+                  "cleaned_name": "Monitoring powers of authorised officers",
                   "type": "section",
                   "start_page": 19,
                   "end_page": 20,
@@ -330,7 +330,7 @@
                 },
                 {
                   "name": "268CJ Authorised officer on premises with consent may ask questions 20",
-                  "cleaned_name": "268CJ Authorised officer on premises with consent may ask questions",
+                  "cleaned_name": "Authorised officer on premises with consent may ask questions",
                   "type": "section",
                   "start_page": 20,
                   "end_page": 21,
@@ -338,7 +338,7 @@
                 },
                 {
                   "name": "268CK Authorised officer on premises under warrant may ask questions 21",
-                  "cleaned_name": "268CK Authorised officer on premises under warrant may ask questions",
+                  "cleaned_name": "Authorised officer on premises under warrant may ask questions",
                   "type": "section",
                   "start_page": 21,
                   "end_page": 21,
@@ -346,7 +346,7 @@
                 },
                 {
                   "name": "268CL Offence: failure to answer question 21",
-                  "cleaned_name": "268CL Offence: failure to answer question",
+                  "cleaned_name": "Offence: failure to answer question",
                   "type": "section",
                   "start_page": 21,
                   "end_page": 22,
@@ -354,7 +354,7 @@
                 },
                 {
                   "name": "268CM Offence: giving false or misleading information 22",
-                  "cleaned_name": "268CM Offence: giving false or misleading information",
+                  "cleaned_name": "Offence: giving false or misleading information",
                   "type": "section",
                   "start_page": 22,
                   "end_page": 22,
@@ -362,7 +362,7 @@
                 },
                 {
                   "name": "268CN Offence: giving or showing documents that are false or misleading in material particulars 22",
-                  "cleaned_name": "268CN Offence: giving or showing documents that are false or misleading in material particulars",
+                  "cleaned_name": "Offence: giving or showing documents that are false or misleading in material particulars",
                   "type": "section",
                   "start_page": 22,
                   "end_page": 23,
@@ -370,7 +370,7 @@
                 },
                 {
                   "name": "268CO Use of electronic equipment in exercising monitoring powers 23",
-                  "cleaned_name": "268CO Use of electronic equipment in exercising monitoring powers",
+                  "cleaned_name": "Use of electronic equipment in exercising monitoring powers",
                   "type": "section",
                   "start_page": 23,
                   "end_page": 23,
@@ -378,7 +378,7 @@
                 },
                 {
                   "name": "268CP Use of electronic equipment by experts 23",
-                  "cleaned_name": "268CP Use of electronic equipment by experts",
+                  "cleaned_name": "Use of electronic equipment by experts",
                   "type": "section",
                   "start_page": 23,
                   "end_page": 24,
@@ -386,7 +386,7 @@
                 },
                 {
                   "name": "268CQ Extension of period 24",
-                  "cleaned_name": "268CQ Extension of period",
+                  "cleaned_name": "Extension of period",
                   "type": "section",
                   "start_page": 24,
                   "end_page": 24,
@@ -394,7 +394,7 @@
                 },
                 {
                   "name": "268CR Powers without warrant in emergency situations 24",
-                  "cleaned_name": "268CR Powers without warrant in emergency situations",
+                  "cleaned_name": "Powers without warrant in emergency situations",
                   "type": "section",
                   "start_page": 24,
                   "end_page": 25,
@@ -402,7 +402,7 @@
                 },
                 {
                   "name": "268CS Retaining seized things 25",
-                  "cleaned_name": "268CS Retaining seized things",
+                  "cleaned_name": "Retaining seized things",
                   "type": "section",
                   "start_page": 25,
                   "end_page": 25,
@@ -410,7 +410,7 @@
                 },
                 {
                   "name": "268CT Authorised officer may apply for a thing to be retained for a further period 25",
-                  "cleaned_name": "268CT Authorised officer may apply for a thing to be retained for a further period",
+                  "cleaned_name": "Authorised officer may apply for a thing to be retained for a further period",
                   "type": "section",
                   "start_page": 25,
                   "end_page": 26,
@@ -418,7 +418,7 @@
                 },
                 {
                   "name": "268CU Magistrate or ART member may order that thing be retained 26",
-                  "cleaned_name": "268CU Magistrate or ART member may order that thing be retained",
+                  "cleaned_name": "Magistrate or ART member may order that thing be retained",
                   "type": "section",
                   "start_page": 26,
                   "end_page": 26,
@@ -426,7 +426,7 @@
                 },
                 {
                   "name": "268CV Occupier to provide authorised officer with all facilities and assistance 26",
-                  "cleaned_name": "268CV Occupier to provide authorised officer with all facilities and assistance",
+                  "cleaned_name": "Occupier to provide authorised officer with all facilities and assistance",
                   "type": "section",
                   "start_page": 26,
                   "end_page": 27,
@@ -434,7 +434,7 @@
                 },
                 {
                   "name": "268CW Announcement before entry 27",
-                  "cleaned_name": "268CW Announcement before entry",
+                  "cleaned_name": "Announcement before entry",
                   "type": "section",
                   "start_page": 27,
                   "end_page": 27,
@@ -442,7 +442,7 @@
                 },
                 {
                   "name": "268CX Copy of monitoring warrant to be given to occupier before entry 27",
-                  "cleaned_name": "268CX Copy of monitoring warrant to be given to occupier before entry",
+                  "cleaned_name": "Copy of monitoring warrant to be given to occupier before entry",
                   "type": "section",
                   "start_page": 27,
                   "end_page": 27,
@@ -450,7 +450,7 @@
                 },
                 {
                   "name": "268CY Compensation for damage to electronic equipment or data 27",
-                  "cleaned_name": "268CY Compensation for damage to electronic equipment or data",
+                  "cleaned_name": "Compensation for damage to electronic equipment or data",
                   "type": "section",
                   "start_page": 27,
                   "end_page": 28,
@@ -458,7 +458,7 @@
                 },
                 {
                   "name": "268CZ Occupier entitled to be present during execution of monitoring warrant 28",
-                  "cleaned_name": "268CZ Occupier entitled to be present during execution of monitoring warrant",
+                  "cleaned_name": "Occupier entitled to be present during execution of monitoring warrant",
                   "type": "section",
                   "start_page": 28,
                   "end_page": 28,
@@ -466,7 +466,7 @@
                 },
                 {
                   "name": "268CZA Identity cards 28",
-                  "cleaned_name": "268CZA Identity cards",
+                  "cleaned_name": "Identity cards",
                   "type": "section",
                   "start_page": 28,
                   "end_page": 29,
@@ -474,7 +474,7 @@
                 },
                 {
                   "name": "268CZB Authorised officer must produce identity card on request 29",
-                  "cleaned_name": "268CZB Authorised officer must produce identity card on request",
+                  "cleaned_name": "Authorised officer must produce identity card on request",
                   "type": "section",
                   "start_page": 29,
                   "end_page": 29,
@@ -482,7 +482,7 @@
                 },
                 {
                   "name": "268CZC Officer may apply for warrants by telephone etc. 29",
-                  "cleaned_name": "268CZC Officer may apply for warrants by telephone etc.",
+                  "cleaned_name": "Officer may apply for warrants by telephone etc.",
                   "type": "section",
                   "start_page": 29,
                   "end_page": 30,
@@ -490,7 +490,7 @@
                 },
                 {
                   "name": "268CZD Magistrate or ART member may grant warrant by telephone etc 30",
-                  "cleaned_name": "268CZD Magistrate or ART member may grant warrant by telephone etc",
+                  "cleaned_name": "Magistrate or ART member may grant warrant by telephone etc",
                   "type": "section",
                   "start_page": 30,
                   "end_page": 30,
@@ -498,7 +498,7 @@
                 },
                 {
                   "name": "268CZE Procedure for issuing warrant by telephone etc. 30",
-                  "cleaned_name": "268CZE Procedure for issuing warrant by telephone etc.",
+                  "cleaned_name": "Procedure for issuing warrant by telephone etc.",
                   "type": "section",
                   "start_page": 30,
                   "end_page": 31,
@@ -506,7 +506,7 @@
                 },
                 {
                   "name": "268CZF Procedure after telephone warrant ceases or is executed 31",
-                  "cleaned_name": "268CZF Procedure after telephone warrant ceases or is executed",
+                  "cleaned_name": "Procedure after telephone warrant ceases or is executed",
                   "type": "section",
                   "start_page": 31,
                   "end_page": 31,
@@ -514,7 +514,7 @@
                 },
                 {
                   "name": "268CZG Form of warrant authorises exercise of power 31",
-                  "cleaned_name": "268CZG Form of warrant authorises exercise of power",
+                  "cleaned_name": "Form of warrant authorises exercise of power",
                   "type": "section",
                   "start_page": 31,
                   "end_page": 32,
@@ -522,7 +522,7 @@
                 },
                 {
                   "name": "268CZH Court to assume that exercise of power not authorised by telephone etc. warrant 32",
-                  "cleaned_name": "268CZH Court to assume that exercise of power not authorised by telephone etc. warrant",
+                  "cleaned_name": "Court to assume that exercise of power not authorised by telephone etc. warrant",
                   "type": "section",
                   "start_page": 32,
                   "end_page": 33,
@@ -534,12 +534,12 @@
         },
         {
           "name": "Division 15—General 33",
-          "cleaned_name": "Division 15—General",
+          "cleaned_name": "General",
           "type": "division",
           "children": [
             {
               "name": "269 Securities 33",
-              "cleaned_name": "269 Securities",
+              "cleaned_name": "Securities",
               "type": "section",
               "start_page": 33,
               "end_page": 34,
@@ -547,7 +547,7 @@
             },
             {
               "name": "270 Reports of absences of crews of vessels 34",
-              "cleaned_name": "270 Reports of absences of crews of vessels",
+              "cleaned_name": "Reports of absences of crews of vessels",
               "type": "section",
               "start_page": 34,
               "end_page": 35,
@@ -555,7 +555,7 @@
             },
             {
               "name": "271 Proof of certain matters 35",
-              "cleaned_name": "271 Proof of certain matters",
+              "cleaned_name": "Proof of certain matters",
               "type": "section",
               "start_page": 35,
               "end_page": 38,
@@ -563,7 +563,7 @@
             },
             {
               "name": "272 Migrant centres 38",
-              "cleaned_name": "272 Migrant centres",
+              "cleaned_name": "Migrant centres",
               "type": "section",
               "start_page": 38,
               "end_page": 39,
@@ -571,7 +571,7 @@
             },
             {
               "name": "273 Detention centres 39",
-              "cleaned_name": "273 Detention centres",
+              "cleaned_name": "Detention centres",
               "type": "section",
               "start_page": 39,
               "end_page": 39,
@@ -579,7 +579,7 @@
             },
             {
               "name": "274 Secretary or Australian Border Force Commissioner may issue documents containing information concerning certain persons 39",
-              "cleaned_name": "274 Secretary or Australian Border Force Commissioner may issue documents containing information concerning certain persons",
+              "cleaned_name": "Secretary or Australian Border Force Commissioner may issue documents containing information concerning certain persons",
               "type": "section",
               "start_page": 39,
               "end_page": 41,
@@ -591,17 +591,17 @@
     },
     {
       "name": "Part 3—Migration agents and immigration assistance 41",
-      "cleaned_name": "Part 3—Migration agents and immigration assistance",
+      "cleaned_name": "Migration agents and immigration assistance",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Preliminary 41",
-          "cleaned_name": "Division 1—Preliminary",
+          "cleaned_name": "Preliminary",
           "type": "division",
           "children": [
             {
               "name": "275 Interpretation 41",
-              "cleaned_name": "275 Interpretation",
+              "cleaned_name": "Interpretation",
               "type": "section",
               "start_page": 41,
               "end_page": 43,
@@ -609,7 +609,7 @@
             },
             {
               "name": "276 Immigration assistance 43",
-              "cleaned_name": "276 Immigration assistance",
+              "cleaned_name": "Immigration assistance",
               "type": "section",
               "start_page": 43,
               "end_page": 45,
@@ -617,7 +617,7 @@
             },
             {
               "name": "278 Relation by employment 45",
-              "cleaned_name": "278 Relation by employment",
+              "cleaned_name": "Relation by employment",
               "type": "section",
               "start_page": 45,
               "end_page": 46,
@@ -625,7 +625,7 @@
             },
             {
               "name": "278A Eligibility for restricted legal practitioners 46",
-              "cleaned_name": "278A Eligibility for restricted legal practitioners",
+              "cleaned_name": "Eligibility for restricted legal practitioners",
               "type": "section",
               "start_page": 46,
               "end_page": 48,
@@ -633,7 +633,7 @@
             },
             {
               "name": "279 Part VIIC of the Crimes Act 1914 to apply to this Part 48",
-              "cleaned_name": "279 Part VIIC of the Crimes Act 1914 to apply to this Part",
+              "cleaned_name": "Part VIIC of the Crimes Act 1914 to apply to this Part",
               "type": "section",
               "start_page": 48,
               "end_page": 49,
@@ -643,12 +643,12 @@
         },
         {
           "name": "Division 2—Restrictions on giving of immigration assistance and making of immigration representations 49",
-          "cleaned_name": "Division 2—Restrictions on giving of immigration assistance and making of immigration representations",
+          "cleaned_name": "Restrictions on giving of immigration assistance and making of immigration representations",
           "type": "division",
           "children": [
             {
               "name": "280 Restrictions on giving of immigration assistance 49",
-              "cleaned_name": "280 Restrictions on giving of immigration assistance",
+              "cleaned_name": "Restrictions on giving of immigration assistance",
               "type": "section",
               "start_page": 49,
               "end_page": 51,
@@ -656,7 +656,7 @@
             },
             {
               "name": "281 Restriction on charging fees for immigration assistance 51",
-              "cleaned_name": "281 Restriction on charging fees for immigration assistance",
+              "cleaned_name": "Restriction on charging fees for immigration assistance",
               "type": "section",
               "start_page": 51,
               "end_page": 52,
@@ -664,7 +664,7 @@
             },
             {
               "name": "282 Restriction on charging fees for immigration representations 52",
-              "cleaned_name": "282 Restriction on charging fees for immigration representations",
+              "cleaned_name": "Restriction on charging fees for immigration representations",
               "type": "section",
               "start_page": 52,
               "end_page": 53,
@@ -672,7 +672,7 @@
             },
             {
               "name": "283 False representation that a person is a registered migration agent 53",
-              "cleaned_name": "283 False representation that a person is a registered migration agent",
+              "cleaned_name": "False representation that a person is a registered migration agent",
               "type": "section",
               "start_page": 53,
               "end_page": 54,
@@ -680,7 +680,7 @@
             },
             {
               "name": "284 Restriction on self-advertising of the giving of immigration assistance 54",
-              "cleaned_name": "284 Restriction on self-advertising of the giving of immigration assistance",
+              "cleaned_name": "Restriction on self-advertising of the giving of immigration assistance",
               "type": "section",
               "start_page": 54,
               "end_page": 54,
@@ -688,7 +688,7 @@
             },
             {
               "name": "285 Restriction on other advertising of immigration assistance 54",
-              "cleaned_name": "285 Restriction on other advertising of immigration assistance",
+              "cleaned_name": "Restriction on other advertising of immigration assistance",
               "type": "section",
               "start_page": 54,
               "end_page": 56,
@@ -698,12 +698,12 @@
         },
         {
           "name": "Division 3—Registration of migration agents 56",
-          "cleaned_name": "Division 3—Registration of migration agents",
+          "cleaned_name": "Registration of migration agents",
           "type": "division",
           "children": [
             {
               "name": "287 Register of Migration Agents 56",
-              "cleaned_name": "287 Register of Migration Agents",
+              "cleaned_name": "Register of Migration Agents",
               "type": "section",
               "start_page": 56,
               "end_page": 57,
@@ -711,7 +711,7 @@
             },
             {
               "name": "288 Application for registration 57",
-              "cleaned_name": "288 Application for registration",
+              "cleaned_name": "Application for registration",
               "type": "section",
               "start_page": 57,
               "end_page": 59,
@@ -719,7 +719,7 @@
             },
             {
               "name": "288A Publishing requirement 59",
-              "cleaned_name": "288A Publishing requirement",
+              "cleaned_name": "Publishing requirement",
               "type": "section",
               "start_page": 59,
               "end_page": 59,
@@ -727,7 +727,7 @@
             },
             {
               "name": "288B Requirement to provide further information etc 59",
-              "cleaned_name": "288B Requirement to provide further information etc",
+              "cleaned_name": "Requirement to provide further information etc",
               "type": "section",
               "start_page": 59,
               "end_page": 61,
@@ -735,7 +735,7 @@
             },
             {
               "name": "289 Registration 61",
-              "cleaned_name": "289 Registration",
+              "cleaned_name": "Registration",
               "type": "section",
               "start_page": 61,
               "end_page": 62,
@@ -743,7 +743,7 @@
             },
             {
               "name": "289A Applicant must not be registered if academic and vocational requirements are not satisfied 62",
-              "cleaned_name": "289A Applicant must not be registered if academic and vocational requirements are not satisfied",
+              "cleaned_name": "Applicant must not be registered if academic and vocational requirements are not satisfied",
               "type": "section",
               "start_page": 62,
               "end_page": 62,
@@ -751,7 +751,7 @@
             },
             {
               "name": "289B Applications by Australian legal practitioners 62",
-              "cleaned_name": "289B Applications by Australian legal practitioners",
+              "cleaned_name": "Applications by Australian legal practitioners",
               "type": "section",
               "start_page": 62,
               "end_page": 63,
@@ -759,7 +759,7 @@
             },
             {
               "name": "290 Applicant must not be registered if not a person of integrity or not fit and proper 63",
-              "cleaned_name": "290 Applicant must not be registered if not a person of integrity or not fit and proper",
+              "cleaned_name": "Applicant must not be registered if not a person of integrity or not fit and proper",
               "type": "section",
               "start_page": 63,
               "end_page": 64,
@@ -767,7 +767,7 @@
             },
             {
               "name": "290A Applicant must not be registered if continuing professional development requirements are not satisfied 64",
-              "cleaned_name": "290A Applicant must not be registered if continuing professional development requirements are not satisfied",
+              "cleaned_name": "Applicant must not be registered if continuing professional development requirements are not satisfied",
               "type": "section",
               "start_page": 64,
               "end_page": 65,
@@ -775,7 +775,7 @@
             },
             {
               "name": "290B Applicant must not be registered if any unpaid registration status charge 65",
-              "cleaned_name": "290B Applicant must not be registered if any unpaid registration status charge",
+              "cleaned_name": "Applicant must not be registered if any unpaid registration status charge",
               "type": "section",
               "start_page": 65,
               "end_page": 65,
@@ -783,7 +783,7 @@
             },
             {
               "name": "291 Applicant must not be registered if registration refused in past year 65",
-              "cleaned_name": "291 Applicant must not be registered if registration refused in past year",
+              "cleaned_name": "Applicant must not be registered if registration refused in past year",
               "type": "section",
               "start_page": 65,
               "end_page": 65,
@@ -791,7 +791,7 @@
             },
             {
               "name": "291A Applicant must not be registered if suspension would be in effect 65",
-              "cleaned_name": "291A Applicant must not be registered if suspension would be in effect",
+              "cleaned_name": "Applicant must not be registered if suspension would be in effect",
               "type": "section",
               "start_page": 65,
               "end_page": 66,
@@ -799,7 +799,7 @@
             },
             {
               "name": "292 Applicant must not be registered if registration cancelled in past 5 years 66",
-              "cleaned_name": "292 Applicant must not be registered if registration cancelled in past 5 years",
+              "cleaned_name": "Applicant must not be registered if registration cancelled in past 5 years",
               "type": "section",
               "start_page": 66,
               "end_page": 66,
@@ -807,7 +807,7 @@
             },
             {
               "name": "292A Applicant must not be registered if any barring period has not ended 66",
-              "cleaned_name": "292A Applicant must not be registered if any barring period has not ended",
+              "cleaned_name": "Applicant must not be registered if any barring period has not ended",
               "type": "section",
               "start_page": 66,
               "end_page": 66,
@@ -815,7 +815,7 @@
             },
             {
               "name": "292B Applicant must not be registered unless he or she holds appropriate professional indemnity insurance 66",
-              "cleaned_name": "292B Applicant must not be registered unless he or she holds appropriate professional indemnity insurance",
+              "cleaned_name": "Applicant must not be registered unless he or she holds appropriate professional indemnity insurance",
               "type": "section",
               "start_page": 66,
               "end_page": 67,
@@ -823,7 +823,7 @@
             },
             {
               "name": "293 Applicant under 18 must not be registered 67",
-              "cleaned_name": "293 Applicant under 18 must not be registered",
+              "cleaned_name": "Applicant under 18 must not be registered",
               "type": "section",
               "start_page": 67,
               "end_page": 67,
@@ -831,7 +831,7 @@
             },
             {
               "name": "294 Applicant must not be registered if not an Australian citizen, permanent resident or New Zealander with special visa 67",
-              "cleaned_name": "294 Applicant must not be registered if not an Australian citizen, permanent resident or New Zealander with special visa",
+              "cleaned_name": "Applicant must not be registered if not an Australian citizen, permanent resident or New Zealander with special visa",
               "type": "section",
               "start_page": 67,
               "end_page": 67,
@@ -839,7 +839,7 @@
             },
             {
               "name": "295 Notice of refusal of application 67",
-              "cleaned_name": "295 Notice of refusal of application",
+              "cleaned_name": "Notice of refusal of application",
               "type": "section",
               "start_page": 67,
               "end_page": 67,
@@ -847,7 +847,7 @@
             },
             {
               "name": "299 Period of registration 67",
-              "cleaned_name": "299 Period of registration",
+              "cleaned_name": "Period of registration",
               "type": "section",
               "start_page": 67,
               "end_page": 68,
@@ -855,7 +855,7 @@
             },
             {
               "name": "300 Automatic continuation of registration 68",
-              "cleaned_name": "300 Automatic continuation of registration",
+              "cleaned_name": "Automatic continuation of registration",
               "type": "section",
               "start_page": 68,
               "end_page": 70,
@@ -863,7 +863,7 @@
             },
             {
               "name": "301 Migration Agents Registration Authority must warn of expiry 70",
-              "cleaned_name": "301 Migration Agents Registration Authority must warn of expiry",
+              "cleaned_name": "Migration Agents Registration Authority must warn of expiry",
               "type": "section",
               "start_page": 70,
               "end_page": 70,
@@ -871,7 +871,7 @@
             },
             {
               "name": "302 Automatic deregistration 70",
-              "cleaned_name": "302 Automatic deregistration",
+              "cleaned_name": "Automatic deregistration",
               "type": "section",
               "start_page": 70,
               "end_page": 70,
@@ -879,7 +879,7 @@
             },
             {
               "name": "302A Cancellation of registration—Australian legal practitioners 70",
-              "cleaned_name": "302A Cancellation of registration—Australian legal practitioners",
+              "cleaned_name": "Cancellation of registration—Australian legal practitioners",
               "type": "section",
               "start_page": 70,
               "end_page": 71,
@@ -887,7 +887,7 @@
             },
             {
               "name": "303 Disciplining registered migration agents 71",
-              "cleaned_name": "303 Disciplining registered migration agents",
+              "cleaned_name": "Disciplining registered migration agents",
               "type": "section",
               "start_page": 71,
               "end_page": 72,
@@ -895,7 +895,7 @@
             },
             {
               "name": "304 Period of suspension 72",
-              "cleaned_name": "304 Period of suspension",
+              "cleaned_name": "Period of suspension",
               "type": "section",
               "start_page": 72,
               "end_page": 72,
@@ -903,7 +903,7 @@
             },
             {
               "name": "304A Conditions for lifting cautions 72",
-              "cleaned_name": "304A Conditions for lifting cautions",
+              "cleaned_name": "Conditions for lifting cautions",
               "type": "section",
               "start_page": 72,
               "end_page": 72,
@@ -911,7 +911,7 @@
             },
             {
               "name": "305 Notice of disciplinary decision 72",
-              "cleaned_name": "305 Notice of disciplinary decision",
+              "cleaned_name": "Notice of disciplinary decision",
               "type": "section",
               "start_page": 72,
               "end_page": 73,
@@ -919,7 +919,7 @@
             },
             {
               "name": "305A Making disciplinary details publicly available 73",
-              "cleaned_name": "305A Making disciplinary details publicly available",
+              "cleaned_name": "Making disciplinary details publicly available",
               "type": "section",
               "start_page": 73,
               "end_page": 73,
@@ -927,7 +927,7 @@
             },
             {
               "name": "305B Providing disciplinary details to clients 73",
-              "cleaned_name": "305B Providing disciplinary details to clients",
+              "cleaned_name": "Providing disciplinary details to clients",
               "type": "section",
               "start_page": 73,
               "end_page": 74,
@@ -935,7 +935,7 @@
             },
             {
               "name": "305C Requiring registered migration agents to give information or documents 74",
-              "cleaned_name": "305C Requiring registered migration agents to give information or documents",
+              "cleaned_name": "Requiring registered migration agents to give information or documents",
               "type": "section",
               "start_page": 74,
               "end_page": 75,
@@ -943,7 +943,7 @@
             },
             {
               "name": "306 Review by the ART 75",
-              "cleaned_name": "306 Review by the ART",
+              "cleaned_name": "Review by the ART",
               "type": "section",
               "start_page": 75,
               "end_page": 75,
@@ -951,7 +951,7 @@
             },
             {
               "name": "306AA Stay orders 75",
-              "cleaned_name": "306AA Stay orders",
+              "cleaned_name": "Stay orders",
               "type": "section",
               "start_page": 75,
               "end_page": 76,
@@ -961,12 +961,12 @@
         },
         {
           "name": "Division 3A—Documents relating to clients of inactive migration agents and deceased migration agents 76",
-          "cleaned_name": "Division 3A—Documents relating to clients of inactive migration agents and deceased migration agents",
+          "cleaned_name": "Documents relating to clients of inactive migration agents and deceased migration agents",
           "type": "division",
           "children": [
             {
               "name": "306A Objects of this Division 76",
-              "cleaned_name": "306A Objects of this Division",
+              "cleaned_name": "Objects of this Division",
               "type": "section",
               "start_page": 76,
               "end_page": 76,
@@ -974,7 +974,7 @@
             },
             {
               "name": "306B Inactive migration agents 76",
-              "cleaned_name": "306B Inactive migration agents",
+              "cleaned_name": "Inactive migration agents",
               "type": "section",
               "start_page": 76,
               "end_page": 78,
@@ -982,7 +982,7 @@
             },
             {
               "name": "306C Definition of client 78",
-              "cleaned_name": "306C Definition of client",
+              "cleaned_name": "Definition of client",
               "type": "section",
               "start_page": 78,
               "end_page": 78,
@@ -990,7 +990,7 @@
             },
             {
               "name": "306D Power to obtain documents from inactive migration agent 78",
-              "cleaned_name": "306D Power to obtain documents from inactive migration agent",
+              "cleaned_name": "Power to obtain documents from inactive migration agent",
               "type": "section",
               "start_page": 78,
               "end_page": 79,
@@ -998,7 +998,7 @@
             },
             {
               "name": "306E Power to obtain documents from representative of deceased inactive migration agent 79",
-              "cleaned_name": "306E Power to obtain documents from representative of deceased inactive migration agent",
+              "cleaned_name": "Power to obtain documents from representative of deceased inactive migration agent",
               "type": "section",
               "start_page": 79,
               "end_page": 80,
@@ -1006,7 +1006,7 @@
             },
             {
               "name": "306F Power to obtain documents from representative of deceased registered migration agent 80",
-              "cleaned_name": "306F Power to obtain documents from representative of deceased registered migration agent",
+              "cleaned_name": "Power to obtain documents from representative of deceased registered migration agent",
               "type": "section",
               "start_page": 80,
               "end_page": 81,
@@ -1014,7 +1014,7 @@
             },
             {
               "name": "306G Reasonable compensation 81",
-              "cleaned_name": "306G Reasonable compensation",
+              "cleaned_name": "Reasonable compensation",
               "type": "section",
               "start_page": 81,
               "end_page": 81,
@@ -1022,7 +1022,7 @@
             },
             {
               "name": "306H Failure to comply with notice 81",
-              "cleaned_name": "306H Failure to comply with notice",
+              "cleaned_name": "Failure to comply with notice",
               "type": "section",
               "start_page": 81,
               "end_page": 82,
@@ -1030,7 +1030,7 @@
             },
             {
               "name": "306J Self-incrimination 82",
-              "cleaned_name": "306J Self-incrimination",
+              "cleaned_name": "Self-incrimination",
               "type": "section",
               "start_page": 82,
               "end_page": 82,
@@ -1038,7 +1038,7 @@
             },
             {
               "name": "306K Migration Agents Registration Authority to give client documents to clients 82",
-              "cleaned_name": "306K Migration Agents Registration Authority to give client documents to clients",
+              "cleaned_name": "Migration Agents Registration Authority to give client documents to clients",
               "type": "section",
               "start_page": 82,
               "end_page": 83,
@@ -1046,7 +1046,7 @@
             },
             {
               "name": "306L Compensation—constitutional safety-net 83",
-              "cleaned_name": "306L Compensation—constitutional safety-net",
+              "cleaned_name": "Compensation—constitutional safety-net",
               "type": "section",
               "start_page": 83,
               "end_page": 85,
@@ -1056,12 +1056,12 @@
         },
         {
           "name": "Division 4—Investigations and decision-making by the Migration Agents Registration Authority 85",
-          "cleaned_name": "Division 4—Investigations and decision-making by the Migration Agents Registration Authority",
+          "cleaned_name": "Investigations and decision-making by the Migration Agents Registration Authority",
           "type": "division",
           "children": [
             {
               "name": "308 Requiring registered migration agents to give information 85",
-              "cleaned_name": "308 Requiring registered migration agents to give information",
+              "cleaned_name": "Requiring registered migration agents to give information",
               "type": "section",
               "start_page": 85,
               "end_page": 86,
@@ -1069,7 +1069,7 @@
             },
             {
               "name": "309 Persons may make submissions 86",
-              "cleaned_name": "309 Persons may make submissions",
+              "cleaned_name": "Persons may make submissions",
               "type": "section",
               "start_page": 86,
               "end_page": 86,
@@ -1077,7 +1077,7 @@
             },
             {
               "name": "310 Persons may appear before Migration Agents Registration Authority 86",
-              "cleaned_name": "310 Persons may appear before Migration Agents Registration Authority",
+              "cleaned_name": "Persons may appear before Migration Agents Registration Authority",
               "type": "section",
               "start_page": 86,
               "end_page": 87,
@@ -1085,7 +1085,7 @@
             },
             {
               "name": "311 Migration Agents Registration Authority not bound by legal forms etc. 87",
-              "cleaned_name": "311 Migration Agents Registration Authority not bound by legal forms etc.",
+              "cleaned_name": "Migration Agents Registration Authority not bound by legal forms etc.",
               "type": "section",
               "start_page": 87,
               "end_page": 88,
@@ -1095,12 +1095,12 @@
         },
         {
           "name": "Division 4A—Disciplining former registered migration agents 88",
-          "cleaned_name": "Division 4A—Disciplining former registered migration agents",
+          "cleaned_name": "Disciplining former registered migration agents",
           "type": "division",
           "children": [
             {
               "name": "311A Barring former registered migration agents from being registered for up to 5 years 88",
-              "cleaned_name": "311A Barring former registered migration agents from being registered for up to 5 years",
+              "cleaned_name": "Barring former registered migration agents from being registered for up to 5 years",
               "type": "section",
               "start_page": 88,
               "end_page": 88,
@@ -1108,7 +1108,7 @@
             },
             {
               "name": "311B Notice of disciplinary decision 88",
-              "cleaned_name": "311B Notice of disciplinary decision",
+              "cleaned_name": "Notice of disciplinary decision",
               "type": "section",
               "start_page": 88,
               "end_page": 89,
@@ -1116,7 +1116,7 @@
             },
             {
               "name": "311C Making disciplinary details publicly available 89",
-              "cleaned_name": "311C Making disciplinary details publicly available",
+              "cleaned_name": "Making disciplinary details publicly available",
               "type": "section",
               "start_page": 89,
               "end_page": 89,
@@ -1124,7 +1124,7 @@
             },
             {
               "name": "311D Former registered migration agent may make a submission etc. 89",
-              "cleaned_name": "311D Former registered migration agent may make a submission etc.",
+              "cleaned_name": "Former registered migration agent may make a submission etc.",
               "type": "section",
               "start_page": 89,
               "end_page": 90,
@@ -1132,7 +1132,7 @@
             },
             {
               "name": "311E Authority not bound by legal forms etc 90",
-              "cleaned_name": "311E Authority not bound by legal forms etc",
+              "cleaned_name": "Authority not bound by legal forms etc",
               "type": "section",
               "start_page": 90,
               "end_page": 91,
@@ -1140,7 +1140,7 @@
             },
             {
               "name": "311EA Requiring former registered migration agents to give information or documents 91",
-              "cleaned_name": "311EA Requiring former registered migration agents to give information or documents",
+              "cleaned_name": "Requiring former registered migration agents to give information or documents",
               "type": "section",
               "start_page": 91,
               "end_page": 92,
@@ -1148,7 +1148,7 @@
             },
             {
               "name": "311F Review by the ART 92",
-              "cleaned_name": "311F Review by the ART",
+              "cleaned_name": "Review by the ART",
               "type": "section",
               "start_page": 92,
               "end_page": 93,
@@ -1158,12 +1158,12 @@
         },
         {
           "name": "Division 5—Obligations of registered migration agents 93",
-          "cleaned_name": "Division 5—Obligations of registered migration agents",
+          "cleaned_name": "Obligations of registered migration agents",
           "type": "division",
           "children": [
             {
               "name": "312 Notification obligations 93",
-              "cleaned_name": "312 Notification obligations",
+              "cleaned_name": "Notification obligations",
               "type": "section",
               "start_page": 93,
               "end_page": 94,
@@ -1171,7 +1171,7 @@
             },
             {
               "name": "312A Notification of giving of immigration assistance to visa applicants 94",
-              "cleaned_name": "312A Notification of giving of immigration assistance to visa applicants",
+              "cleaned_name": "Notification of giving of immigration assistance to visa applicants",
               "type": "section",
               "start_page": 94,
               "end_page": 95,
@@ -1179,7 +1179,7 @@
             },
             {
               "name": "312B Notification of giving of immigration assistance to review applicants 95",
-              "cleaned_name": "312B Notification of giving of immigration assistance to review applicants",
+              "cleaned_name": "Notification of giving of immigration assistance to review applicants",
               "type": "section",
               "start_page": 95,
               "end_page": 95,
@@ -1187,7 +1187,7 @@
             },
             {
               "name": "313 Persons charged for services to be given detailed statement of services 95",
-              "cleaned_name": "313 Persons charged for services to be given detailed statement of services",
+              "cleaned_name": "Persons charged for services to be given detailed statement of services",
               "type": "section",
               "start_page": 95,
               "end_page": 96,
@@ -1195,7 +1195,7 @@
             },
             {
               "name": "314 Code of Conduct for migration agents 96",
-              "cleaned_name": "314 Code of Conduct for migration agents",
+              "cleaned_name": "Code of Conduct for migration agents",
               "type": "section",
               "start_page": 96,
               "end_page": 97,
@@ -1205,12 +1205,12 @@
         },
         {
           "name": "Division 6—Migration Agents Registration Authority 97",
-          "cleaned_name": "Division 6—Migration Agents Registration Authority",
+          "cleaned_name": "Migration Agents Registration Authority",
           "type": "division",
           "children": [
             {
               "name": "315 Migration Agents Registration Authority—nature, powers and functions 97",
-              "cleaned_name": "315 Migration Agents Registration Authority—nature, powers and functions",
+              "cleaned_name": "Migration Agents Registration Authority—nature, powers and functions",
               "type": "section",
               "start_page": 97,
               "end_page": 97,
@@ -1218,7 +1218,7 @@
             },
             {
               "name": "316 Functions of Migration Agents Registration Authority 97",
-              "cleaned_name": "316 Functions of Migration Agents Registration Authority",
+              "cleaned_name": "Functions of Migration Agents Registration Authority",
               "type": "section",
               "start_page": 97,
               "end_page": 98,
@@ -1226,7 +1226,7 @@
             },
             {
               "name": "317 General powers of the Migration Agents Registration Authority 98",
-              "cleaned_name": "317 General powers of the Migration Agents Registration Authority",
+              "cleaned_name": "General powers of the Migration Agents Registration Authority",
               "type": "section",
               "start_page": 98,
               "end_page": 98,
@@ -1234,7 +1234,7 @@
             },
             {
               "name": "318 Power to refer people to mediation 98",
-              "cleaned_name": "318 Power to refer people to mediation",
+              "cleaned_name": "Power to refer people to mediation",
               "type": "section",
               "start_page": 98,
               "end_page": 98,
@@ -1242,7 +1242,7 @@
             },
             {
               "name": "319 Referral of conduct of certain migration agents to legal disciplinary authorities 98",
-              "cleaned_name": "319 Referral of conduct of certain migration agents to legal disciplinary authorities",
+              "cleaned_name": "Referral of conduct of certain migration agents to legal disciplinary authorities",
               "type": "section",
               "start_page": 98,
               "end_page": 99,
@@ -1250,7 +1250,7 @@
             },
             {
               "name": "320 Minister may delegate powers and functions 99",
-              "cleaned_name": "320 Minister may delegate powers and functions",
+              "cleaned_name": "Minister may delegate powers and functions",
               "type": "section",
               "start_page": 99,
               "end_page": 99,
@@ -1258,7 +1258,7 @@
             },
             {
               "name": "321A Disclosure of personal information by the Migration Agents Registration Authority 99",
-              "cleaned_name": "321A Disclosure of personal information by the Migration Agents Registration Authority",
+              "cleaned_name": "Disclosure of personal information by the Migration Agents Registration Authority",
               "type": "section",
               "start_page": 99,
               "end_page": 101,
@@ -1268,12 +1268,12 @@
         },
         {
           "name": "Division 6A—Registration application fees and registration status charges 101",
-          "cleaned_name": "Division 6A—Registration application fees and registration status charges",
+          "cleaned_name": "Registration application fees and registration status charges",
           "type": "division",
           "children": [
             {
               "name": "332A Collection of registration status charge 101",
-              "cleaned_name": "332A Collection of registration status charge",
+              "cleaned_name": "Collection of registration status charge",
               "type": "section",
               "start_page": 101,
               "end_page": 102,
@@ -1283,12 +1283,12 @@
         },
         {
           "name": "Division 7—Other things 102",
-          "cleaned_name": "Division 7—Other things",
+          "cleaned_name": "Other things",
           "type": "division",
           "children": [
             {
               "name": "332C Removing disciplinary details—registered migration agents 102",
-              "cleaned_name": "332C Removing disciplinary details—registered migration agents",
+              "cleaned_name": "Removing disciplinary details—registered migration agents",
               "type": "section",
               "start_page": 102,
               "end_page": 102,
@@ -1296,7 +1296,7 @@
             },
             {
               "name": "332D Removing disciplinary details—former registered migration agents 102",
-              "cleaned_name": "332D Removing disciplinary details—former registered migration agents",
+              "cleaned_name": "Removing disciplinary details—former registered migration agents",
               "type": "section",
               "start_page": 102,
               "end_page": 102,
@@ -1304,7 +1304,7 @@
             },
             {
               "name": "332E Protection from civil proceedings 102",
-              "cleaned_name": "332E Protection from civil proceedings",
+              "cleaned_name": "Protection from civil proceedings",
               "type": "section",
               "start_page": 102,
               "end_page": 104,
@@ -1312,7 +1312,7 @@
             },
             {
               "name": "332F Disclosure of personal information by the Secretary 104",
-              "cleaned_name": "332F Disclosure of personal information by the Secretary",
+              "cleaned_name": "Disclosure of personal information by the Secretary",
               "type": "section",
               "start_page": 104,
               "end_page": 104,
@@ -1320,7 +1320,7 @@
             },
             {
               "name": "332G Disclosure of personal information by the ART 104",
-              "cleaned_name": "332G Disclosure of personal information by the ART",
+              "cleaned_name": "Disclosure of personal information by the ART",
               "type": "section",
               "start_page": 104,
               "end_page": 105,
@@ -1328,7 +1328,7 @@
             },
             {
               "name": "332H Giving of notices under this Part 105",
-              "cleaned_name": "332H Giving of notices under this Part",
+              "cleaned_name": "Giving of notices under this Part",
               "type": "section",
               "start_page": 105,
               "end_page": 107,
@@ -1338,12 +1338,12 @@
         },
         {
           "name": "Division 8—Transitional arrangements for Australian legal practitioners 107",
-          "cleaned_name": "Division 8—Transitional arrangements for Australian legal practitioners",
+          "cleaned_name": "Transitional arrangements for Australian legal practitioners",
           "type": "division",
           "children": [
             {
               "name": "333 Definitions 107",
-              "cleaned_name": "333 Definitions",
+              "cleaned_name": "Definitions",
               "type": "section",
               "start_page": 107,
               "end_page": 107,
@@ -1351,7 +1351,7 @@
             },
             {
               "name": "333A Restrictions on giving immigration assistance and making immigration representations 107",
-              "cleaned_name": "333A Restrictions on giving immigration assistance and making immigration representations",
+              "cleaned_name": "Restrictions on giving immigration assistance and making immigration representations",
               "type": "section",
               "start_page": 107,
               "end_page": 107,
@@ -1359,7 +1359,7 @@
             },
             {
               "name": "333B Registered migration agents who were unrestricted legal practitioners immediately before the Division 8 commencement day 107",
-              "cleaned_name": "333B Registered migration agents who were unrestricted legal practitioners immediately before the Division 8 commencement day",
+              "cleaned_name": "Registered migration agents who were unrestricted legal practitioners immediately before the Division 8 commencement day",
               "type": "section",
               "start_page": 107,
               "end_page": 108,
@@ -1367,7 +1367,7 @@
             },
             {
               "name": "333C Persons who were restricted legal practitioners immediately before the Division 8 commencement day 108",
-              "cleaned_name": "333C Persons who were restricted legal practitioners immediately before the Division 8 commencement day",
+              "cleaned_name": "Persons who were restricted legal practitioners immediately before the Division 8 commencement day",
               "type": "section",
               "start_page": 108,
               "end_page": 108,
@@ -1375,7 +1375,7 @@
             },
             {
               "name": "333D Registration applications made before the Division 8 commencement day 108",
-              "cleaned_name": "333D Registration applications made before the Division 8 commencement day",
+              "cleaned_name": "Registration applications made before the Division 8 commencement day",
               "type": "section",
               "start_page": 108,
               "end_page": 109,
@@ -1383,7 +1383,7 @@
             },
             {
               "name": "333E Events required to be notified under s 312(4) 109",
-              "cleaned_name": "333E Events required to be notified under s 312(4)",
+              "cleaned_name": "Events required to be notified under s 312(4)",
               "type": "section",
               "start_page": 109,
               "end_page": 110,
@@ -1395,12 +1395,12 @@
     },
     {
       "name": "Part 4—Offences relating to decisions under Act 110",
-      "cleaned_name": "Part 4—Offences relating to decisions under Act",
+      "cleaned_name": "Offences relating to decisions under Act",
       "type": "part",
       "children": [
         {
           "name": "334 Offences in relation to false or misleading statements regarding the making of decisions 110",
-          "cleaned_name": "334 Offences in relation to false or misleading statements regarding the making of decisions",
+          "cleaned_name": "Offences in relation to false or misleading statements regarding the making of decisions",
           "type": "section",
           "start_page": 110,
           "end_page": 110,
@@ -1408,7 +1408,7 @@
         },
         {
           "name": "335 Offence of undertaking, for reward, to cause decisions to be made etc 110",
-          "cleaned_name": "335 Offence of undertaking, for reward, to cause decisions to be made etc",
+          "cleaned_name": "Offence of undertaking, for reward, to cause decisions to be made etc",
           "type": "section",
           "start_page": 110,
           "end_page": 111,
@@ -1416,7 +1416,7 @@
         },
         {
           "name": "336 Court may order reparation for loss suffered 111",
-          "cleaned_name": "336 Court may order reparation for loss suffered",
+          "cleaned_name": "Court may order reparation for loss suffered",
           "type": "section",
           "start_page": 111,
           "end_page": 112,
@@ -1426,17 +1426,17 @@
     },
     {
       "name": "Part 4A—Obligations relating to identifying information 112",
-      "cleaned_name": "Part 4A—Obligations relating to identifying information",
+      "cleaned_name": "Obligations relating to identifying information",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Preliminary 112",
-          "cleaned_name": "Division 1—Preliminary",
+          "cleaned_name": "Preliminary",
           "type": "division",
           "children": [
             {
               "name": "336A Definitions 112",
-              "cleaned_name": "336A Definitions",
+              "cleaned_name": "Definitions",
               "type": "section",
               "start_page": 112,
               "end_page": 113,
@@ -1444,7 +1444,7 @@
             },
             {
               "name": "336B Application 113",
-              "cleaned_name": "336B Application",
+              "cleaned_name": "Application",
               "type": "section",
               "start_page": 113,
               "end_page": 114,
@@ -1454,12 +1454,12 @@
         },
         {
           "name": "Division 2—Accessing identifying information 114",
-          "cleaned_name": "Division 2—Accessing identifying information",
+          "cleaned_name": "Accessing identifying information",
           "type": "division",
           "children": [
             {
               "name": "336C Accessing identifying information 114",
-              "cleaned_name": "336C Accessing identifying information",
+              "cleaned_name": "Accessing identifying information",
               "type": "section",
               "start_page": 114,
               "end_page": 114,
@@ -1467,7 +1467,7 @@
             },
             {
               "name": "336D Authorising access to identifying information 114",
-              "cleaned_name": "336D Authorising access to identifying information",
+              "cleaned_name": "Authorising access to identifying information",
               "type": "section",
               "start_page": 114,
               "end_page": 116,
@@ -1477,12 +1477,12 @@
         },
         {
           "name": "Division 3—Disclosing identifying information 116",
-          "cleaned_name": "Division 3—Disclosing identifying information",
+          "cleaned_name": "Disclosing identifying information",
           "type": "division",
           "children": [
             {
               "name": "336E Disclosing identifying information 116",
-              "cleaned_name": "336E Disclosing identifying information",
+              "cleaned_name": "Disclosing identifying information",
               "type": "section",
               "start_page": 116,
               "end_page": 119,
@@ -1490,7 +1490,7 @@
             },
             {
               "name": "336F Authorising disclosure of identifying information to foreign countries etc. 119",
-              "cleaned_name": "336F Authorising disclosure of identifying information to foreign countries etc.",
+              "cleaned_name": "Authorising disclosure of identifying information to foreign countries etc.",
               "type": "section",
               "start_page": 119,
               "end_page": 122,
@@ -1498,7 +1498,7 @@
             },
             {
               "name": "336FA Disclosure of certain personal identifiers to selected individuals 122",
-              "cleaned_name": "336FA Disclosure of certain personal identifiers to selected individuals",
+              "cleaned_name": "Disclosure of certain personal identifiers to selected individuals",
               "type": "section",
               "start_page": 122,
               "end_page": 123,
@@ -1506,7 +1506,7 @@
             },
             {
               "name": "336FB Disclosure of other relevant information to selected individuals 123",
-              "cleaned_name": "336FB Disclosure of other relevant information to selected individuals",
+              "cleaned_name": "Disclosure of other relevant information to selected individuals",
               "type": "section",
               "start_page": 123,
               "end_page": 123,
@@ -1514,7 +1514,7 @@
             },
             {
               "name": "336FC Disclosure of certain personal identifiers to the general public 123",
-              "cleaned_name": "336FC Disclosure of certain personal identifiers to the general public",
+              "cleaned_name": "Disclosure of certain personal identifiers to the general public",
               "type": "section",
               "start_page": 123,
               "end_page": 125,
@@ -1522,7 +1522,7 @@
             },
             {
               "name": "336FD Disclosure of other relevant information to the general public 125",
-              "cleaned_name": "336FD Disclosure of other relevant information to the general public",
+              "cleaned_name": "Disclosure of other relevant information to the general public",
               "type": "section",
               "start_page": 125,
               "end_page": 126,
@@ -1532,12 +1532,12 @@
         },
         {
           "name": "Division 4—Modifying and impairing identifying information 126",
-          "cleaned_name": "Division 4—Modifying and impairing identifying information",
+          "cleaned_name": "Modifying and impairing identifying information",
           "type": "division",
           "children": [
             {
               "name": "336G Unauthorised modification of identifying information 126",
-              "cleaned_name": "336G Unauthorised modification of identifying information",
+              "cleaned_name": "Unauthorised modification of identifying information",
               "type": "section",
               "start_page": 126,
               "end_page": 126,
@@ -1545,7 +1545,7 @@
             },
             {
               "name": "336H Unauthorised impairment of identifying information 126",
-              "cleaned_name": "336H Unauthorised impairment of identifying information",
+              "cleaned_name": "Unauthorised impairment of identifying information",
               "type": "section",
               "start_page": 126,
               "end_page": 126,
@@ -1553,7 +1553,7 @@
             },
             {
               "name": "336J Meanings of unauthorised modification and unauthorised impairment etc 126",
-              "cleaned_name": "336J Meanings of unauthorised modification and unauthorised impairment etc",
+              "cleaned_name": "Meanings of unauthorised modification and unauthorised impairment etc",
               "type": "section",
               "start_page": 126,
               "end_page": 128,
@@ -1563,12 +1563,12 @@
         },
         {
           "name": "Division 5—Destroying identifying information 128",
-          "cleaned_name": "Division 5—Destroying identifying information",
+          "cleaned_name": "Destroying identifying information",
           "type": "division",
           "children": [
             {
               "name": "336K Destroying identifying information 128",
-              "cleaned_name": "336K Destroying identifying information",
+              "cleaned_name": "Destroying identifying information",
               "type": "section",
               "start_page": 128,
               "end_page": 129,
@@ -1576,7 +1576,7 @@
             },
             {
               "name": "336L Identifying information that may be indefinitely retained 129",
-              "cleaned_name": "336L Identifying information that may be indefinitely retained",
+              "cleaned_name": "Identifying information that may be indefinitely retained",
               "type": "section",
               "start_page": 129,
               "end_page": 131,
@@ -1588,17 +1588,17 @@
     },
     {
       "name": "Part 5—Reviewable migration decisions and reviewable protection decisions 131",
-      "cleaned_name": "Part 5—Reviewable migration decisions and reviewable protection decisions",
+      "cleaned_name": "Reviewable migration decisions and reviewable protection decisions",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Preliminary 131",
-          "cleaned_name": "Division 1—Preliminary",
+          "cleaned_name": "Preliminary",
           "type": "division",
           "children": [
             {
               "name": "336M Simplified outline of this Part 131",
-              "cleaned_name": "336M Simplified outline of this Part",
+              "cleaned_name": "Simplified outline of this Part",
               "type": "section",
               "start_page": 131,
               "end_page": 131,
@@ -1606,7 +1606,7 @@
             },
             {
               "name": "336N Scope of this Part 131",
-              "cleaned_name": "336N Scope of this Part",
+              "cleaned_name": "Scope of this Part",
               "type": "section",
               "start_page": 131,
               "end_page": 131,
@@ -1614,7 +1614,7 @@
             },
             {
               "name": "336P Interaction with the ART Act 131",
-              "cleaned_name": "336P Interaction with the ART Act",
+              "cleaned_name": "Interaction with the ART Act",
               "type": "section",
               "start_page": 131,
               "end_page": 132,
@@ -1622,7 +1622,7 @@
             },
             {
               "name": "337 Interpretation 132",
-              "cleaned_name": "337 Interpretation",
+              "cleaned_name": "Interpretation",
               "type": "section",
               "start_page": 132,
               "end_page": 133,
@@ -1630,7 +1630,7 @@
             },
             {
               "name": "338 Meaning of reviewable migration decision 133",
-              "cleaned_name": "338 Meaning of reviewable migration decision",
+              "cleaned_name": "Meaning of reviewable migration decision",
               "type": "section",
               "start_page": 133,
               "end_page": 137,
@@ -1638,7 +1638,7 @@
             },
             {
               "name": "338A Meaning of reviewable protection decision 137",
-              "cleaned_name": "338A Meaning of reviewable protection decision",
+              "cleaned_name": "Meaning of reviewable protection decision",
               "type": "section",
               "start_page": 137,
               "end_page": 138,
@@ -1646,7 +1646,7 @@
             },
             {
               "name": "339 Conclusive certificates 138",
-              "cleaned_name": "339 Conclusive certificates",
+              "cleaned_name": "Conclusive certificates",
               "type": "section",
               "start_page": 138,
               "end_page": 139,
@@ -1656,12 +1656,12 @@
         },
         {
           "name": "Division 2—ART review 139",
-          "cleaned_name": "Division 2—ART review",
+          "cleaned_name": "ART review",
           "type": "division",
           "children": [
             {
               "name": "347 Application for ART review 139",
-              "cleaned_name": "347 Application for ART review",
+              "cleaned_name": "Application for ART review",
               "type": "section",
               "start_page": 139,
               "end_page": 140,
@@ -1669,7 +1669,7 @@
             },
             {
               "name": "347A Who can apply for ART review etc 140",
-              "cleaned_name": "347A Who can apply for ART review etc",
+              "cleaned_name": "Who can apply for ART review etc",
               "type": "section",
               "start_page": 140,
               "end_page": 141,
@@ -1677,7 +1677,7 @@
             },
             {
               "name": "348 ART to review reviewable migration decisions and reviewable protection decisions 141",
-              "cleaned_name": "348 ART to review reviewable migration decisions and reviewable protection decisions",
+              "cleaned_name": "ART to review reviewable migration decisions and reviewable protection decisions",
               "type": "section",
               "start_page": 141,
               "end_page": 141,
@@ -1685,7 +1685,7 @@
             },
             {
               "name": "348A Parties to a proceeding for review 141",
-              "cleaned_name": "348A Parties to a proceeding for review",
+              "cleaned_name": "Parties to a proceeding for review",
               "type": "section",
               "start_page": 141,
               "end_page": 142,
@@ -1693,7 +1693,7 @@
             },
             {
               "name": "349 Remittal 142",
-              "cleaned_name": "349 Remittal",
+              "cleaned_name": "Remittal",
               "type": "section",
               "start_page": 142,
               "end_page": 142,
@@ -1701,7 +1701,7 @@
             },
             {
               "name": "350 Review of assessments made under section 93 142",
-              "cleaned_name": "350 Review of assessments made under section 93",
+              "cleaned_name": "Review of assessments made under section 93",
               "type": "section",
               "start_page": 142,
               "end_page": 143,
@@ -1709,7 +1709,7 @@
             },
             {
               "name": "351 Minister may substitute more favourable decision 143",
-              "cleaned_name": "351 Minister may substitute more favourable decision",
+              "cleaned_name": "Minister may substitute more favourable decision",
               "type": "section",
               "start_page": 143,
               "end_page": 144,
@@ -1717,7 +1717,7 @@
             },
             {
               "name": "352 ART to notify Secretary of application for review 144",
-              "cleaned_name": "352 ART to notify Secretary of application for review",
+              "cleaned_name": "ART to notify Secretary of application for review",
               "type": "section",
               "start_page": 144,
               "end_page": 146,
@@ -1727,12 +1727,12 @@
         },
         {
           "name": "Division 3—ART powers 146",
-          "cleaned_name": "Division 3—ART powers",
+          "cleaned_name": "ART powers",
           "type": "division",
           "children": [
             {
               "name": "353 ART may require Secretary to arrange for investigations etc. 146",
-              "cleaned_name": "353 ART may require Secretary to arrange for investigations etc.",
+              "cleaned_name": "ART may require Secretary to arrange for investigations etc.",
               "type": "section",
               "start_page": 146,
               "end_page": 147,
@@ -1742,12 +1742,12 @@
         },
         {
           "name": "Division 4—Conduct of ART review 147",
-          "cleaned_name": "Division 4—Conduct of ART review",
+          "cleaned_name": "Conduct of ART review",
           "type": "division",
           "children": [
             {
               "name": "357A Exhaustive statement of natural justice hearing rule 147",
-              "cleaned_name": "357A Exhaustive statement of natural justice hearing rule",
+              "cleaned_name": "Exhaustive statement of natural justice hearing rule",
               "type": "section",
               "start_page": 147,
               "end_page": 148,
@@ -1755,7 +1755,7 @@
             },
             {
               "name": "359A Information and invitation given by ART 148",
-              "cleaned_name": "359A Information and invitation given by ART",
+              "cleaned_name": "Information and invitation given by ART",
               "type": "section",
               "start_page": 148,
               "end_page": 149,
@@ -1763,7 +1763,7 @@
             },
             {
               "name": "362A Applicant entitled to have access to written material before Tribunal 149",
-              "cleaned_name": "362A Applicant entitled to have access to written material before Tribunal",
+              "cleaned_name": "Applicant entitled to have access to written material before Tribunal",
               "type": "section",
               "start_page": 149,
               "end_page": 149,
@@ -1771,7 +1771,7 @@
             },
             {
               "name": "363 Reviews may be combined 149",
-              "cleaned_name": "363 Reviews may be combined",
+              "cleaned_name": "Reviews may be combined",
               "type": "section",
               "start_page": 149,
               "end_page": 149,
@@ -1779,7 +1779,7 @@
             },
             {
               "name": "366D Examination and cross-examination not permitted 149",
-              "cleaned_name": "366D Examination and cross-examination not permitted",
+              "cleaned_name": "Examination and cross-examination not permitted",
               "type": "section",
               "start_page": 149,
               "end_page": 150,
@@ -1787,7 +1787,7 @@
             },
             {
               "name": "367 Certain bridging visa decisions—to be made within prescribed period 150",
-              "cleaned_name": "367 Certain bridging visa decisions—to be made within prescribed period",
+              "cleaned_name": "Certain bridging visa decisions—to be made within prescribed period",
               "type": "section",
               "start_page": 150,
               "end_page": 150,
@@ -1795,7 +1795,7 @@
             },
             {
               "name": "367A How ART is to deal with new claims or evidence in review of reviewable protection decisions 150",
-              "cleaned_name": "367A How ART is to deal with new claims or evidence in review of reviewable protection decisions",
+              "cleaned_name": "How ART is to deal with new claims or evidence in review of reviewable protection decisions",
               "type": "section",
               "start_page": 150,
               "end_page": 150,
@@ -1803,7 +1803,7 @@
             },
             {
               "name": "367B Certain ART proceedings must be in private 150",
-              "cleaned_name": "367B Certain ART proceedings must be in private",
+              "cleaned_name": "Certain ART proceedings must be in private",
               "type": "section",
               "start_page": 150,
               "end_page": 151,
@@ -1813,12 +1813,12 @@
         },
         {
           "name": "Division 5—ART decisions 151",
-          "cleaned_name": "Division 5—ART decisions",
+          "cleaned_name": "ART decisions",
           "type": "division",
           "children": [
             {
               "name": "368 ART’s decision and written statement etc 151",
-              "cleaned_name": "368 ART’s decision and written statement etc",
+              "cleaned_name": "ART’s decision and written statement etc",
               "type": "section",
               "start_page": 151,
               "end_page": 153,
@@ -1826,7 +1826,7 @@
             },
             {
               "name": "368A Notification of ART’s decision 153",
-              "cleaned_name": "368A Notification of ART’s decision",
+              "cleaned_name": "Notification of ART’s decision",
               "type": "section",
               "start_page": 153,
               "end_page": 153,
@@ -1834,7 +1834,7 @@
             },
             {
               "name": "368B Notice of dismissal and reinstatement decisions and when taken to have been made 153",
-              "cleaned_name": "368B Notice of dismissal and reinstatement decisions and when taken to have been made",
+              "cleaned_name": "Notice of dismissal and reinstatement decisions and when taken to have been made",
               "type": "section",
               "start_page": 153,
               "end_page": 155,
@@ -1842,7 +1842,7 @@
             },
             {
               "name": "368C Reinstatement of application or confirmation of dismissal 155",
-              "cleaned_name": "368C Reinstatement of application or confirmation of dismissal",
+              "cleaned_name": "Reinstatement of application or confirmation of dismissal",
               "type": "section",
               "start_page": 155,
               "end_page": 156,
@@ -1850,7 +1850,7 @@
             },
             {
               "name": "369 Identifying information relating to reviewable protection decisions not to be published 156",
-              "cleaned_name": "369 Identifying information relating to reviewable protection decisions not to be published",
+              "cleaned_name": "Identifying information relating to reviewable protection decisions not to be published",
               "type": "section",
               "start_page": 156,
               "end_page": 157,
@@ -1860,12 +1860,12 @@
         },
         {
           "name": "Division 6—Other matters 157",
-          "cleaned_name": "Division 6—Other matters",
+          "cleaned_name": "Other matters",
           "type": "division",
           "children": [
             {
               "name": "374 How the ART must give certain notices and directions to an applicant 157",
-              "cleaned_name": "374 How the ART must give certain notices and directions to an applicant",
+              "cleaned_name": "How the ART must give certain notices and directions to an applicant",
               "type": "section",
               "start_page": 157,
               "end_page": 157,
@@ -1873,7 +1873,7 @@
             },
             {
               "name": "375 Restrictions on disclosure of certain information etc. 157",
-              "cleaned_name": "375 Restrictions on disclosure of certain information etc.",
+              "cleaned_name": "Restrictions on disclosure of certain information etc.",
               "type": "section",
               "start_page": 157,
               "end_page": 158,
@@ -1881,7 +1881,7 @@
             },
             {
               "name": "375A Certain information only to be disclosed to ART 158",
-              "cleaned_name": "375A Certain information only to be disclosed to ART",
+              "cleaned_name": "Certain information only to be disclosed to ART",
               "type": "section",
               "start_page": 158,
               "end_page": 158,
@@ -1889,7 +1889,7 @@
             },
             {
               "name": "376 ART’s discretion in relation to disclosure of certain information etc 158",
-              "cleaned_name": "376 ART’s discretion in relation to disclosure of certain information etc",
+              "cleaned_name": "ART’s discretion in relation to disclosure of certain information etc",
               "type": "section",
               "start_page": 158,
               "end_page": 159,
@@ -1897,7 +1897,7 @@
             },
             {
               "name": "378 Protected information and documents 159",
-              "cleaned_name": "378 Protected information and documents",
+              "cleaned_name": "Protected information and documents",
               "type": "section",
               "start_page": 159,
               "end_page": 161,
@@ -1907,12 +1907,12 @@
         },
         {
           "name": "Division 7—Giving and receiving documents 161",
-          "cleaned_name": "Division 7—Giving and receiving documents",
+          "cleaned_name": "Giving and receiving documents",
           "type": "division",
           "children": [
             {
               "name": "379AA Giving documents by ART where no requirement to do so by specified method 161",
-              "cleaned_name": "379AA Giving documents by ART where no requirement to do so by specified method",
+              "cleaned_name": "Giving documents by ART where no requirement to do so by specified method",
               "type": "section",
               "start_page": 161,
               "end_page": 162,
@@ -1920,7 +1920,7 @@
             },
             {
               "name": "379A Methods by which ART gives documents to a person 162",
-              "cleaned_name": "379A Methods by which ART gives documents to a person",
+              "cleaned_name": "Methods by which ART gives documents to a person",
               "type": "section",
               "start_page": 162,
               "end_page": 164,
@@ -1928,7 +1928,7 @@
             },
             {
               "name": "379C When a person other than the Secretary is taken to have received a document from the ART 164",
-              "cleaned_name": "379C When a person other than the Secretary is taken to have received a document from the ART",
+              "cleaned_name": "When a person other than the Secretary is taken to have received a document from the ART",
               "type": "section",
               "start_page": 164,
               "end_page": 166,
@@ -1936,7 +1936,7 @@
             },
             {
               "name": "379EA Giving documents by ART—combined applications 166",
-              "cleaned_name": "379EA Giving documents by ART—combined applications",
+              "cleaned_name": "Giving documents by ART—combined applications",
               "type": "section",
               "start_page": 166,
               "end_page": 166,
@@ -1944,7 +1944,7 @@
             },
             {
               "name": "379G Authorised recipient 166",
-              "cleaned_name": "379G Authorised recipient",
+              "cleaned_name": "Authorised recipient",
               "type": "section",
               "start_page": 166,
               "end_page": 168,
@@ -1956,17 +1956,17 @@
     },
     {
       "name": "Part 8—Judicial review 168",
-      "cleaned_name": "Part 8—Judicial review",
+      "cleaned_name": "Judicial review",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Privative clause 168",
-          "cleaned_name": "Division 1—Privative clause",
+          "cleaned_name": "Privative clause",
           "type": "division",
           "children": [
             {
               "name": "474 Decisions under Act are final 168",
-              "cleaned_name": "474 Decisions under Act are final",
+              "cleaned_name": "Decisions under Act are final",
               "type": "section",
               "start_page": 168,
               "end_page": 171,
@@ -1976,12 +1976,12 @@
         },
         {
           "name": "Division 1A—Interaction with the ART Act 171",
-          "cleaned_name": "Division 1A—Interaction with the ART Act",
+          "cleaned_name": "Interaction with the ART Act",
           "type": "division",
           "children": [
             {
               "name": "474AA Interaction with the ART Act 171",
-              "cleaned_name": "474AA Interaction with the ART Act",
+              "cleaned_name": "Interaction with the ART Act",
               "type": "section",
               "start_page": 171,
               "end_page": 172,
@@ -1991,12 +1991,12 @@
         },
         {
           "name": "Division 2—Jurisdiction and procedure of courts 172",
-          "cleaned_name": "Division 2—Jurisdiction and procedure of courts",
+          "cleaned_name": "Jurisdiction and procedure of courts",
           "type": "division",
           "children": [
             {
               "name": "474A Definition of ART Act migration decision 172",
-              "cleaned_name": "474A Definition of ART Act migration decision",
+              "cleaned_name": "Definition of ART Act migration decision",
               "type": "section",
               "start_page": 172,
               "end_page": 173,
@@ -2004,7 +2004,7 @@
             },
             {
               "name": "475 This Division not to limit section 474 173",
-              "cleaned_name": "475 This Division not to limit section 474",
+              "cleaned_name": "This Division not to limit section 474",
               "type": "section",
               "start_page": 173,
               "end_page": 173,
@@ -2012,7 +2012,7 @@
             },
             {
               "name": "476 Jurisdiction of the Federal Circuit and Family Court of Australia (Division 2) 173",
-              "cleaned_name": "476 Jurisdiction of the Federal Circuit and Family Court of Australia (Division 2)",
+              "cleaned_name": "Jurisdiction of the Federal Circuit and Family Court of Australia (Division 2)",
               "type": "section",
               "start_page": 173,
               "end_page": 174,
@@ -2020,7 +2020,7 @@
             },
             {
               "name": "476A Limited jurisdiction of the Federal Court 174",
-              "cleaned_name": "476A Limited jurisdiction of the Federal Court",
+              "cleaned_name": "Limited jurisdiction of the Federal Court",
               "type": "section",
               "start_page": 174,
               "end_page": 175,
@@ -2028,7 +2028,7 @@
             },
             {
               "name": "476B Remittal by the High Court 175",
-              "cleaned_name": "476B Remittal by the High Court",
+              "cleaned_name": "Remittal by the High Court",
               "type": "section",
               "start_page": 175,
               "end_page": 176,
@@ -2036,7 +2036,7 @@
             },
             {
               "name": "477 Time limits on applications to the Federal Circuit and Family Court of Australia (Division 2) 176",
-              "cleaned_name": "477 Time limits on applications to the Federal Circuit and Family Court of Australia (Division 2)",
+              "cleaned_name": "Time limits on applications to the Federal Circuit and Family Court of Australia (Division 2)",
               "type": "section",
               "start_page": 176,
               "end_page": 177,
@@ -2044,7 +2044,7 @@
             },
             {
               "name": "477A Time limits on applications to the Federal Court 177",
-              "cleaned_name": "477A Time limits on applications to the Federal Court",
+              "cleaned_name": "Time limits on applications to the Federal Court",
               "type": "section",
               "start_page": 177,
               "end_page": 178,
@@ -2052,7 +2052,7 @@
             },
             {
               "name": "478 Persons who may make application 178",
-              "cleaned_name": "478 Persons who may make application",
+              "cleaned_name": "Persons who may make application",
               "type": "section",
               "start_page": 178,
               "end_page": 178,
@@ -2060,7 +2060,7 @@
             },
             {
               "name": "479 Parties to review 178",
-              "cleaned_name": "479 Parties to review",
+              "cleaned_name": "Parties to review",
               "type": "section",
               "start_page": 178,
               "end_page": 178,
@@ -2068,7 +2068,7 @@
             },
             {
               "name": "480 Intervention by Attorney-General 178",
-              "cleaned_name": "480 Intervention by Attorney-General",
+              "cleaned_name": "Intervention by Attorney-General",
               "type": "section",
               "start_page": 178,
               "end_page": 179,
@@ -2076,7 +2076,7 @@
             },
             {
               "name": "481 Operation etc. of decision 179",
-              "cleaned_name": "481 Operation etc. of decision",
+              "cleaned_name": "Operation etc. of decision",
               "type": "section",
               "start_page": 179,
               "end_page": 179,
@@ -2084,7 +2084,7 @@
             },
             {
               "name": "482 Changing person holding, or performing the duties of, an office 179",
-              "cleaned_name": "482 Changing person holding, or performing the duties of, an office",
+              "cleaned_name": "Changing person holding, or performing the duties of, an office",
               "type": "section",
               "start_page": 179,
               "end_page": 179,
@@ -2092,7 +2092,7 @@
             },
             {
               "name": "484 Exclusive jurisdiction of High Court, Federal Court and Federal Circuit and Family Court of Australia (Division 2) 179",
-              "cleaned_name": "484 Exclusive jurisdiction of High Court, Federal Court and Federal Circuit and Family Court of Australia (Division 2)",
+              "cleaned_name": "Exclusive jurisdiction of High Court, Federal Court and Federal Circuit and Family Court of Australia (Division 2)",
               "type": "section",
               "start_page": 179,
               "end_page": 181,
@@ -2104,12 +2104,12 @@
     },
     {
       "name": "Part 8A—Restrictions on court proceedings 181",
-      "cleaned_name": "Part 8A—Restrictions on court proceedings",
+      "cleaned_name": "Restrictions on court proceedings",
       "type": "part",
       "children": [
         {
           "name": "486A Time limit on applications to the High Court for judicial review 181",
-          "cleaned_name": "486A Time limit on applications to the High Court for judicial review",
+          "cleaned_name": "Time limit on applications to the High Court for judicial review",
           "type": "section",
           "start_page": 181,
           "end_page": 182,
@@ -2117,7 +2117,7 @@
         },
         {
           "name": "486AA Intervention by Attorney-General 182",
-          "cleaned_name": "486AA Intervention by Attorney-General",
+          "cleaned_name": "Intervention by Attorney-General",
           "type": "section",
           "start_page": 182,
           "end_page": 182,
@@ -2125,7 +2125,7 @@
         },
         {
           "name": "486AB Operation etc. of decision 182",
-          "cleaned_name": "486AB Operation etc. of decision",
+          "cleaned_name": "Operation etc. of decision",
           "type": "section",
           "start_page": 182,
           "end_page": 182,
@@ -2133,7 +2133,7 @@
         },
         {
           "name": "486B Multiple parties in migration litigation 182",
-          "cleaned_name": "486B Multiple parties in migration litigation",
+          "cleaned_name": "Multiple parties in migration litigation",
           "type": "section",
           "start_page": 182,
           "end_page": 184,
@@ -2141,7 +2141,7 @@
         },
         {
           "name": "486C Persons who may commence or continue proceedings in the Federal Circuit and Family Court of Australia (Division 2) or the Federal Court 184",
-          "cleaned_name": "486C Persons who may commence or continue proceedings in the Federal Circuit and Family Court of Australia (Division 2) or the Federal Court",
+          "cleaned_name": "Persons who may commence or continue proceedings in the Federal Circuit and Family Court of Australia (Division 2) or the Federal Court",
           "type": "section",
           "start_page": 184,
           "end_page": 185,
@@ -2149,7 +2149,7 @@
         },
         {
           "name": "486D Disclosing other judicial review proceedings 185",
-          "cleaned_name": "486D Disclosing other judicial review proceedings",
+          "cleaned_name": "Disclosing other judicial review proceedings",
           "type": "section",
           "start_page": 185,
           "end_page": 187,
@@ -2159,12 +2159,12 @@
     },
     {
       "name": "Part 8B—Costs orders where proceedings have no reasonable prospect of success 187",
-      "cleaned_name": "Part 8B—Costs orders where proceedings have no reasonable prospect of success",
+      "cleaned_name": "Costs orders where proceedings have no reasonable prospect of success",
       "type": "part",
       "children": [
         {
           "name": "486E Obligation where there is no reasonable prospect of success 187",
-          "cleaned_name": "486E Obligation where there is no reasonable prospect of success",
+          "cleaned_name": "Obligation where there is no reasonable prospect of success",
           "type": "section",
           "start_page": 187,
           "end_page": 187,
@@ -2172,7 +2172,7 @@
         },
         {
           "name": "486F Cost orders 187",
-          "cleaned_name": "486F Cost orders",
+          "cleaned_name": "Cost orders",
           "type": "section",
           "start_page": 187,
           "end_page": 188,
@@ -2180,7 +2180,7 @@
         },
         {
           "name": "486G Person must be given reasonable opportunity to argue against costs order 188",
-          "cleaned_name": "486G Person must be given reasonable opportunity to argue against costs order",
+          "cleaned_name": "Person must be given reasonable opportunity to argue against costs order",
           "type": "section",
           "start_page": 188,
           "end_page": 189,
@@ -2188,7 +2188,7 @@
         },
         {
           "name": "486H Limited waiver of legal professional privilege 189",
-          "cleaned_name": "486H Limited waiver of legal professional privilege",
+          "cleaned_name": "Limited waiver of legal professional privilege",
           "type": "section",
           "start_page": 189,
           "end_page": 189,
@@ -2196,7 +2196,7 @@
         },
         {
           "name": "486I Lawyer’s certification 189",
-          "cleaned_name": "486I Lawyer’s certification",
+          "cleaned_name": "Lawyer’s certification",
           "type": "section",
           "start_page": 189,
           "end_page": 190,
@@ -2204,7 +2204,7 @@
         },
         {
           "name": "486J Part does not limit other powers to order costs against third parties 190",
-          "cleaned_name": "486J Part does not limit other powers to order costs against third parties",
+          "cleaned_name": "Part does not limit other powers to order costs against third parties",
           "type": "section",
           "start_page": 190,
           "end_page": 190,
@@ -2212,7 +2212,7 @@
         },
         {
           "name": "486K Definitions 190",
-          "cleaned_name": "486K Definitions",
+          "cleaned_name": "Definitions",
           "type": "section",
           "start_page": 190,
           "end_page": 191,
@@ -2222,12 +2222,12 @@
     },
     {
       "name": "Part 8C—Reports on persons in detention for more than 2 years 191",
-      "cleaned_name": "Part 8C—Reports on persons in detention for more than 2 years",
+      "cleaned_name": "Reports on persons in detention for more than 2 years",
       "type": "part",
       "children": [
         {
           "name": "486L What is the detention reporting start time for a person? 191",
-          "cleaned_name": "486L What is the detention reporting start time for a person?",
+          "cleaned_name": "What is the detention reporting start time for a person?",
           "type": "section",
           "start_page": 191,
           "end_page": 191,
@@ -2235,7 +2235,7 @@
         },
         {
           "name": "486M What is a detention reporting time for a person? 191",
-          "cleaned_name": "486M What is a detention reporting time for a person?",
+          "cleaned_name": "What is a detention reporting time for a person?",
           "type": "section",
           "start_page": 191,
           "end_page": 191,
@@ -2243,7 +2243,7 @@
         },
         {
           "name": "486N Secretary’s obligation to report to Commonwealth Ombudsman 191",
-          "cleaned_name": "486N Secretary’s obligation to report to Commonwealth Ombudsman",
+          "cleaned_name": "Secretary’s obligation to report to Commonwealth Ombudsman",
           "type": "section",
           "start_page": 191,
           "end_page": 192,
@@ -2251,7 +2251,7 @@
         },
         {
           "name": "486O Commonwealth Ombudsman to give Minister assessment of detention arrangements 192",
-          "cleaned_name": "486O Commonwealth Ombudsman to give Minister assessment of detention arrangements",
+          "cleaned_name": "Commonwealth Ombudsman to give Minister assessment of detention arrangements",
           "type": "section",
           "start_page": 192,
           "end_page": 193,
@@ -2259,7 +2259,7 @@
         },
         {
           "name": "486P Minister to table statement from Commonwealth Ombudsman 193",
-          "cleaned_name": "486P Minister to table statement from Commonwealth Ombudsman",
+          "cleaned_name": "Minister to table statement from Commonwealth Ombudsman",
           "type": "section",
           "start_page": 193,
           "end_page": 193,
@@ -2267,7 +2267,7 @@
         },
         {
           "name": "486Q Application of Ombudsman Act 1976 193",
-          "cleaned_name": "486Q Application of Ombudsman Act 1976",
+          "cleaned_name": "Application of Ombudsman Act 1976",
           "type": "section",
           "start_page": 193,
           "end_page": 194,
@@ -2277,17 +2277,17 @@
     },
     {
       "name": "Part 8D—Civil penalties 194",
-      "cleaned_name": "Part 8D—Civil penalties",
+      "cleaned_name": "Civil penalties",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Obtaining a civil penalty order 194",
-          "cleaned_name": "Division 1—Obtaining a civil penalty order",
+          "cleaned_name": "Obtaining a civil penalty order",
           "type": "division",
           "children": [
             {
               "name": "486R Civil penalty orders 194",
-              "cleaned_name": "486R Civil penalty orders",
+              "cleaned_name": "Civil penalty orders",
               "type": "section",
               "start_page": 194,
               "end_page": 195,
@@ -2295,7 +2295,7 @@
             },
             {
               "name": "486S Additional rules relating to the sponsorship civil penalty provisions 195",
-              "cleaned_name": "486S Additional rules relating to the sponsorship civil penalty provisions",
+              "cleaned_name": "Additional rules relating to the sponsorship civil penalty provisions",
               "type": "section",
               "start_page": 195,
               "end_page": 196,
@@ -2303,7 +2303,7 @@
             },
             {
               "name": "486T Civil enforcement of penalty 196",
-              "cleaned_name": "486T Civil enforcement of penalty",
+              "cleaned_name": "Civil enforcement of penalty",
               "type": "section",
               "start_page": 196,
               "end_page": 196,
@@ -2311,7 +2311,7 @@
             },
             {
               "name": "486U Conduct contravening more than one civil penalty provision 196",
-              "cleaned_name": "486U Conduct contravening more than one civil penalty provision",
+              "cleaned_name": "Conduct contravening more than one civil penalty provision",
               "type": "section",
               "start_page": 196,
               "end_page": 197,
@@ -2319,7 +2319,7 @@
             },
             {
               "name": "486V Multiple contraventions 197",
-              "cleaned_name": "486V Multiple contraventions",
+              "cleaned_name": "Multiple contraventions",
               "type": "section",
               "start_page": 197,
               "end_page": 197,
@@ -2327,7 +2327,7 @@
             },
             {
               "name": "486W Proceedings may be heard together 197",
-              "cleaned_name": "486W Proceedings may be heard together",
+              "cleaned_name": "Proceedings may be heard together",
               "type": "section",
               "start_page": 197,
               "end_page": 197,
@@ -2335,7 +2335,7 @@
             },
             {
               "name": "486X Civil evidence and procedure rules for civil penalty orders 197",
-              "cleaned_name": "486X Civil evidence and procedure rules for civil penalty orders",
+              "cleaned_name": "Civil evidence and procedure rules for civil penalty orders",
               "type": "section",
               "start_page": 197,
               "end_page": 197,
@@ -2343,7 +2343,7 @@
             },
             {
               "name": "486Y Requirement for persons to assist in applications for civil penalty orders 197",
-              "cleaned_name": "486Y Requirement for persons to assist in applications for civil penalty orders",
+              "cleaned_name": "Requirement for persons to assist in applications for civil penalty orders",
               "type": "section",
               "start_page": 197,
               "end_page": 199,
@@ -2353,12 +2353,12 @@
         },
         {
           "name": "Division 2—Civil proceedings and criminal proceedings 199",
-          "cleaned_name": "Division 2—Civil proceedings and criminal proceedings",
+          "cleaned_name": "Civil proceedings and criminal proceedings",
           "type": "division",
           "children": [
             {
               "name": "486Z Civil proceedings after criminal proceedings 199",
-              "cleaned_name": "486Z Civil proceedings after criminal proceedings",
+              "cleaned_name": "Civil proceedings after criminal proceedings",
               "type": "section",
               "start_page": 199,
               "end_page": 199,
@@ -2366,7 +2366,7 @@
             },
             {
               "name": "486ZA Criminal proceedings during civil proceedings 199",
-              "cleaned_name": "486ZA Criminal proceedings during civil proceedings",
+              "cleaned_name": "Criminal proceedings during civil proceedings",
               "type": "section",
               "start_page": 199,
               "end_page": 199,
@@ -2374,7 +2374,7 @@
             },
             {
               "name": "486ZB Criminal proceedings after civil proceedings 199",
-              "cleaned_name": "486ZB Criminal proceedings after civil proceedings",
+              "cleaned_name": "Criminal proceedings after civil proceedings",
               "type": "section",
               "start_page": 199,
               "end_page": 200,
@@ -2382,7 +2382,7 @@
             },
             {
               "name": "486ZC Evidence given in civil proceedings not admissible in criminal proceedings 200",
-              "cleaned_name": "486ZC Evidence given in civil proceedings not admissible in criminal proceedings",
+              "cleaned_name": "Evidence given in civil proceedings not admissible in criminal proceedings",
               "type": "section",
               "start_page": 200,
               "end_page": 201,
@@ -2392,12 +2392,12 @@
         },
         {
           "name": "Division 3—Miscellaneous 201",
-          "cleaned_name": "Division 3—Miscellaneous",
+          "cleaned_name": "Miscellaneous",
           "type": "division",
           "children": [
             {
               "name": "486ZD Ancillary contravention of civil penalty provisions 201",
-              "cleaned_name": "486ZD Ancillary contravention of civil penalty provisions",
+              "cleaned_name": "Ancillary contravention of civil penalty provisions",
               "type": "section",
               "start_page": 201,
               "end_page": 201,
@@ -2405,7 +2405,7 @@
             },
             {
               "name": "486ZE Mistake of fact 201",
-              "cleaned_name": "486ZE Mistake of fact",
+              "cleaned_name": "Mistake of fact",
               "type": "section",
               "start_page": 201,
               "end_page": 202,
@@ -2413,7 +2413,7 @@
             },
             {
               "name": "486ZF State of mind 202",
-              "cleaned_name": "486ZF State of mind",
+              "cleaned_name": "State of mind",
               "type": "section",
               "start_page": 202,
               "end_page": 202,
@@ -2421,7 +2421,7 @@
             },
             {
               "name": "486ZG Civil double jeopardy 202",
-              "cleaned_name": "486ZG Civil double jeopardy",
+              "cleaned_name": "Civil double jeopardy",
               "type": "section",
               "start_page": 202,
               "end_page": 203,
@@ -2433,17 +2433,17 @@
     },
     {
       "name": "Part 8E—Investigation powers relating to certain offences and provisions 203",
-      "cleaned_name": "Part 8E—Investigation powers relating to certain offences and provisions",
+      "cleaned_name": "Investigation powers relating to certain offences and provisions",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Preliminary 203",
-          "cleaned_name": "Division 1—Preliminary",
+          "cleaned_name": "Preliminary",
           "type": "division",
           "children": [
             {
               "name": "487A Definitions 203",
-              "cleaned_name": "487A Definitions",
+              "cleaned_name": "Definitions",
               "type": "section",
               "start_page": 203,
               "end_page": 205,
@@ -2453,12 +2453,12 @@
         },
         {
           "name": "Division 2—Requiring persons to give information or produce documents 205",
-          "cleaned_name": "Division 2—Requiring persons to give information or produce documents",
+          "cleaned_name": "Requiring persons to give information or produce documents",
           "type": "division",
           "children": [
             {
               "name": "487B Secretary or Australian Border Force Commissioner may require a person to give information or produce a document 205",
-              "cleaned_name": "487B Secretary or Australian Border Force Commissioner may require a person to give information or produce a document",
+              "cleaned_name": "Secretary or Australian Border Force Commissioner may require a person to give information or produce a document",
               "type": "section",
               "start_page": 205,
               "end_page": 206,
@@ -2466,7 +2466,7 @@
             },
             {
               "name": "487C Self-incrimination 206",
-              "cleaned_name": "487C Self-incrimination",
+              "cleaned_name": "Self-incrimination",
               "type": "section",
               "start_page": 206,
               "end_page": 207,
@@ -2476,17 +2476,17 @@
         },
         {
           "name": "Division 3—Search warrants 207",
-          "cleaned_name": "Division 3—Search warrants",
+          "cleaned_name": "Search warrants",
           "type": "division",
           "children": [
             {
               "name": "Subdivision A—Search powers 207",
-              "cleaned_name": "Subdivision A—Search powers",
+              "cleaned_name": "Search powers",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487D Authorised officer may enter premises by consent or under a search warrant 207",
-                  "cleaned_name": "487D Authorised officer may enter premises by consent or under a search warrant",
+                  "cleaned_name": "Authorised officer may enter premises by consent or under a search warrant",
                   "type": "section",
                   "start_page": 207,
                   "end_page": 207,
@@ -2494,7 +2494,7 @@
                 },
                 {
                   "name": "487E Search powers of authorised officers 207",
-                  "cleaned_name": "487E Search powers of authorised officers",
+                  "cleaned_name": "Search powers of authorised officers",
                   "type": "section",
                   "start_page": 207,
                   "end_page": 208,
@@ -2502,7 +2502,7 @@
                 },
                 {
                   "name": "487F Powers relating to electronic equipment 208",
-                  "cleaned_name": "487F Powers relating to electronic equipment",
+                  "cleaned_name": "Powers relating to electronic equipment",
                   "type": "section",
                   "start_page": 208,
                   "end_page": 209,
@@ -2510,7 +2510,7 @@
                 },
                 {
                   "name": "487G Seizing evidence of the contravention of related provisions etc 209",
-                  "cleaned_name": "487G Seizing evidence of the contravention of related provisions etc",
+                  "cleaned_name": "Seizing evidence of the contravention of related provisions etc",
                   "type": "section",
                   "start_page": 209,
                   "end_page": 210,
@@ -2518,7 +2518,7 @@
                 },
                 {
                   "name": "487H Persons assisting authorised officers 210",
-                  "cleaned_name": "487H Persons assisting authorised officers",
+                  "cleaned_name": "Persons assisting authorised officers",
                   "type": "section",
                   "start_page": 210,
                   "end_page": 211,
@@ -2526,7 +2526,7 @@
                 },
                 {
                   "name": "487J Use of force in executing a search warrant 211",
-                  "cleaned_name": "487J Use of force in executing a search warrant",
+                  "cleaned_name": "Use of force in executing a search warrant",
                   "type": "section",
                   "start_page": 211,
                   "end_page": 211,
@@ -2536,12 +2536,12 @@
             },
             {
               "name": "Subdivision B—Powers of authorised officers to ask questions and seek production of documents 211",
-              "cleaned_name": "Subdivision B—Powers of authorised officers to ask questions and seek production of documents",
+              "cleaned_name": "Powers of authorised officers to ask questions and seek production of documents",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487K Authorised officer may ask questions and seek production of documents 211",
-                  "cleaned_name": "487K Authorised officer may ask questions and seek production of documents",
+                  "cleaned_name": "Authorised officer may ask questions and seek production of documents",
                   "type": "section",
                   "start_page": 211,
                   "end_page": 212,
@@ -2551,12 +2551,12 @@
             },
             {
               "name": "Subdivision C—Obligations and incidental powers of authorised officers 212",
-              "cleaned_name": "Subdivision C—Obligations and incidental powers of authorised officers",
+              "cleaned_name": "Obligations and incidental powers of authorised officers",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487L Consent 212",
-                  "cleaned_name": "487L Consent",
+                  "cleaned_name": "Consent",
                   "type": "section",
                   "start_page": 212,
                   "end_page": 212,
@@ -2564,7 +2564,7 @@
                 },
                 {
                   "name": "487M Announcement before entry under search warrant 212",
-                  "cleaned_name": "487M Announcement before entry under search warrant",
+                  "cleaned_name": "Announcement before entry under search warrant",
                   "type": "section",
                   "start_page": 212,
                   "end_page": 213,
@@ -2572,7 +2572,7 @@
                 },
                 {
                   "name": "487N Authorised officer to be in possession of search warrant 213",
-                  "cleaned_name": "487N Authorised officer to be in possession of search warrant",
+                  "cleaned_name": "Authorised officer to be in possession of search warrant",
                   "type": "section",
                   "start_page": 213,
                   "end_page": 213,
@@ -2580,7 +2580,7 @@
                 },
                 {
                   "name": "487P Details of search warrant etc. to be given to occupier 213",
-                  "cleaned_name": "487P Details of search warrant etc. to be given to occupier",
+                  "cleaned_name": "Details of search warrant etc. to be given to occupier",
                   "type": "section",
                   "start_page": 213,
                   "end_page": 214,
@@ -2588,7 +2588,7 @@
                 },
                 {
                   "name": "487Q Completing execution of search warrant after temporary cessation 214",
-                  "cleaned_name": "487Q Completing execution of search warrant after temporary cessation",
+                  "cleaned_name": "Completing execution of search warrant after temporary cessation",
                   "type": "section",
                   "start_page": 214,
                   "end_page": 215,
@@ -2596,7 +2596,7 @@
                 },
                 {
                   "name": "487R Completing execution of search warrant stopped by court order 215",
-                  "cleaned_name": "487R Completing execution of search warrant stopped by court order",
+                  "cleaned_name": "Completing execution of search warrant stopped by court order",
                   "type": "section",
                   "start_page": 215,
                   "end_page": 216,
@@ -2604,7 +2604,7 @@
                 },
                 {
                   "name": "487S Expert assistance to operate electronic equipment 216",
-                  "cleaned_name": "487S Expert assistance to operate electronic equipment",
+                  "cleaned_name": "Expert assistance to operate electronic equipment",
                   "type": "section",
                   "start_page": 216,
                   "end_page": 217,
@@ -2612,7 +2612,7 @@
                 },
                 {
                   "name": "487T Compensation for damage to electronic equipment 217",
-                  "cleaned_name": "487T Compensation for damage to electronic equipment",
+                  "cleaned_name": "Compensation for damage to electronic equipment",
                   "type": "section",
                   "start_page": 217,
                   "end_page": 218,
@@ -2622,12 +2622,12 @@
             },
             {
               "name": "Subdivision D—Occupier’s rights and responsibilities 218",
-              "cleaned_name": "Subdivision D—Occupier’s rights and responsibilities",
+              "cleaned_name": "Occupier’s rights and responsibilities",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487U Occupier entitled to observe execution of search warrant 218",
-                  "cleaned_name": "487U Occupier entitled to observe execution of search warrant",
+                  "cleaned_name": "Occupier entitled to observe execution of search warrant",
                   "type": "section",
                   "start_page": 218,
                   "end_page": 218,
@@ -2635,7 +2635,7 @@
                 },
                 {
                   "name": "487V Occupier to provide authorised officer with facilities and assistance 218",
-                  "cleaned_name": "487V Occupier to provide authorised officer with facilities and assistance",
+                  "cleaned_name": "Occupier to provide authorised officer with facilities and assistance",
                   "type": "section",
                   "start_page": 218,
                   "end_page": 219,
@@ -2645,12 +2645,12 @@
             },
             {
               "name": "Subdivision E—General provisions relating to seizure 219",
-              "cleaned_name": "Subdivision E—General provisions relating to seizure",
+              "cleaned_name": "General provisions relating to seizure",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487W Copies of seized things to be provided 219",
-                  "cleaned_name": "487W Copies of seized things to be provided",
+                  "cleaned_name": "Copies of seized things to be provided",
                   "type": "section",
                   "start_page": 219,
                   "end_page": 220,
@@ -2658,7 +2658,7 @@
                 },
                 {
                   "name": "487X Receipts for seized things 220",
-                  "cleaned_name": "487X Receipts for seized things",
+                  "cleaned_name": "Receipts for seized things",
                   "type": "section",
                   "start_page": 220,
                   "end_page": 220,
@@ -2666,7 +2666,7 @@
                 },
                 {
                   "name": "487Y Return of seized things 220",
-                  "cleaned_name": "487Y Return of seized things",
+                  "cleaned_name": "Return of seized things",
                   "type": "section",
                   "start_page": 220,
                   "end_page": 221,
@@ -2674,7 +2674,7 @@
                 },
                 {
                   "name": "487Z Issuing officer may permit a seized thing to be retained 221",
-                  "cleaned_name": "487Z Issuing officer may permit a seized thing to be retained",
+                  "cleaned_name": "Issuing officer may permit a seized thing to be retained",
                   "type": "section",
                   "start_page": 221,
                   "end_page": 222,
@@ -2682,7 +2682,7 @@
                 },
                 {
                   "name": "487ZA Disposal of seized things 222",
-                  "cleaned_name": "487ZA Disposal of seized things",
+                  "cleaned_name": "Disposal of seized things",
                   "type": "section",
                   "start_page": 222,
                   "end_page": 222,
@@ -2690,7 +2690,7 @@
                 },
                 {
                   "name": "487ZB Compensation for acquisition of property 222",
-                  "cleaned_name": "487ZB Compensation for acquisition of property",
+                  "cleaned_name": "Compensation for acquisition of property",
                   "type": "section",
                   "start_page": 222,
                   "end_page": 223,
@@ -2700,12 +2700,12 @@
             },
             {
               "name": "Subdivision F—Issue of search warrants 223",
-              "cleaned_name": "Subdivision F—Issue of search warrants",
+              "cleaned_name": "Issue of search warrants",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487ZC Issue of search warrants 223",
-                  "cleaned_name": "487ZC Issue of search warrants",
+                  "cleaned_name": "Issue of search warrants",
                   "type": "section",
                   "start_page": 223,
                   "end_page": 224,
@@ -2713,7 +2713,7 @@
                 },
                 {
                   "name": "487ZD Search warrants by telephone, fax etc. 224",
-                  "cleaned_name": "487ZD Search warrants by telephone, fax etc.",
+                  "cleaned_name": "Search warrants by telephone, fax etc.",
                   "type": "section",
                   "start_page": 224,
                   "end_page": 226,
@@ -2721,7 +2721,7 @@
                 },
                 {
                   "name": "487ZE Authority of search warrant 226",
-                  "cleaned_name": "487ZE Authority of search warrant",
+                  "cleaned_name": "Authority of search warrant",
                   "type": "section",
                   "start_page": 226,
                   "end_page": 226,
@@ -2729,7 +2729,7 @@
                 },
                 {
                   "name": "487ZF Offence relating to search warrants by telephone, fax etc. 226",
-                  "cleaned_name": "487ZF Offence relating to search warrants by telephone, fax etc.",
+                  "cleaned_name": "Offence relating to search warrants by telephone, fax etc.",
                   "type": "section",
                   "start_page": 226,
                   "end_page": 227,
@@ -2739,12 +2739,12 @@
             },
             {
               "name": "Subdivision G—Identity cards 227",
-              "cleaned_name": "Subdivision G—Identity cards",
+              "cleaned_name": "Identity cards",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487ZG Identity cards 227",
-                  "cleaned_name": "487ZG Identity cards",
+                  "cleaned_name": "Identity cards",
                   "type": "section",
                   "start_page": 227,
                   "end_page": 228,
@@ -2754,12 +2754,12 @@
             },
             {
               "name": "Subdivision H—Powers of issuing officers 228",
-              "cleaned_name": "Subdivision H—Powers of issuing officers",
+              "cleaned_name": "Powers of issuing officers",
               "type": "subdivision",
               "children": [
                 {
                   "name": "487ZH Powers of issuing officers 228",
-                  "cleaned_name": "487ZH Powers of issuing officers",
+                  "cleaned_name": "Powers of issuing officers",
                   "type": "section",
                   "start_page": 228,
                   "end_page": 229,
@@ -2773,17 +2773,17 @@
     },
     {
       "name": "Part 9—Miscellaneous 229",
-      "cleaned_name": "Part 9—Miscellaneous",
+      "cleaned_name": "Miscellaneous",
       "type": "part",
       "children": [
         {
           "name": "Division 1—Bogus documents 229",
-          "cleaned_name": "Division 1—Bogus documents",
+          "cleaned_name": "Bogus documents",
           "type": "division",
           "children": [
             {
               "name": "487ZI Prohibition on, and forfeiture of, bogus documents 229",
-              "cleaned_name": "487ZI Prohibition on, and forfeiture of, bogus documents",
+              "cleaned_name": "Prohibition on, and forfeiture of, bogus documents",
               "type": "section",
               "start_page": 229,
               "end_page": 229,
@@ -2791,7 +2791,7 @@
             },
             {
               "name": "487ZJ Seizure of bogus documents 229",
-              "cleaned_name": "487ZJ Seizure of bogus documents",
+              "cleaned_name": "Seizure of bogus documents",
               "type": "section",
               "start_page": 229,
               "end_page": 230,
@@ -2799,7 +2799,7 @@
             },
             {
               "name": "487ZK Document condemned as forfeited 230",
-              "cleaned_name": "487ZK Document condemned as forfeited",
+              "cleaned_name": "Document condemned as forfeited",
               "type": "section",
               "start_page": 230,
               "end_page": 231,
@@ -2807,7 +2807,7 @@
             },
             {
               "name": "487ZL Dealing with a document after it is condemned as forfeited 231",
-              "cleaned_name": "487ZL Dealing with a document after it is condemned as forfeited",
+              "cleaned_name": "Dealing with a document after it is condemned as forfeited",
               "type": "section",
               "start_page": 231,
               "end_page": 232,
@@ -2817,12 +2817,12 @@
         },
         {
           "name": "Division 2—Other 232",
-          "cleaned_name": "Division 2—Other",
+          "cleaned_name": "Other",
           "type": "division",
           "children": [
             {
               "name": "487 Liability for identification tests 232",
-              "cleaned_name": "487 Liability for identification tests",
+              "cleaned_name": "Liability for identification tests",
               "type": "section",
               "start_page": 232,
               "end_page": 232,
@@ -2830,7 +2830,7 @@
             },
             {
               "name": "488 Tampering with movements records 232",
-              "cleaned_name": "488 Tampering with movements records",
+              "cleaned_name": "Tampering with movements records",
               "type": "section",
               "start_page": 232,
               "end_page": 234,
@@ -2838,7 +2838,7 @@
             },
             {
               "name": "488A Giving information to other relevant agencies 234",
-              "cleaned_name": "488A Giving information to other relevant agencies",
+              "cleaned_name": "Giving information to other relevant agencies",
               "type": "section",
               "start_page": 234,
               "end_page": 234,
@@ -2846,7 +2846,7 @@
             },
             {
               "name": "488AA Things seized under Crimes Act search warrant and information about such things 234",
-              "cleaned_name": "488AA Things seized under Crimes Act search warrant and information about such things",
+              "cleaned_name": "Things seized under Crimes Act search warrant and information about such things",
               "type": "section",
               "start_page": 234,
               "end_page": 235,
@@ -2854,7 +2854,7 @@
             },
             {
               "name": "488B Authorisation to disclose information to an officer 235",
-              "cleaned_name": "488B Authorisation to disclose information to an officer",
+              "cleaned_name": "Authorisation to disclose information to an officer",
               "type": "section",
               "start_page": 235,
               "end_page": 236,
@@ -2862,7 +2862,7 @@
             },
             {
               "name": "489 Notified data bases 236",
-              "cleaned_name": "489 Notified data bases",
+              "cleaned_name": "Notified data bases",
               "type": "section",
               "start_page": 236,
               "end_page": 237,
@@ -2870,7 +2870,7 @@
             },
             {
               "name": "490 Identification card to be deemed to continue to be in a form approved by the Minister 237",
-              "cleaned_name": "490 Identification card to be deemed to continue to be in a form approved by the Minister",
+              "cleaned_name": "Identification card to be deemed to continue to be in a form approved by the Minister",
               "type": "section",
               "start_page": 237,
               "end_page": 237,
@@ -2878,7 +2878,7 @@
             },
             {
               "name": "492 Commencement of prosecutions 237",
-              "cleaned_name": "492 Commencement of prosecutions",
+              "cleaned_name": "Commencement of prosecutions",
               "type": "section",
               "start_page": 237,
               "end_page": 237,
@@ -2886,7 +2886,7 @@
             },
             {
               "name": "493 Conduct of directors, employees and agents 237",
-              "cleaned_name": "493 Conduct of directors, employees and agents",
+              "cleaned_name": "Conduct of directors, employees and agents",
               "type": "section",
               "start_page": 237,
               "end_page": 239,
@@ -2894,7 +2894,7 @@
             },
             {
               "name": "494 Jurisdiction of courts 239",
-              "cleaned_name": "494 Jurisdiction of courts",
+              "cleaned_name": "Jurisdiction of courts",
               "type": "section",
               "start_page": 239,
               "end_page": 240,
@@ -2902,7 +2902,7 @@
             },
             {
               "name": "494AA Bar on certain legal proceedings relating to unauthorised maritime arrivals 240",
-              "cleaned_name": "494AA Bar on certain legal proceedings relating to unauthorised maritime arrivals",
+              "cleaned_name": "Bar on certain legal proceedings relating to unauthorised maritime arrivals",
               "type": "section",
               "start_page": 240,
               "end_page": 241,
@@ -2910,7 +2910,7 @@
             },
             {
               "name": "494AB Bar on certain legal proceedings relating to transitory persons 241",
-              "cleaned_name": "494AB Bar on certain legal proceedings relating to transitory persons",
+              "cleaned_name": "Bar on certain legal proceedings relating to transitory persons",
               "type": "section",
               "start_page": 241,
               "end_page": 242,
@@ -2918,7 +2918,7 @@
             },
             {
               "name": "494A Giving documents by Minister where no requirement to do so by section 494B method 242",
-              "cleaned_name": "494A Giving documents by Minister where no requirement to do so by section 494B method",
+              "cleaned_name": "Giving documents by Minister where no requirement to do so by section 494B method",
               "type": "section",
               "start_page": 242,
               "end_page": 243,
@@ -2926,7 +2926,7 @@
             },
             {
               "name": "494B Methods by which Minister gives documents to a person 243",
-              "cleaned_name": "494B Methods by which Minister gives documents to a person",
+              "cleaned_name": "Methods by which Minister gives documents to a person",
               "type": "section",
               "start_page": 243,
               "end_page": 246,
@@ -2934,7 +2934,7 @@
             },
             {
               "name": "494C When a person is taken to have received a document from the Minister 246",
-              "cleaned_name": "494C When a person is taken to have received a document from the Minister",
+              "cleaned_name": "When a person is taken to have received a document from the Minister",
               "type": "section",
               "start_page": 246,
               "end_page": 248,
@@ -2942,7 +2942,7 @@
             },
             {
               "name": "494D Authorised recipient 248",
-              "cleaned_name": "494D Authorised recipient",
+              "cleaned_name": "Authorised recipient",
               "type": "section",
               "start_page": 248,
               "end_page": 249,
@@ -2950,7 +2950,7 @@
             },
             {
               "name": "494E When documents are taken to comply with content requirements 249",
-              "cleaned_name": "494E When documents are taken to comply with content requirements",
+              "cleaned_name": "When documents are taken to comply with content requirements",
               "type": "section",
               "start_page": 249,
               "end_page": 251,
@@ -2958,7 +2958,7 @@
             },
             {
               "name": "495 Minister may approve forms 251",
-              "cleaned_name": "495 Minister may approve forms",
+              "cleaned_name": "Minister may approve forms",
               "type": "section",
               "start_page": 251,
               "end_page": 251,
@@ -2966,7 +2966,7 @@
             },
             {
               "name": "495A Minister may arrange for use of computer programs to make decisions etc 251",
-              "cleaned_name": "495A Minister may arrange for use of computer programs to make decisions etc",
+              "cleaned_name": "Minister may arrange for use of computer programs to make decisions etc",
               "type": "section",
               "start_page": 251,
               "end_page": 252,
@@ -2974,7 +2974,7 @@
             },
             {
               "name": "495B Minister may substitute more favourable decisions for certain computer-based decisions 252",
-              "cleaned_name": "495B Minister may substitute more favourable decisions for certain computer-based decisions",
+              "cleaned_name": "Minister may substitute more favourable decisions for certain computer-based decisions",
               "type": "section",
               "start_page": 252,
               "end_page": 252,
@@ -2982,7 +2982,7 @@
             },
             {
               "name": "496 Delegation 252",
-              "cleaned_name": "496 Delegation",
+              "cleaned_name": "Delegation",
               "type": "section",
               "start_page": 252,
               "end_page": 253,
@@ -2990,7 +2990,7 @@
             },
             {
               "name": "497 Delegate not required to perform certain administrative tasks 253",
-              "cleaned_name": "497 Delegate not required to perform certain administrative tasks",
+              "cleaned_name": "Delegate not required to perform certain administrative tasks",
               "type": "section",
               "start_page": 253,
               "end_page": 254,
@@ -2998,7 +2998,7 @@
             },
             {
               "name": "498 Exercise of powers under Act 254",
-              "cleaned_name": "498 Exercise of powers under Act",
+              "cleaned_name": "Exercise of powers under Act",
               "type": "section",
               "start_page": 254,
               "end_page": 254,
@@ -3006,7 +3006,7 @@
             },
             {
               "name": "499 Minister may give directions 254",
-              "cleaned_name": "499 Minister may give directions",
+              "cleaned_name": "Minister may give directions",
               "type": "section",
               "start_page": 254,
               "end_page": 254,
@@ -3014,7 +3014,7 @@
             },
             {
               "name": "500 Review of decision 254",
-              "cleaned_name": "500 Review of decision",
+              "cleaned_name": "Review of decision",
               "type": "section",
               "start_page": 254,
               "end_page": 261,
@@ -3022,7 +3022,7 @@
             },
             {
               "name": "500AA Applications generally cannot be made to the ART guidance and appeals panel 261",
-              "cleaned_name": "500AA Applications generally cannot be made to the ART guidance and appeals panel",
+              "cleaned_name": "Applications generally cannot be made to the ART guidance and appeals panel",
               "type": "section",
               "start_page": 261,
               "end_page": 261,
@@ -3030,7 +3030,7 @@
             },
             {
               "name": "500A Refusal or cancellation of temporary safe haven visas 261",
-              "cleaned_name": "500A Refusal or cancellation of temporary safe haven visas",
+              "cleaned_name": "Refusal or cancellation of temporary safe haven visas",
               "type": "section",
               "start_page": 261,
               "end_page": 265,
@@ -3038,7 +3038,7 @@
             },
             {
               "name": "501 Refusal or cancellation of visa on character grounds 265",
-              "cleaned_name": "501 Refusal or cancellation of visa on character grounds",
+              "cleaned_name": "Refusal or cancellation of visa on character grounds",
               "type": "section",
               "start_page": 265,
               "end_page": 271,
@@ -3046,7 +3046,7 @@
             },
             {
               "name": "501A Refusal or cancellation of visa—setting aside and substitution of non-adverse decision under subsection 501(1) or (2) 271",
-              "cleaned_name": "501A Refusal or cancellation of visa—setting aside and substitution of non-adverse decision under subsection 501(1) or (2)",
+              "cleaned_name": "Refusal or cancellation of visa—setting aside and substitution of non-adverse decision under subsection 501(1) or (2)",
               "type": "section",
               "start_page": 271,
               "end_page": 273,
@@ -3054,7 +3054,7 @@
             },
             {
               "name": "501B Refusal or cancellation of visa—setting aside and substitution of adverse decision under subsection 501(1) or (2) 273",
-              "cleaned_name": "501B Refusal or cancellation of visa—setting aside and substitution of adverse decision under subsection 501(1) or (2)",
+              "cleaned_name": "Refusal or cancellation of visa—setting aside and substitution of adverse decision under subsection 501(1) or (2)",
               "type": "section",
               "start_page": 273,
               "end_page": 274,
@@ -3062,7 +3062,7 @@
             },
             {
               "name": "501BA Cancellation of visa—setting aside and substitution of non-adverse decision under section 501CA 274",
-              "cleaned_name": "501BA Cancellation of visa—setting aside and substitution of non-adverse decision under section 501CA",
+              "cleaned_name": "Cancellation of visa—setting aside and substitution of non-adverse decision under section 501CA",
               "type": "section",
               "start_page": 274,
               "end_page": 275,
@@ -3070,7 +3070,7 @@
             },
             {
               "name": "501C Refusal or cancellation of visa—revocation of decision under subsection 501(3) or 501A(3) 275",
-              "cleaned_name": "501C Refusal or cancellation of visa—revocation of decision under subsection 501(3) or 501A(3)",
+              "cleaned_name": "Refusal or cancellation of visa—revocation of decision under subsection 501(3) or 501A(3)",
               "type": "section",
               "start_page": 275,
               "end_page": 277,
@@ -3078,7 +3078,7 @@
             },
             {
               "name": "501CA Cancellation of visa—revocation of decision under subsection 501(3A) (person serving sentence of imprisonment) 277",
-              "cleaned_name": "501CA Cancellation of visa—revocation of decision under subsection 501(3A) (person serving sentence of imprisonment)",
+              "cleaned_name": "Cancellation of visa—revocation of decision under subsection 501(3A) (person serving sentence of imprisonment)",
               "type": "section",
               "start_page": 277,
               "end_page": 278,
@@ -3086,7 +3086,7 @@
             },
             {
               "name": "501D Refusal or cancellation of visa—method of satisfying Minister that person passes the character test 278",
-              "cleaned_name": "501D Refusal or cancellation of visa—method of satisfying Minister that person passes the character test",
+              "cleaned_name": "Refusal or cancellation of visa—method of satisfying Minister that person passes the character test",
               "type": "section",
               "start_page": 278,
               "end_page": 279,
@@ -3094,7 +3094,7 @@
             },
             {
               "name": "501E Refusal or cancellation of visa—prohibition on applying for other visas 279",
-              "cleaned_name": "501E Refusal or cancellation of visa—prohibition on applying for other visas",
+              "cleaned_name": "Refusal or cancellation of visa—prohibition on applying for other visas",
               "type": "section",
               "start_page": 279,
               "end_page": 280,
@@ -3102,7 +3102,7 @@
             },
             {
               "name": "501F Refusal or cancellation of visa—refusal of other visa applications and cancellation of other visas 280",
-              "cleaned_name": "501F Refusal or cancellation of visa—refusal of other visa applications and cancellation of other visas",
+              "cleaned_name": "Refusal or cancellation of visa—refusal of other visa applications and cancellation of other visas",
               "type": "section",
               "start_page": 280,
               "end_page": 281,
@@ -3110,7 +3110,7 @@
             },
             {
               "name": "501G Refusal or cancellation of visa—notification of decision 281",
-              "cleaned_name": "501G Refusal or cancellation of visa—notification of decision",
+              "cleaned_name": "Refusal or cancellation of visa—notification of decision",
               "type": "section",
               "start_page": 281,
               "end_page": 282,
@@ -3118,7 +3118,7 @@
             },
             {
               "name": "501H Refusal or cancellation of visa—miscellaneous provisions 282",
-              "cleaned_name": "501H Refusal or cancellation of visa—miscellaneous provisions",
+              "cleaned_name": "Refusal or cancellation of visa—miscellaneous provisions",
               "type": "section",
               "start_page": 282,
               "end_page": 283,
@@ -3126,7 +3126,7 @@
             },
             {
               "name": "501HA Application of sections 501 to 501H to transitional (permanent) visas and transitional (temporary) visas 283",
-              "cleaned_name": "501HA Application of sections 501 to 501H to transitional (permanent) visas and transitional (temporary) visas",
+              "cleaned_name": "Application of sections 501 to 501H to transitional (permanent) visas and transitional (temporary) visas",
               "type": "section",
               "start_page": 283,
               "end_page": 283,
@@ -3134,7 +3134,7 @@
             },
             {
               "name": "501J Refusal or cancellation of protection visa— Minister may substitute more favourable decision 283",
-              "cleaned_name": "501J Refusal or cancellation of protection visa— Minister may substitute more favourable decision",
+              "cleaned_name": "Refusal or cancellation of protection visa— Minister may substitute more favourable decision",
               "type": "section",
               "start_page": 283,
               "end_page": 284,
@@ -3142,7 +3142,7 @@
             },
             {
               "name": "501K Identity of applicants for protection visas not to be published by the ART 284",
-              "cleaned_name": "501K Identity of applicants for protection visas not to be published by the ART",
+              "cleaned_name": "Identity of applicants for protection visas not to be published by the ART",
               "type": "section",
               "start_page": 284,
               "end_page": 285,
@@ -3150,7 +3150,7 @@
             },
             {
               "name": "501L Disclosure of information to the Minister 285",
-              "cleaned_name": "501L Disclosure of information to the Minister",
+              "cleaned_name": "Disclosure of information to the Minister",
               "type": "section",
               "start_page": 285,
               "end_page": 287,
@@ -3158,7 +3158,7 @@
             },
             {
               "name": "501M Collection, use and disclosure of criminal history information 287",
-              "cleaned_name": "501M Collection, use and disclosure of criminal history information",
+              "cleaned_name": "Collection, use and disclosure of criminal history information",
               "type": "section",
               "start_page": 287,
               "end_page": 288,
@@ -3166,7 +3166,7 @@
             },
             {
               "name": "502 Minister may decide in the national interest that certain persons are to be excluded persons 288",
-              "cleaned_name": "502 Minister may decide in the national interest that certain persons are to be excluded persons",
+              "cleaned_name": "Minister may decide in the national interest that certain persons are to be excluded persons",
               "type": "section",
               "start_page": 288,
               "end_page": 289,
@@ -3174,7 +3174,7 @@
             },
             {
               "name": "503 Exclusion of certain persons from Australia 289",
-              "cleaned_name": "503 Exclusion of certain persons from Australia",
+              "cleaned_name": "Exclusion of certain persons from Australia",
               "type": "section",
               "start_page": 289,
               "end_page": 289,
@@ -3182,7 +3182,7 @@
             },
             {
               "name": "503A Protection of information supplied by law enforcement agencies or intelligence agencies 289",
-              "cleaned_name": "503A Protection of information supplied by law enforcement agencies or intelligence agencies",
+              "cleaned_name": "Protection of information supplied by law enforcement agencies or intelligence agencies",
               "type": "section",
               "start_page": 289,
               "end_page": 294,
@@ -3190,7 +3190,7 @@
             },
             {
               "name": "503B Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—permanent non-disclosure orders 294",
-              "cleaned_name": "503B Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—permanent non-disclosure orders",
+              "cleaned_name": "Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—permanent non-disclosure orders",
               "type": "section",
               "start_page": 294,
               "end_page": 299,
@@ -3198,7 +3198,7 @@
             },
             {
               "name": "503C Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—interim non-disclosure orders 299",
-              "cleaned_name": "503C Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—interim non-disclosure orders",
+              "cleaned_name": "Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—interim non-disclosure orders",
               "type": "section",
               "start_page": 299,
               "end_page": 302,
@@ -3206,7 +3206,7 @@
             },
             {
               "name": "503D Details of gazetted agency to be treated as protected information 302",
-              "cleaned_name": "503D Details of gazetted agency to be treated as protected information",
+              "cleaned_name": "Details of gazetted agency to be treated as protected information",
               "type": "section",
               "start_page": 302,
               "end_page": 302,
@@ -3214,7 +3214,7 @@
             },
             {
               "name": "503E Validation of decisions 302",
-              "cleaned_name": "503E Validation of decisions",
+              "cleaned_name": "Validation of decisions",
               "type": "section",
               "start_page": 302,
               "end_page": 303,
@@ -3222,7 +3222,7 @@
             },
             {
               "name": "504 Regulations 303",
-              "cleaned_name": "504 Regulations",
+              "cleaned_name": "Regulations",
               "type": "section",
               "start_page": 303,
               "end_page": 307,
@@ -3230,7 +3230,7 @@
             },
             {
               "name": "505 Regulations about visa criteria 307",
-              "cleaned_name": "505 Regulations about visa criteria",
+              "cleaned_name": "Regulations about visa criteria",
               "type": "section",
               "start_page": 307,
               "end_page": 307,
@@ -3238,7 +3238,7 @@
             },
             {
               "name": "506 Regulations about passenger cards 307",
-              "cleaned_name": "506 Regulations about passenger cards",
+              "cleaned_name": "Regulations about passenger cards",
               "type": "section",
               "start_page": 307,
               "end_page": 308,
@@ -3246,7 +3246,7 @@
             },
             {
               "name": "506A Regulations may provide for infringement notices 308",
-              "cleaned_name": "506A Regulations may provide for infringement notices",
+              "cleaned_name": "Regulations may provide for infringement notices",
               "type": "section",
               "start_page": 308,
               "end_page": 308,
@@ -3254,7 +3254,7 @@
             },
             {
               "name": "506B Tax file numbers 308",
-              "cleaned_name": "506B Tax file numbers",
+              "cleaned_name": "Tax file numbers",
               "type": "section",
               "start_page": 308,
               "end_page": 310,
@@ -3262,7 +3262,7 @@
             },
             {
               "name": "507 Marital or relationship status 310",
-              "cleaned_name": "507 Marital or relationship status",
+              "cleaned_name": "Marital or relationship status",
               "type": "section",
               "start_page": 310,
               "end_page": null,
