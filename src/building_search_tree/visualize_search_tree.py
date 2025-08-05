@@ -45,14 +45,9 @@ class EnhancedTreeVisualizer:
         """Check if node is a leaf (contains list with [name, code] format)"""
         return isinstance(node, list) and len(node) == 2 and isinstance(node[0], str)
     
-    def determine_node_type(self, key, value, level, parent_type=None):
-        """Determine the type of node based on its position in hierarchy"""
-        if key == "To be continued ...":
-            # Use the same type as parent to inherit color
-            return parent_type if parent_type else 'section'
-        elif self.is_leaf_node(value):
-            return 'section'  # Leaf nodes are always sections (blue/purple)
-        elif level == 0:
+    def determine_node_type_by_level(self, level):
+        """Determine node type purely by level"""
+        if level == 0:
             return 'root'
         elif level == 1:
             return 'volume'
@@ -63,7 +58,7 @@ class EnhancedTreeVisualizer:
         elif level == 4:
             return 'subdivision'
         else:
-            return 'section'  # Deeper levels are also sections
+            return 'section'
     
     def get_display_name(self, key, value):
         """Get the display name for a node"""
@@ -143,7 +138,7 @@ class EnhancedTreeVisualizer:
         
         return max_child_depth
     
-    def position_nodes_recursive(self, node, level, center_x, parent_x, all_nodes, max_depth, parent_y=None, parent_type=None):
+    def position_nodes_recursive(self, node, level, center_x, parent_x, all_nodes, max_depth, parent_y=None):
         """Recursively position nodes with proper spacing"""
         if self.is_leaf_node(node):
             return center_x
@@ -158,19 +153,6 @@ class EnhancedTreeVisualizer:
         y = -level * self.level_height
         if parent_y is None:
             parent_y = y + self.level_height
-        
-        # Determine the node type for children at this level
-        child_node_type = None
-        if level == 0:
-            child_node_type = 'volume'
-        elif level == 1:
-            child_node_type = 'part'
-        elif level == 2:
-            child_node_type = 'division'
-        elif level == 3:
-            child_node_type = 'subdivision'
-        else:
-            child_node_type = 'section'
         
         # Calculate total width needed for all children
         child_widths = []
@@ -194,12 +176,8 @@ class EnhancedTreeVisualizer:
         for i, ((key, value), width) in enumerate(zip(display_items, child_widths)):
             child_center_x = current_x + width / 2
             
-            # Create node info
-            if key == "To be continued ...":
-                node_type = child_node_type  # Use the same type as siblings
-            else:
-                node_type = self.determine_node_type(key, value, level, child_node_type)
-            
+            # Determine node type based on level - ALL nodes at same level get same type
+            node_type = self.determine_node_type_by_level(level)
             display_name = self.get_display_name(key, value)
             
             node_info = {
@@ -209,7 +187,9 @@ class EnhancedTreeVisualizer:
                 'level': level,
                 'type': node_type,
                 'parent_x': parent_x if level > 0 else None,
-                'parent_y': parent_y if level > 0 else None
+                'parent_y': parent_y if level > 0 else None,
+                'is_continuation': key == "To be continued ...",
+                'is_leaf': self.is_leaf_node(value)
             }
             
             all_nodes.append(node_info)
@@ -217,12 +197,29 @@ class EnhancedTreeVisualizer:
             
             current_x += width
         
-        # Recursively position children
+        # Recursively position children - but NOT for "To be continued..." or leaf nodes
         for child_x, key, value in child_positions:
             if key != "To be continued ..." and not self.is_leaf_node(value) and isinstance(value, dict):
                 self.position_nodes_recursive(
-                    value, level + 1, child_x, child_x, all_nodes, max_depth, y, child_node_type
+                    value, level + 1, child_x, child_x, all_nodes, max_depth, y
                 )
+            elif self.is_leaf_node(value):
+                # For leaf nodes, we need to add them as children
+                leaf_y = y - self.level_height
+                leaf_node_type = self.determine_node_type_by_level(level + 1)
+                
+                leaf_node_info = {
+                    'name': value[0],  # Display name from leaf
+                    'x': child_x,
+                    'y': leaf_y,
+                    'level': level + 1,
+                    'type': leaf_node_type,
+                    'parent_x': child_x,
+                    'parent_y': y,
+                    'is_continuation': False,
+                    'is_leaf': True
+                }
+                all_nodes.append(leaf_node_info)
         
         return center_x
     
