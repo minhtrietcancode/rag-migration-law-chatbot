@@ -1,0 +1,32 @@
+202 Migration Act 1958
+Compilation No. 164 Compilation date: 21/02/2025(2) For the purposes of subsection (1), a person may be regarded as 
+having considered whether or not facts existed if:
+(a) the person had considered, on a previous occasion, whether 
+those facts existed in the circumstances surrounding that 
+occasion; and
+(b) the person honestly and reasonably believed that the 
+circumstances surrounding the present occasion were the 
+same, or substantially the same, as those surrounding the 
+previous occasion.
+(3) A person who wishes to rely on subsection (1) or (2) in 
+proceedings for a civil penalty order bears an evidential burden in 
+relation to that matter.
+486ZF  State of mind
+(1) In proceedings for a civil penalty order against a person for a 
+contravention of a civil penalty provision (other than 
+subsection 245AK(2) or 245AU(2)), it is not necessary to prove:
+(a) the person’s intention; or
+(b) the person’s knowledge; or
+(c) the person’s recklessness; or
+(d) the person’s negligence; or
+(e) any other state of mind of the person.
+(2) Subsection (1) does not apply to the extent that the proceedings 
+relate to a contravention of subsection 486ZD(1) (which is about 
+ancillary contraventions of civil penalty provisions).
+(3) Subsection (1) of this section does not affect the operation of 
+section 486ZE (which is about mistake of fact).
+486ZG  Civil double jeopardy
+If a person is ordered to pay a pecuniary penalty for contravening a 
+civil penalty provision in respect of particular conduct, the person 
+is not liable to a pecuniary penalty under some other provision of a 
+law of the Commonwealth in respect of that conduct.

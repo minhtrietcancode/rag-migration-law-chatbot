@@ -1,0 +1,25 @@
+Migration Act 1958 199
+Compilation No. 164 Compilation date: 21/02/2025Division 2—Civil proceedings and criminal proceedings
+486Z  Civil proceedings after criminal proceedings
+An eligible court may not make a civil penalty order against a 
+person for a contravention of a civil penalty provision if the person 
+has been convicted of an offence constituted by conduct that is the 
+same, or substantially the same, as the conduct constituting the 
+contravention.
+486ZA  Criminal proceedings during civil proceedings
+(1) Proceedings for a civil penalty order against a person for a 
+contravention of a civil penalty provision are stayed if:
+(a) criminal proceedings are commenced or have already been 
+commenced against the person for an offence; and
+(b) the offence is constituted by conduct that is the same, or 
+substantially the same, as the conduct alleged to constitute 
+the contravention.
+(2) The proceedings for the civil penalty order may be resumed if the 
+person is not convicted of the offence. Otherwise, the proceedings 
+are dismissed.
+486ZB  Criminal proceedings after civil proceedings
+Criminal proceedings may be commenced against a person for 
+conduct that is the same, or substantially the same, as conduct that 
+would constitute a contravention of a civil penalty provision 
+regardless of whether a civil penalty order has been made against 
+the person in relation to the contravention.

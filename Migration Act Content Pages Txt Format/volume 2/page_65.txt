@@ -1,0 +1,33 @@
+Migration Act 1958 65
+Compilation No. 164 Compilation date: 21/02/2025290B  Applicant must not be registered if any unpaid registration 
+status charge
+An applicant must not be registered if any registration status charge 
+payable by him or her remains unpaid after the time when it 
+becomes due for payment.
+291  Applicant must not be registered if registration refused in past 
+year
+(1) An applicant must not be registered if he or she has been refused 
+registration as a migration agent within 12 months before his or her 
+application.
+(2) To avoid doubt, this section applies to all applicants (not just first 
+time applicants).
+291A  Applicant must not be registered if suspension would be in 
+effect
+If:
+(a) an applicant has been registered (the previous registration) at 
+some time before making the application; and
+(b) the Migration Agents Registration Authority decided to 
+suspend the previous registration (whether or not that 
+decision was stayed); and
+(c) the previous registration ended on or after the suspension 
+decision;
+then the applicant must not be registered during a period in which 
+the previous registration would have been suspended had the 
+previous registration not already ended.
+Example 1: A registered migration agent’s registration is suspended for a period. 
+The agent is deregistered under section 302 so the suspension of the 
+registration ends. The agent cannot be re-registered until the 
+suspension period ends.
+Example 2: The Migration Agents Registration Authority suspends a registered 
+migration agent’s registration. The agent applies for review of the 
+decision and a stay order is made in relation to the decision. The agent 

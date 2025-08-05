@@ -1,0 +1,33 @@
+Migration Act 1958 523
+Compilation No. 164 Compilation date: 21/02/2025261AKB  Accessing video recordings
+(1) A person commits an offence if:
+(a) the person accesses a video recording; and
+(b) the person is not authorised under section 261AKC to access 
+the video recording for the purpose for which the person 
+accessed it.
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.
+(2) This section does not apply if the access is through the provision of 
+a video recording that is a permitted provision.
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (2) (see subsection 13.3(3) of the Criminal Code).
+261AKC  Authorising access to video recordings
+(1) The Secretary or Australian Border Force Commissioner may, in 
+writing, authorise a specified person, or any person included in a 
+specified class of persons, to access:
+(a) all video recordings; or
+(b) a specified video recording, or video recordings of a 
+specified kind.
+(2) The Secretary or Australian Border Force Commissioner must 
+specify in an authorisation under this section, as the purpose or 
+purposes for which access is authorised, one or more of the 
+following purposes:
+(a) providing a video recording to another person in accordance 
+with this Subdivision;
+(b) administering or managing the storage of video recordings;
+(c) making a video recording available to the person to whom it 
+relates;
+(d) modifying related documents in order to correct errors or 
+ensure compliance with appropriate standards;
+(e) any purpose connected with determining whether a civil or 
+criminal liability has arisen from a person carrying out or 
+helping to carry out an identification test under this Act;

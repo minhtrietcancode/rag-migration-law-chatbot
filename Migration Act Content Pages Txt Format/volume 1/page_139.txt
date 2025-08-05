@@ -1,0 +1,30 @@
+Migration Act 1958 139
+Compilation No. 164 Compilation date: 21/02/2025(i) the person’s monitoring device is not in good working 
+order; or
+(ii) any related monitoring equipment for the person’s 
+monitoring device is not in good working order;
+the person must notify an authorised officer of that as soon as 
+practicable; and
+(c) the person fails to comply with the requirement of the 
+condition.
+Note: Section 4K of the Crimes Act 1914, which deals with continuing and 
+multiple offences, applies to this offence.
+Penalty: 5 years imprisonment or 300 penalty units, or both.
+Exception
+(6) Subsections (1), (2), (3) and (4) do not apply if the person has a 
+reasonable excuse.
+Note: A defendant bears an evidential burden in relation to the matter in this 
+subsection (see subsection 13.3(3) of the Criminal Code).
+Definitions
+(7) In this section:
+monitoring device means any electronic device capable of being 
+used to determine or monitor the location of a person or an object 
+or the status of an object.
+related monitoring equipment, for a monitoring device, means any 
+electronic equipment necessary for operating the monitoring 
+device.
+76DAA  Offence relating to requirement not to perform certain work 
+etc.
+(1) A person commits an offence if:
+(a) the person holds a Subclass 070 (Bridging (Removal 
+Pending)) visa; and

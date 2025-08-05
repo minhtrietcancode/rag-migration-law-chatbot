@@ -1,0 +1,31 @@
+Migration Act 1958 525
+Compilation No. 164 Compilation date: 21/02/2025(e) is for the purpose of an investigation by the Information 
+Commissioner under the Privacy Act 1988 or the 
+Ombudsman relating to carrying out an identification test; or
+(f) is made to a prescribed body or agency for the purpose of the 
+body or agency inquiring into the operation of provisions of 
+this Act relating to carrying out an identification test; or
+(g) takes place with the written consent of the non-citizen to 
+whom the video recording in question relates.
+(3) However, a provision of a video recording is not a permitted 
+provision of the recording if:
+(a) it constitutes a disclosure of identifying information relating 
+to a personal identifier of a prescribed type; and
+(b) it is for the purpose of:
+(i) investigating an offence against a law of the 
+Commonwealth or a State or Territory (other than an 
+offence involving whether an identification test was 
+carried out lawfully); or
+(ii) prosecuting a person for such an offence.
+261AKE  Unauthorised modification of video recordings
+A person commits an offence if:
+(a) the person causes any unauthorised modification of a video 
+recording; and
+(b) the person intends to cause the modification; and
+(c) the person knows that the modification is unauthorised.
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.
+261AKF  Unauthorised impairment of video recordings
+A person commits an offence if:
+(a) the person causes any unauthorised impairment of:
+(i) the reliability of a video recording; or
+(ii) the security of the storage of a video recording; or

@@ -1,0 +1,30 @@
+Migration Act 1958 27
+Compilation No. 164 Compilation date: 21/02/2025Penalty for contravention of this subsection:10 penalty units.
+268CW  Announcement before entry
+An authorised officer executing a monitoring warrant must, before 
+entering premises under the warrant:
+(a) announce that he or she is authorised to enter the premises; 
+and
+(b) give a person on the premises (if there is one) an opportunity 
+to allow entry to the premises.
+268CX  Copy of monitoring warrant to be given to occupier before 
+entry
+(1) If a monitoring warrant is being executed on premises and the 
+occupier of the premises is present, the authorised officer must 
+make a copy of the warrant available to the occupier.
+(2) The authorised officer must identify himself or herself to that 
+person.
+268CY  Compensation for damage to electronic equipment or data
+(1) This section applies if:
+(a) damage is caused to equipment as a result of it being 
+operated as mentioned in section 268CO; or
+(b) the data recorded on the equipment is damaged or programs 
+associated with its use are damaged or corrupted;
+because:
+(c) insufficient care was exercised in selecting the person who 
+was to operate the equipment; or
+(d) insufficient care was exercised by the person operating the 
+equipment.
+(2) The Commonwealth must pay the owner of the equipment, or the 
+user of the data or programs, such reasonable compensation for the 
+damage or corruption as they agree on.

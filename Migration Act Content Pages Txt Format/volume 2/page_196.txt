@@ -1,0 +1,32 @@
+196 Migration Act 1958
+Compilation No. 164 Compilation date: 21/02/2025(a) an amount of a kind prescribed in the regulations made for 
+purposes of subsection 140S(1) is required to be paid by the 
+person to the Commonwealth, a State or Territory or another 
+person; and
+(b) the amount remains unpaid after the time for payment; and
+(c) proceedings to recover the amount have not been brought 
+under section 140S;
+the court may order that the amount be paid to the Commonwealth, 
+State, Territory or other person (as the case may be).
+Note: Section 140S allows a person to bring proceedings to recover an 
+amount owed if the eligible court does not make an order under this 
+subsection.
+(5) If the eligible court makes an order under subsection (4):
+(a) an application may be made under subsection 140SA(1), and 
+an order made under subsection 140SA(2), as if proceedings 
+for a civil penalty order were proceedings under 
+section 140S; and
+(b) section 140SB applies as if the amount ordered to be paid 
+under subsection (4) of this section were a judgement debt 
+under a judgement of an eligible court under section 140S.
+486T  Civil enforcement of penalty
+(1) A pecuniary penalty is a debt payable to the Commonwealth.
+(2) The Commonwealth may enforce a civil penalty order as if it were 
+an order made in civil proceedings against the person to recover a 
+debt due by the person. The debt arising from the order is taken to 
+be a judgement debt.
+486U  Conduct contravening more than one civil penalty provision
+(1) If conduct constitutes a contravention of 2 or more civil penalty 
+provisions, proceedings may be instituted under this Part against a 
+person in relation to the contravention of any one or more of those 
+provisions.

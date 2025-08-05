@@ -1,0 +1,25 @@
+Migration Act 1958 429
+Compilation No. 164 Compilation date: 21/02/2025When conduct taken to occur partly in Australia
+(7) For the purposes of this section, if a person sends a thing, or causes 
+a thing to be sent:
+(a) from a point outside Australia to a point in Australia; or
+(b) from a point in Australia to a point outside Australia;
+that conduct is taken to have occurred partly in Australia.
+(8) For the purposes of this section, if a person sends, or causes to be 
+sent, an electronic communication:
+(a) from a point outside Australia to a point in Australia; or
+(b) from a point in Australia to a point outside Australia;
+that conduct is taken to have occurred partly in Australia.
+Definitions
+(9) In this section:
+Australian aircraft has the same meaning as in the Criminal Code.
+Australian ship has the same meaning as in the Criminal Code.
+electronic communication has the same meaning as in the 
+Criminal Code.
+foreign country has the same meaning as in the Criminal Code.
+point has the same meaning as in section 16.2 of the Criminal 
+Code.
+primary contravention means a contravention of a civil penalty 
+provision in this Subdivision other than because of section 486ZD.
+resident of Australia has the same meaning as in the Criminal 
+Code.

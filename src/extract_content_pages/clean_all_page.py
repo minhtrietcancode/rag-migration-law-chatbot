@@ -51,3 +51,12 @@ def extract_clean_save_pages(pdf_path, start_page, end_page, output_dir, page_ga
         except Exception as e:
             print(f"Error processing page {page_num}: {e}")
 
+# Call the function
+VOLUME_1_PDF_PATH = "Migration Act 1958/Migration Act 1958 – Volume 1.pdf"
+VOLUME_2_PDF_PATH = "Migration Act 1958/Migration Act 1958 – Volume 2.pdf"
+extract_clean_save_pages(VOLUME_1_PDF_PATH, VOLUME_1_REAL_START_CONTENT_PAGE, 
+                         VOLUME_1_REAL_END_CONTENT_PAGE, VOLUME_1_CONTENT_PAGE_TXT_FORMAT_PATH,
+                         VOLUME_1_PDF_REAL_PAGE_GAP)
+extract_clean_save_pages(VOLUME_2_PDF_PATH, VOLUME_2_REAL_START_CONTENT_PAGE, 
+                         VOLUME_2_REAL_END_CONTENT_PAGE, VOLUME_2_CONTENT_PAGE_TXT_FORMAT_PATH,
+                         VOLUME_2_PDF_REAL_PAGE_GAP)

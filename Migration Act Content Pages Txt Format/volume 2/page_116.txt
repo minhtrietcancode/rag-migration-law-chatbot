@@ -1,0 +1,31 @@
+116 Migration Act 1958
+Compilation No. 164 Compilation date: 21/02/2025Division 3—Disclosing identifying information
+336E  Disclosing identifying information
+(1) A person commits an offence if:
+(a) the person’s conduct causes disclosure of identifying 
+information; and
+(b) the disclosure is not a permitted disclosure.
+Penalty: Imprisonment for 2 years, or 120 penalty units, or both.
+(1A) This section does not apply if the person believes on reasonable 
+grounds that the disclosure is necessary to prevent or lessen a 
+serious and imminent threat to the life or health of the person or of 
+any other person.
+Note: A defendant bears an evidential burden in relation to the matter in 
+subsection (1A) (see subsection 13.3(3) of the Criminal Code).
+(2) A permitted disclosure is a disclosure that:
+(a) is for the purpose of data-matching in order to:
+(i) identify, or authenticate the identity of, a person; or
+(ii) facilitate the processing of persons entering or departing 
+from Australia; or
+(iii) identify non-citizens who have a criminal history or 
+who are of character concern; or
+(iiia) identify persons who may be a security concern to 
+Australia or a foreign country; or
+(iv) combat document and identity fraud in immigration 
+matters; or
+(v) ascertain whether an applicant for a protection visa had 
+sufficient opportunity to avail himself or herself of 
+protection before arriving in Australia; or
+(vi) inform the governments of foreign countries of the 
+identity of non-citizens who are, or are to be, removed, 
+taken or deported from Australia; or
