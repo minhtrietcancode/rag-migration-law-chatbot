@@ -1,12 +1,43 @@
 import matplotlib.pyplot as plt
 
+# For image annotation
+from PIL import Image, ImageDraw, ImageFont
+def add_note_to_image(image_path):
+    """
+    Add a small, semi-transparent note at the top-left of the image at image_path.
+    The note is: 'Note: This is an overview, the number of children for each node depends on actual contents'
+    """
+    note = "Note: This is an overview, the number of children for each node depends on actual contents"
+    try:
+        img = Image.open(image_path).convert("RGBA")
+        overlay = Image.new("RGBA", img.size, (255,255,255,0))
+        draw = ImageDraw.Draw(overlay)
+        # Try to use a common font, fallback to default
+        try:
+            font = ImageFont.truetype("arial.ttf", 49)
+        except:
+            font = ImageFont.load_default()
+        # Set position and color (semi-transparent black)
+        x, y = 20, 20
+        text_color = (0, 0, 0, 120)  # semi-transparent black
+        # Draw text (not bold)
+        draw.text((x, y), note, font=font, fill=text_color)
+        # Composite overlay onto image
+        out = Image.alpha_composite(img, overlay)
+        # Save back (overwrite)
+        out = out.convert("RGB")
+        out.save(image_path)
+        print(f"Note added to {image_path}")
+    except Exception as e:
+        print(f"Failed to add note: {e}")
+
 # -------------------------------------------------------------------
 # CONFIGURATION
 # -------------------------------------------------------------------
 MAX_CHILDREN        = 2    # max children for levels < LEAF_PARENT_LEVEL
 LEAF_PARENT_LEVEL   = 4    # one level above leaves
 MAX_LEAF_PER_PARENT = 1    # how many leaves to show per subdivision
-OUTPUT_PATH         = 'json_search_tree/migration_act_tree_flexboxes.png'
+OUTPUT_PATH         = 'json_search_tree/migration_act_search_tree.png'
 
 # -------------------------------------------------------------------
 # TREE DATA STRUCTURE
@@ -174,6 +205,7 @@ def draw_tree(root):
         pad_inches=0.1              # small padding around
     )
     print(f"Saved updated tree to {OUTPUT_PATH}")
+    add_note_to_image(OUTPUT_PATH)
 
 # -------------------------------------------------------------------
 # ENTRYPOINT
