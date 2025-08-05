@@ -20,15 +20,14 @@ class EnhancedTreeVisualizer:
         self.level_height = 2.0
         self.margin = 1.0
         
-        # Node type colors
+        # Node type colors - High contrast colors for better visibility
         self.colors = {
-            'root': {'face': '#F0F8FF', 'edge': '#4169E1', 'text': 'black'},
-            'volume': {'face': '#E6F3FF', 'edge': '#1E90FF', 'text': 'black'},
-            'part': {'face': '#E8F5E8', 'edge': '#32CD32', 'text': 'black'},
-            'division': {'face': '#FFF8DC', 'edge': '#DAA520', 'text': 'black'},
-            'subdivision': {'face': '#F0E68C', 'edge': '#B8860B', 'text': 'black'},
-            'section': {'face': '#FFE4E1', 'edge': '#DC143C', 'text': 'black'},
-            'more': {'face': '#FFE4B5', 'edge': '#FFA500', 'text': 'black'}
+            'root': {'face': '#FF6B6B', 'edge': '#D63031', 'text': 'white'},      # Red
+            'volume': {'face': '#4ECDC4', 'edge': '#00B894', 'text': 'black'},    # Teal
+            'part': {'face': '#45B7D1', 'edge': '#0984E3', 'text': 'white'},      # Blue
+            'division': {'face': '#FD79A8', 'edge': '#E84393', 'text': 'white'},  # Pink
+            'subdivision': {'face': '#FDCB6E', 'edge': '#E17055', 'text': 'black'}, # Orange
+            'section': {'face': '#6C5CE7', 'edge': '#5F3DC4', 'text': 'white'}    # Purple
         }
         
     def load_data(self):
@@ -46,12 +45,13 @@ class EnhancedTreeVisualizer:
         """Check if node is a leaf (contains list with [name, code] format)"""
         return isinstance(node, list) and len(node) == 2 and isinstance(node[0], str)
     
-    def determine_node_type(self, key, value, level):
+    def determine_node_type(self, key, value, level, parent_type=None):
         """Determine the type of node based on its position in hierarchy"""
         if self.is_leaf_node(value):
             return 'section'
-        elif key == "...":
-            return 'more'
+        elif key == "To be continued ...":
+            # Use the same type as parent to inherit color
+            return parent_type if parent_type else 'section'
         elif level == 0:
             return 'root'
         elif level == 1:
@@ -77,7 +77,7 @@ class EnhancedTreeVisualizer:
             return items
         else:
             result = items[:2]
-            result.append(("...", "more_items"))
+            result.append(("To be continued ...", "more_items"))
             return result
     
     def calculate_subtree_width(self, node, level=0):
@@ -147,7 +147,7 @@ class EnhancedTreeVisualizer:
         # Calculate total width needed for all children
         child_widths = []
         for key, value in display_items:
-            if isinstance(value, dict) and key != "...":
+            if isinstance(value, dict) and key != "To be continued ...":
                 width = self.calculate_subtree_width(value, max_depth - level - 1)
             else:
                 width = self.min_horizontal_spacing
@@ -281,31 +281,59 @@ class EnhancedTreeVisualizer:
         )
         self.ax.add_patch(box)
         
-        # Add text with better formatting
+        # Add text with automatic line wrapping to fit in box
         text = node['name']
-        if len(text) > 30:
-            # Split long text into multiple lines
+        
+        # Calculate available width for text (leave some padding)
+        available_width = width * 0.9
+        
+        # Estimate characters per line based on font size and box width
+        fontsize = {
+            'root': 12,
+            'volume': 10,
+            'part': 9,
+            'division': 8,
+            'subdivision': 8,
+            'section': 7
+        }.get(node_type, 8)
+        
+        # Rough estimation: smaller font = more characters per line
+        chars_per_line = max(15, int(available_width * 3.5 / fontsize))
+        
+        # Split text into lines that fit within the box
+        if len(text) > chars_per_line:
             words = text.split()
             lines = []
             current_line = []
             current_length = 0
             
             for word in words:
-                if current_length + len(word) + 1 <= 30:
+                if current_length + len(word) + 1 <= chars_per_line:
                     current_line.append(word)
                     current_length += len(word) + 1
                 else:
                     if current_line:
                         lines.append(' '.join(current_line))
-                    current_line = [word]
-                    current_length = len(word)
+                        current_line = [word]
+                        current_length = len(word)
+                    else:
+                        # Single word is too long, truncate it
+                        lines.append(word[:chars_per_line-3] + "...")
+                        current_line = []
+                        current_length = 0
             
             if current_line:
                 lines.append(' '.join(current_line))
             
-            text = '\\n'.join(lines[:2])  # Max 2 lines
-            if len(lines) > 2:
-                text += "..."
+            # Limit to maximum 3 lines to prevent overflow
+            text = '\n'.join(lines[:3])
+            if len(lines) > 3:
+                # Replace last line with truncated version
+                last_line = lines[2]
+                if len(last_line) > chars_per_line - 3:
+                    last_line = last_line[:chars_per_line-3] + "..."
+                lines_to_show = lines[:2] + [last_line + "..."]
+                text = '\n'.join(lines_to_show)
         
         # Font size based on node type
         fontsize = {
@@ -314,8 +342,7 @@ class EnhancedTreeVisualizer:
             'part': 9,
             'division': 8,
             'subdivision': 8,
-            'section': 7,
-            'more': 8
+            'section': 7
         }.get(node_type, 8)
         
         fontweight = 'bold' if node_type in ['root', 'volume'] else 'normal'
@@ -333,8 +360,7 @@ class EnhancedTreeVisualizer:
             patches.Patch(color=self.colors['part']['face'], label='Part'),
             patches.Patch(color=self.colors['division']['face'], label='Division'),
             patches.Patch(color=self.colors['subdivision']['face'], label='Subdivision'),
-            patches.Patch(color=self.colors['section']['face'], label='Section (Article)'),
-            patches.Patch(color=self.colors['more']['face'], label='More items (...)')
+            patches.Patch(color=self.colors['section']['face'], label='Section (Article)')
         ]
         
         self.ax.legend(handles=legend_elements, loc='upper left', 
