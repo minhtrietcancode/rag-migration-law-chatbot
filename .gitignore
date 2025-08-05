@@ -1,0 +1,5 @@
+# ignoring the .env files containing API key
+.env
+
+# ignoring auto-generated pycache file of the systems
+__pycache__
