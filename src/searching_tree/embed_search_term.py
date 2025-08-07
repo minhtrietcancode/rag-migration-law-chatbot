@@ -14,7 +14,7 @@ def embed_search_term_with_model(model, search_term: str):
     start_embed = time.time()
     embedding = model.encode(search_term)
     end_embed = time.time()
-    print(f"Embedding took {end_embed - start_embed:.4f} seconds")
+    print(f"Embedding took {end_embed - start_embed:.8f} seconds")
     return embedding
 
 # Testing the embed search term function, uncomment for testing if needed 

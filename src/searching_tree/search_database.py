@@ -26,7 +26,7 @@ def initialize_chromadb():
         # Get the collection
         collection = client.get_collection(COLLECTION_NAME)
         elapsed = time.time() - start_time
-        print(f"✅ ChromaDB initialized successfully in {elapsed:.2f} seconds")
+        print(f"✅ ChromaDB initialized successfully in {elapsed:.8f} seconds")
         return collection
         
     except Exception as e:
