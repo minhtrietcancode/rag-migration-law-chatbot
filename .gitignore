@@ -3,3 +3,6 @@
 
 # ignoring auto-generated pycache file of the systems
 __pycache__
+
+# untrack database dir from now, no need to track transaction log, etc
+vector_database/
