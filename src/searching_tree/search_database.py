@@ -2,26 +2,18 @@
 VECTOR_DATABASE_PATH = "vector_database"
 COLLECTION_NAME = "my_collection"
 
-# --- Imports (if not already imported)
+# --- Imports
 from chromadb import PersistentClient
 from chromadb.config import Settings
 import numpy as np
-from sentence_transformers import SentenceTransformer
-import torch
 
-def get_embedded_vector_of_node(tree_node):
+def initialize_chromadb():
     """
-    Get the embedded vector for a given tree node.
-    
-    Args:
-        tree_node (str): A string like "Short title_0" or "Commencement_1"
+    Initialize ChromaDB client and collection once.
     
     Returns:
-        numpy.ndarray: The embedding vector, or None if not found
+        collection: ChromaDB collection object, or None if failed
     """
-    # Extract the ID from the tree node
-    node_id = tree_node.split("_")[-1]
-    
     try:
         # Initialize ChromaDB client
         client = PersistentClient(
@@ -32,10 +24,36 @@ def get_embedded_vector_of_node(tree_node):
         # Get the collection
         collection = client.get_collection(COLLECTION_NAME)
         
+        print("✅ ChromaDB initialized successfully")
+        return collection
+        
+    except Exception as e:
+        print(f"❌ Failed to initialize ChromaDB: {str(e)}")
+        return None
+
+def get_vector(collection, tree_node):
+    """
+    Retrieve embedding vector for a tree node using pre-initialized collection.
+    
+    Args:
+        collection: ChromaDB collection object from initialize_chromadb()
+        tree_node (str): A string like "Short title_0" or "Commencement_1"
+    
+    Returns:
+        numpy.ndarray: The embedding vector, or None if not found
+    """
+    if collection is None:
+        print("❌ Collection is None. Make sure to initialize ChromaDB first.")
+        return None
+    
+    # Extract the ID from the tree node
+    node_id = tree_node.split("_")[-1]
+    
+    try:
         # Query for the specific ID
         results = collection.get(
             ids=[node_id],
-            include=["embeddings", "documents"]  # Include both embeddings and documents
+            include=["embeddings"]
         )
         
         # Check if we found the ID
@@ -43,13 +61,8 @@ def get_embedded_vector_of_node(tree_node):
             print(f"ID '{node_id}' not found in the database")
             return None
         
-        # Extract the embedding vector
-        embedding = results['embeddings'][0]  # Get the first (and should be only) result
-        document = results['documents'][0] if results['documents'] else None
-        
-        print(f"Found embedding for ID '{node_id}': {document}")
-        print(f"Embedding shape: {np.array(embedding).shape}")
-        
+        # Extract and return the embedding vector
+        embedding = results['embeddings'][0]
         return np.array(embedding)
         
     except Exception as e:
@@ -58,72 +71,61 @@ def get_embedded_vector_of_node(tree_node):
 
 # --- Example usage
 if __name__ == "__main__":
-    # Test the function
-    test_node = "Non-citizen’s responsibility in relation to protection claims_5AAA_Volume 1_10"
-    vector = get_embedded_vector_of_node(test_node)
+    # Step 1: Initialize once
+    print("🔧 Initializing ChromaDB...")
+    collection = initialize_chromadb()
     
-    if vector is not None:
-        print(f"Successfully retrieved vector with shape: {vector.shape}")
-        print(f"First 5 dimensions: {vector[:5]}")
+    if collection is not None:
+        # Step 2: Use for multiple retrievals
+        test_nodes = [
+            "Short title_1_Volume 1_1",
+            "Commencement_2_Volume 1_2",
+            "Repeal and savings_3_Volume 1_3",
+            "Act not to apply so as to exceed Commonwealth power_3A_Volume 1_4",
+            "Compensation for acquisition of property_3B_Volume 1_5",
+            "Object of Act_4_Volume 1_6",
+            "Detention of minors a last resort_4AA_Volume 1_7",
+            "Application of the Criminal Code_4A_Volume 1_8",
+            "Interpretation_5_Volume 1_9",
+            "Non-citizen’s responsibility in relation to protection claims_5AAA_Volume 1_10",
+            "Meaning of unauthorised maritime arrival_5AA_Volume 1_11",
+            "Sentencing for offences_5AB_Volume 1_12",
+            "Meaning of personal identifier_5A_Volume 1_13",
+            "When personal identifier taken not to have been provided_5B_Volume 1_14",
+            "Meaning of character concern_5C_Volume 1_15",
+            "Child of a person_5CA_Volume 1_16",
+            "De facto partner_5CB_Volume 1_17",
+            "Limiting the types of identification tests that authorised officers may carry out_5D_Volume 1_18",
+            "Meaning of purported privative clause decision_5E_Volume 1_19",
+            "Spouse_5F_Volume 1_20",
+            "Relationships and family members_5G_Volume 1_21",
+            "Meaning of refugee_5H_Volume 1_22",
+            "Meaning of well-founded fear of persecution_5J_Volume 1_23",
+            "Membership of a particular social group consisting of family_5K_Volume 1_24",
+            "Membership of a particular social group other than family_5L_Volume 1_25",
+            "Effective protection measures_5LA_Volume 1_26",
+            "Particularly serious crime_5M_Volume 1_27",
+            "Effect of limited meaning of enter Australia etc._6_Volume 1_28",
+            "Act to extend to certain Territories_7_Volume 1_29",
+            "Effect on executive power to protect Australia’s borders_7A_Volume 1_30",
+            "Certain resources installations to be part of Australia_8_Volume 1_31",
+            "Certain sea installations to be part of Australia_9_Volume 1_32",
+            "Migration zone etc.—offshore resources activities_9A_Volume 1_33",
+            "Certain children taken to enter Australia at birth_10_Volume 1_34",
+            "Visa applicable to 2 or more persons_11_Volume 1_35",
+            "When applications under this Act are finally determined_11A_Volume 1_36",
+            "Application of Part VA of the Marriage Act_12_Volume 1_37"
+        ]
+        
+        print("\n🚀 Testing multiple retrievals...")
+        for node in test_nodes:
+            print(f"\nRetrieving: {node}")
+            vector = get_vector(collection, node)
+            
+            if vector is not None:
+                print(f"✅ Success! Shape: {vector.shape}, First 3 dims: {vector[:3]}")
+            else:
+                print("❌ Failed to retrieve vector")
+    
     else:
-        print("Failed to retrieve vector")
-        
-    print("\n" + "="*80)
-    print("🧪 TESTING: RE-EMBEDDING AND COMPARING WITH RETRIEVED VECTOR")
-    print("="*80)
-    
-    # --- RE-EMBED THE SAME TEXT MANUALLY ---
-    print("Step 1: Setting up the same model used for original embedding...")
-    device = "cuda" if torch.cuda.is_available() else "cpu"
-    model = SentenceTransformer("all-MiniLM-L6-v2", device=device)
-    print(f"Using device: {device}")
-    
-    # Extract the text part (same as extract_text_for_embed function)
-    text_to_embed = test_node.split("_")[0]
-    print(f"Step 2: Extracted text to embed: '{text_to_embed}'")
-    
-    # Manual embedding
-    print("Step 3: Creating fresh embedding of the same text...")
-    fresh_embedding = model.encode([text_to_embed], convert_to_numpy=True)[0]
-    print(f"Fresh embedding shape: {fresh_embedding.shape}")
-    
-    if vector is not None:
-        print("\nStep 4: Comparing retrieved vs fresh embeddings...")
-        
-        # --- COMPARISON ---
-        # Cosine similarity
-        def cosine_similarity(a, b):
-            return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
-        
-        similarity = cosine_similarity(vector, fresh_embedding)
-        
-        # Check if nearly identical (allowing for tiny floating point differences)
-        are_identical = np.allclose(vector, fresh_embedding, rtol=1e-6, atol=1e-9)
-        
-        # Detailed comparison
-        print(f"📊 COMPARISON RESULTS:")
-        print(f"   Cosine similarity: {similarity:.10f}")
-        print(f"   Vectors identical (within tolerance): {are_identical}")
-        print(f"   Max difference: {np.max(np.abs(vector - fresh_embedding)):.2e}")
-        print(f"   Mean difference: {np.mean(np.abs(vector - fresh_embedding)):.2e}")
-        
-        # Show sample dimensions
-        print(f"\n📋 SAMPLE DIMENSIONS COMPARISON:")
-        print(f"   Retrieved[0:5]: {vector[:5]}")
-        print(f"   Fresh[0:5]:     {fresh_embedding[:5]}")
-        print(f"   Difference:     {vector[:5] - fresh_embedding[:5]}")
-        
-        # Final verdict
-        print(f"\n🏆 FINAL VERDICT:")
-        if similarity > 0.99999 and are_identical:
-            print("   ✅ PERFECT MATCH! Embedding retrieval is 100% correct.")
-        elif similarity > 0.999:
-            print("   ✅ EXCELLENT MATCH! Minor floating point differences (normal).")
-        elif similarity > 0.99:
-            print("   ⚠️  GOOD MATCH but some differences detected.")
-        else:
-            print("   ❌ POOR MATCH! Something is wrong with the retrieval.")
-    else:
-        print("❌ Cannot compare - retrieval failed!")
-    
-    print("="*80)
+        print("❌ Cannot proceed - ChromaDB initialization failed")
