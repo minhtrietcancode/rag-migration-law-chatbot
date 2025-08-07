@@ -1,0 +1,1204 @@
+{
+  "Preliminary_0": [
+    "Short title_1_Volume 1_1",
+    "Commencement_2_Volume 1_2",
+    "Repeal and savings_3_Volume 1_3",
+    "Act not to apply so as to exceed Commonwealth power_3A_Volume 1_4",
+    "Compensation for acquisition of property_3B_Volume 1_5",
+    "Object of Act_4_Volume 1_6",
+    "Detention of minors a last resort_4AA_Volume 1_7",
+    "Application of the Criminal Code_4A_Volume 1_8",
+    "Interpretation_5_Volume 1_9",
+    "Non-citizen’s responsibility in relation to protection claims_5AAA_Volume 1_10",
+    "Meaning of unauthorised maritime arrival_5AA_Volume 1_11",
+    "Sentencing for offences_5AB_Volume 1_12",
+    "Meaning of personal identifier_5A_Volume 1_13",
+    "When personal identifier taken not to have been provided_5B_Volume 1_14",
+    "Meaning of character concern_5C_Volume 1_15",
+    "Child of a person_5CA_Volume 1_16",
+    "De facto partner_5CB_Volume 1_17",
+    "Limiting the types of identification tests that authorised officers may carry out_5D_Volume 1_18",
+    "Meaning of purported privative clause decision_5E_Volume 1_19",
+    "Spouse_5F_Volume 1_20",
+    "Relationships and family members_5G_Volume 1_21",
+    "Meaning of refugee_5H_Volume 1_22",
+    "Meaning of well-founded fear of persecution_5J_Volume 1_23",
+    "Membership of a particular social group consisting of family_5K_Volume 1_24",
+    "Membership of a particular social group other than family_5L_Volume 1_25",
+    "Effective protection measures_5LA_Volume 1_26",
+    "Particularly serious crime_5M_Volume 1_27",
+    "Effect of limited meaning of enter Australia etc._6_Volume 1_28",
+    "Act to extend to certain Territories_7_Volume 1_29",
+    "Effect on executive power to protect Australia’s borders_7A_Volume 1_30",
+    "Certain resources installations to be part of Australia_8_Volume 1_31",
+    "Certain sea installations to be part of Australia_9_Volume 1_32",
+    "Migration zone etc.—offshore resources activities_9A_Volume 1_33",
+    "Certain children taken to enter Australia at birth_10_Volume 1_34",
+    "Visa applicable to 2 or more persons_11_Volume 1_35",
+    "When applications under this Act are finally determined_11A_Volume 1_36",
+    "Application of Part VA of the Marriage Act_12_Volume 1_37"
+  ],
+  "Arrival, presence and departure of persons_38": {
+    "Immigration status_39": [
+      "Lawful non-citizens_13_Volume 1_40",
+      "Unlawful non-citizens_14_Volume 1_41",
+      "Effect of cancellation of visa on status_15_Volume 1_42",
+      "Removal of immigration rights of inhabitant of Protected Zone_16_Volume 1_43",
+      "Pre-cleared flights_17_Volume 1_44"
+    ],
+    "Power to obtain information and documents about unlawful non-citizens_45": [
+      "Power to obtain information and documents about unlawful non-citizens_18_Volume 1_46",
+      "Scales of expenses_19_Volume 1_47",
+      "Reasonable compensation_20_Volume 1_48",
+      "Failure to comply with section 18 notice_21_Volume 1_49",
+      "Information and documents that incriminate a person_24_Volume 1_50",
+      "Copies of documents_25_Volume 1_51",
+      "Minister may retain documents_26_Volume 1_52",
+      "Division binds the Crown_27_Volume 1_53"
+    ],
+    "Visas for non-citizens_54": {
+      "General provisions about visas_55": [
+        "Interpretation_28_Volume 1_56",
+        "Visas_29_Volume 1_57",
+        "Kinds of visas_30_Volume 1_58",
+        "Classes of visas_31_Volume 1_59",
+        "Special category visas_32_Volume 1_60",
+        "Special purpose visas_33_Volume 1_61",
+        "Absorbed person visas_34_Volume 1_62",
+        "Ex-citizen visas_35_Volume 1_63",
+        "Protection visas—classes of visas_35A_Volume 1_64",
+        "Protection visas—criteria provided for by this Act_36_Volume 1_65",
+        "Consideration of protection obligations_36A_Volume 1_66",
+        "Bridging visas_37_Volume 1_67",
+        "Temporary safe haven visas_37A_Volume 1_68",
+        "Criminal justice visas_38_Volume 1_69",
+        "Enforcement visas_38A_Volume 1_70",
+        "Maritime crew visas_38B_Volume 1_71",
+        "Criterion limiting number of visas_39_Volume 1_72",
+        "Minimum annual numbers of Protection (Class XA) visas and Refugee and Humanitarian (Class XB) visas_39A_Volume 1_73",
+        "Circumstances for granting visas_40_Volume 1_74",
+        "Conditions on visas_41_Volume 1_75",
+        "Visa essential for travel_42_Volume 1_76",
+        "Visa holders must usually enter at a port_43_Volume 1_77"
+      ],
+      "Applications for visas_78": [
+        "Extent of following Subdivisions_44_Volume 1_79",
+        "Application for visa_45_Volume 1_80",
+        "Application for one visa taken to be an application for a different visa_45AA_Volume 1_81",
+        "Visa application charge_45A_Volume 1_82",
+        "Amount of visa application charge_45B_Volume 1_83",
+        "Regulations about visa application charge_45C_Volume 1_84",
+        "Valid visa application_46_Volume 1_85",
+        "Visa applications, and the grant of visas, for some Act-based visas_46AA_Volume 1_86",
+        "Visa applications by unauthorised maritime arrivals_46A_Volume 1_87",
+        "Visa applications by transitory persons_46B_Volume 1_88",
+        "Visa pre-application process_46C_Volume 1_89",
+        "Consideration of valid visa application_47_Volume 1_90",
+        "Non-citizen refused a visa or whose visa cancelled may only apply for particular visas_48_Volume 1_91",
+        "No further applications for protection visa after refusal or cancellation_48A_Volume 1_92",
+        "Minister may determine that section 48A does not apply to non-citizen_48B_Volume 1_93",
+        "Withdrawal of visa application_49_Volume 1_94",
+        "Only new information to be considered in later protection visa applications_50_Volume 1_95",
+        "Order of consideration_51_Volume 1_96"
+      ],
+      "Code of procedure for dealing fairly, efficiently and quickly with visa applications_97": [
+        "Exhaustive statement of natural justice hearing rule_51A_Volume 1_98",
+        "Communication with Minister_52_Volume 1_99",
+        "Minister must have regard to all information in application_54_Volume 1_100",
+        "Further information may be given_55_Volume 1_101",
+        "Further information may be sought_56_Volume 1_102",
+        "Certain information must be given to applicant_57_Volume 1_103",
+        "Invitation to give further information or comments_58_Volume 1_104",
+        "Interviews_59_Volume 1_105",
+        "Medical examination_60_Volume 1_106",
+        "Prescribed periods_61_Volume 1_107",
+        "Failure to receive information does not require action_62_Volume 1_108",
+        "When decision about visa may be made_63_Volume 1_109",
+        "Notice that visa application charge is payable_64_Volume 1_110"
+      ],
+      "Grant of visas_111": [
+        "Decision to grant or refuse to grant visa_65_Volume 1_112",
+        "Notification of decision_66_Volume 1_113",
+        "Grant and refusal of visa—how and when_67_Volume 1_114",
+        "When visa is in effect_68_Volume 1_115",
+        "Effect of compliance or non-compliance_69_Volume 1_116"
+      ],
+      "Bridging visas_117": [
+        "Interpretation_72_Volume 1_118",
+        "Bridging visas_73_Volume 1_119",
+        "Further applications for bridging visa_74_Volume 1_120",
+        "When eligible non-citizen in immigration detention granted visa_75_Volume 1_121",
+        "Bridging visa not affect visa applications_76_Volume 1_122",
+        "Cessation of certain bridging visas—holder has permission to enter and remain in another country_76AAA_Volume 1_123",
+        "Cessation of certain bridging visas, and grant of new visas, for certain non-citizens_76A_Volume 1_124",
+        "Effect of community safety order on visa held by non-citizen etc._76AA_Volume 1_125",
+        "Offence relating to monitoring conditions of certain bridging visas_76B_Volume 1_126",
+        "Offence relating to requirement to remain at notified address_76C_Volume 1_127",
+        "Offences relating to monitoring device and related monitoring equipment_76D_Volume 1_128",
+        "Offence relating to requirement not to perform certain work etc._76DAA_Volume 1_129",
+        "Offence relating to requirement not to go within certain distance of a school etc_76DAB_Volume 1_130",
+        "Offence relating to requirement not to contact victim of offence etc_76DAC_Volume 1_131",
+        "Mandatory 1 year imprisonment for offences_76DA_Volume 1_132",
+        "Rules of natural justice do not apply to decision to grant certain bridging visas_76E_Volume 1_133",
+        "Powers of officers etc._76F_Volume 1_134"
+      ],
+      "Other provisions about visas_135": [
+        "Visas held during visa period_77_Volume 1_136",
+        "Children born in Australia_78_Volume 1_137",
+        "Effect on visa of leaving Australia_79_Volume 1_138",
+        "Certain persons taken not to leave Australia_80_Volume 1_139",
+        "Extent of visa authority_81_Volume 1_140",
+        "When visas cease to be in effect_82_Volume 1_141",
+        "Certain persons taken to be included in spouse, de facto partner or parent’s visa_83_Volume 1_142",
+        "Minister may suspend processing of visa applications_84_Volume 1_143"
+      ],
+      "Limit on visas_144": [
+        "Limit on visas_85_Volume 1_145",
+        "Effect of limit_86_Volume 1_146",
+        "Limit does not prevent visas for certain persons_87_Volume 1_147",
+        "Limit does not prevent the grant of visas to certain people who are unable to meet health or character requirements before the limit applies because of circumstances beyond their control_87A_Volume 1_148",
+        "Limit does not affect processing of applications_88_Volume 1_149",
+        "Determination of limit not to mean failure to decide_89_Volume 1_150",
+        "Order of dealing with limited visas_90_Volume 1_151",
+        "Order of dealing with visas_91_Volume 1_152"
+      ],
+      "Safe third countries_153": [
+        "Reason for Subdivision_91A_Volume 1_154",
+        "Interpretation_91B_Volume 1_155",
+        "Non-citizens covered by Subdivision_91C_Volume 1_156",
+        "Safe third countries_91D_Volume 1_157",
+        "Non-citizens to which this Subdivision applies unable to make valid applications for certain visas_91E_Volume 1_158",
+        "Minister may determine that section 91E does not apply to non-citizen_91F_Volume 1_159",
+        "Applications made before regulations take effect_91G_Volume 1_160"
+      ],
+      "Temporary safe haven visas_161": [
+        "Reason for this Subdivision_91H_Volume 1_162",
+        "Non-citizens to whom this Subdivision applies_91J_Volume 1_163",
+        "Non-citizens to whom this Subdivision applies are unable to make valid applications for certain visas_91K_Volume 1_164",
+        "Minister may determine that section 91K does not apply to a non-citizen_91L_Volume 1_165"
+      ],
+      "Other provisions about protection visas_166": [
+        "Verification of information_91V_Volume 1_167",
+        "Evidence of identity and bogus documents_91W_Volume 1_168",
+        "Providing bogus documents or destroying identity documents_91WA_Volume 1_169",
+        "Application for protection visa by member of same family unit_91WB_Volume 1_170",
+        "Names of applicants for protection visas not to be published by the High Court, Federal Court or Federal Circuit and Family Court of Australia (Division 2)_91X_Volume 1_171"
+      ],
+      "The “points” system_172": [
+        "Operation of Subdivision_92_Volume 1_173",
+        "Determination of applicant’s score_93_Volume 1_174",
+        "Initial application of “points” system_94_Volume 1_175",
+        "Applications in pool_95_Volume 1_176",
+        "Extension of period in pool_95A_Volume 1_177",
+        "Minister may set pool mark and pass mark_96_Volume 1_178"
+      ],
+      "Visas based on incorrect information may be cancelled_179": [
+        "Interpretation_97_Volume 1_180",
+        "Exhaustive statement of natural justice hearing rule_97A_Volume 1_181",
+        "Completion of visa application_98_Volume 1_182",
+        "Information is answer_99_Volume 1_183",
+        "Incorrect answers_100_Volume 1_184",
+        "Visa applications to be correct_101_Volume 1_185",
+        "Passenger cards to be correct_102_Volume 1_186",
+        "Bogus documents not to be given etc_103_Volume 1_187",
+        "Changes in circumstances to be notified_104_Volume 1_188",
+        "Particulars of incorrect answers to be given_105_Volume 1_189",
+        "Obligations to give etc. information is not affected by other sources of information_106_Volume 1_190",
+        "Notice of incorrect applications_107_Volume 1_191",
+        "Possible non-compliances in connection with a previous visa may be grounds for cancellation of current visa_107A_Volume 1_192",
+        "Decision about non-compliance_108_Volume 1_193",
+        "Cancellation of visa if information incorrect_109_Volume 1_194",
+        "Cancellation provisions apply whatever source of knowledge of non-compliance_110_Volume 1_195",
+        "Cancellation provisions apply whether or not non-compliance deliberate_111_Volume 1_196",
+        "Action because of one non-compliance does not prevent action because of other non-compliance_112_Volume 1_197",
+        "No cancellation if full disclosure_113_Volume 1_198",
+        "Effect of setting aside decision to cancel visa_114_Volume 1_199",
+        "Application of Subdivision_115_Volume 1_200"
+      ],
+      "Visas may be cancelled on certain grounds_201": [
+        "Power to cancel_116_Volume 1_202",
+        "When visa may be cancelled_117_Volume 1_203",
+        "Cancellation powers do not limit or affect each other_118_Volume 1_204"
+      ],
+      "Procedure for cancelling visas under Subdivision D in or outside Australia_205": [
+        "Exhaustive statement of natural justice hearing rule_118A_Volume 1_206",
+        "Notice of proposed cancellation_119_Volume 1_207",
+        "Certain information must be given to visa holder_120_Volume 1_208",
+        "Invitation to give comments etc._121_Volume 1_209",
+        "Prescribed periods_122_Volume 1_210",
+        "Failure to accept invitation not require action_123_Volume 1_211",
+        "When decision about visa cancellation may be made_124_Volume 1_212",
+        "Application of Subdivision to non-citizen in immigration clearance_125_Volume 1_213",
+        "Application of Subdivision to non-citizen in questioning detention_126_Volume 1_214",
+        "Notification of decision_127_Volume 1_215"
+      ],
+      "Other procedure for cancelling visas under Subdivision D outside Australia_216": [
+        "Exhaustive statement of natural justice hearing rule_127A_Volume 1_217",
+        "Cancellation of visas of people outside Australia_128_Volume 1_218",
+        "Notice of cancellation_129_Volume 1_219",
+        "Prescribed periods_130_Volume 1_220",
+        "Decision about revocation of cancellation_131_Volume 1_221",
+        "Notification of decision about revocation of cancellation_132_Volume 1_222",
+        "Effect of revocation of cancellation_133_Volume 1_223"
+      ],
+      "Additional personal powers for Minister to cancel visas on section 109 or 116 grounds_224": [
+        "Minister’s personal powers to cancel visas on section 109 grounds_133A_Volume 1_225",
+        "Other provisions relating to the exercise of powers in section 133A_133B_Volume 1_226",
+        "Minister’s personal powers to cancel visas on section 116 grounds_133C_Volume 1_227",
+        "Cancellation under subsection 133A(1) or 133C(1)—method of satisfying Minister of matters_133D_Volume 1_228",
+        "Cancellation under subsection 133A(1) or 133C(1)—notice of cancellation_133E_Volume 1_229",
+        "Cancellation under subsection 133A(3) or 133C(3)—Minister may revoke cancellation in certain circumstances_133F_Volume 1_230"
+      ],
+      "Emergency cancellation on security grounds_231": [
+        "Natural justice_134A_Volume 1_232",
+        "Emergency cancellation on security grounds_134B_Volume 1_233",
+        "Decision about revocation of emergency cancellation_134C_Volume 1_234",
+        "Effect of revocation of cancellation_134D_Volume 1_235",
+        "Notice of cancellation_134E_Volume 1_236",
+        "Effect of cancellation on other visas_134F_Volume 1_237"
+      ],
+      "Cancellation of business visas_238": [
+        "Cancellation of business visas_134_Volume 1_239",
+        "Representations concerning cancellation of business visa_135_Volume 1_240",
+        "Review of decisions_136_Volume 1_241",
+        "Provision of information—holders of business visas_137_Volume 1_242"
+      ],
+      "Automatic cancellation of student visas_243": [
+        "Non-complying students may have their visas automatically cancelled_137J_Volume 1_244",
+        "Applying for revocation of cancellation_137K_Volume 1_245",
+        "Dealing with the application_137L_Volume 1_246",
+        "Notification of decision_137M_Volume 1_247",
+        "Minister may revoke cancellation on his or her own initiative_137N_Volume 1_248",
+        "Effect of revocation_137P_Volume 1_249"
+      ],
+      "Cancellation of regional sponsored employment visas_250": [
+        "Cancellation of regional sponsored employment visas_137Q_Volume 1_251",
+        "Representations concerning cancellation etc_137R_Volume 1_252",
+        "Notice of cancellation_137S_Volume 1_253",
+        "Cancellation of other visas_137T_Volume 1_254"
+      ],
+      "General provisions on cancellation_255": [
+        "Cancellation and revocation of cancellation of visas—how and when_138_Volume 1_256",
+        "Visas held by 2 or more_139_Volume 1_257",
+        "Cancellation of visa results in other cancellation_140_Volume 1_258"
+      ]
+    },
+    "Sponsorship_259": {
+      "Preliminary_260": [
+        "Division applies to prescribed kinds of visa_140A_Volume 1_261",
+        "Purposes of this Division_140AA_Volume 1_262",
+        "Ministerial Advisory Council on Skilled Migration_140AB_Volume 1_263"
+      ],
+      "Approval of sponsors_264": [
+        "Minister to approve work and family sponsors_140E_Volume 1_265",
+        "Approval process_140F_Volume 1_266",
+        "Terms of approval_140G_Volume 1_267",
+        "Variation of terms of approval_140GA_Volume 1_268"
+      ],
+      "Approval of nominations made by approved work sponsors_269": [
+        "Minister to approve nominations_140GB_Volume 1_270",
+        "Labour market testing—condition_140GBA_Volume 1_271",
+        "Labour market testing—major disaster exemption_140GBB_Volume 1_272",
+        "Labour market testing—skill and occupational exemptions_140GBC_Volume 1_273",
+        "Work agreements_140GC_Volume 1_274"
+      ],
+      "Sponsorship obligations_275": [
+        "Sponsorship obligations—general_140H_Volume 1_276",
+        "Sponsorship obligations—Minister’s responsibility_140HA_Volume 1_277",
+        "Amounts payable in relation to sponsorship obligations_140J_Volume 1_278"
+      ],
+      "Enforcement_279": [
+        "Sanctions for failing to satisfy sponsorship obligations_140K_Volume 1_280",
+        "Regulations may prescribe circumstances in which sponsor may be barred or sponsor’s approval cancelled_140L_Volume 1_281",
+        "Cancelling approval as a sponsor or barring a sponsor_140M_Volume 1_282",
+        "Process for cancelling approval or barring approved sponsor_140N_Volume 1_283",
+        "Waiving a bar_140O_Volume 1_284",
+        "Process for waiving a bar_140P_Volume 1_285",
+        "Civil penalty—failing to satisfy sponsorship obligations_140Q_Volume 1_286",
+        "Enforceable undertakings_140RA_Volume 1_287",
+        "Compliance notices_140RB_Volume 1_288"
+      ],
+      "Liability and recovery of amounts_289": [
+        "Liability to pay amounts_140S_Volume 1_290",
+        "Interest up to judgment_140SA_Volume 1_291",
+        "Interest on judgment_140SB_Volume 1_292",
+        "Certain plaintiffs may choose small claims procedure in magistrates courts_140SC_Volume 1_293",
+        "Notice regarding amount of debt or other amount_140T_Volume 1_294",
+        "Liability is in addition to any other liability_140U_Volume 1_295"
+      ],
+      "Inspector powers_296": [
+        "Exercise of inspector powers_140UA_Volume 1_297",
+        "Inspectors_140V_Volume 1_298",
+        "Identity cards_140W_Volume 1_299",
+        "Purpose for which powers of inspectors may be exercised_140X_Volume 1_300",
+        "When powers of inspectors may be exercised_140XA_Volume 1_301",
+        "Power of inspectors to enter premises or places_140XB_Volume 1_302",
+        "Powers of inspectors while on premises or at a place_140XC_Volume 1_303",
+        "Persons assisting inspectors_140XD_Volume 1_304",
+        "Power to ask for person’s name and address_140XE_Volume 1_305",
+        "Power to require persons to produce records or documents_140XF_Volume 1_306",
+        "Self-incrimination_140XG_Volume 1_307",
+        "Certain records and documents are inadmissible_140XH_Volume 1_308",
+        "Power to keep records or documents_140XI_Volume 1_309",
+        "Disclosure of information by the Secretary or Australian Border Force Commissioner_140XJ_Volume 1_310"
+      ],
+      "Application of Division to partnerships and unincorporated associations_311": [
+        "Partnerships—sponsorship rights and obligations_140ZB_Volume 1_312",
+        "Partnerships—offences and civil penalties_140ZC_Volume 1_313",
+        "Partnership ceases to exist_140ZD_Volume 1_314",
+        "Unincorporated associations—sponsorship rights and obligations_140ZE_Volume 1_315",
+        "Unincorporated associations—offences and civil penalties_140ZF_Volume 1_316",
+        "Unincorporated association ceases to exist_140ZG_Volume 1_317"
+      ],
+      "Miscellaneous_318": [
+        "Disclosure of personal information by Minister_140ZH_Volume 1_319",
+        "Disclosure of personal information to Minister_140ZI_Volume 1_320",
+        "Unclaimed money_140ZJ_Volume 1_321",
+        "Other regulation making powers not limited_140ZK_Volume 1_322",
+        "Division binds the Crown_140ZL_Volume 1_323"
+      ]
+    },
+    "Nominations_324": [
+      "Nomination training contribution charge_140ZM_Volume 1_325",
+      "Regulations about nomination training contribution charge_140ZN_Volume 1_326",
+      "Recovery of nomination training contribution charge and late payment penalty_140ZO_Volume 1_327",
+      "Notional application of nomination training contribution charge in relation to nominations by the Commonwealth_140ZP_Volume 1_328",
+      "Division binds the Crown_140ZQ_Volume 1_329"
+    ],
+    "Criminal justice visitors_330": {
+      "Preliminary_331": [
+        "Object of Division_141_Volume 1_332",
+        "Interpretation_142_Volume 1_333",
+        "Delegation by Minister_143_Volume 1_334",
+        "Authorised officials_144_Volume 1_335"
+      ],
+      "Criminal justice certificates for entry_336": [
+        "Commonwealth criminal justice entry certificate_145_Volume 1_337",
+        "State criminal justice entry certificate_146_Volume 1_338"
+      ],
+      "Criminal justice certificates etc. staying removal or deportation_339": [
+        "Commonwealth criminal justice stay certificate_147_Volume 1_340",
+        "State criminal justice stay certificate_148_Volume 1_341",
+        "Application for visa not to prevent certificate_149_Volume 1_342",
+        "Criminal justice stay certificates stay removal or deportation_150_Volume 1_343",
+        "Certain warrants stay removal or deportation_151_Volume 1_344",
+        "Certain subjects of stay certificates and stay warrants may be detained etc._152_Volume 1_345",
+        "Removal or deportation not contempt etc. if no stay certificate or warrant_153_Volume 1_346",
+        "Officer not liable—criminal justice stay certificates or warrants_154_Volume 1_347"
+      ],
+      "Criminal justice visas_348": [
+        "Criminal justice visas_155_Volume 1_349",
+        "Criterion for criminal justice entry visas_156_Volume 1_350",
+        "Criterion for criminal justice stay visas_157_Volume 1_351",
+        "Criteria for criminal justice visas_158_Volume 1_352",
+        "Procedure for obtaining criminal justice visa_159_Volume 1_353",
+        "Conditions of criminal justice visa_160_Volume 1_354",
+        "Effect of criminal justice visas_161_Volume 1_355"
+      ],
+      "Cancellation etc. of criminal justice certificates and criminal justice visas_356": [
+        "Criminal justice certificates to be cancelled_162_Volume 1_357",
+        "Stay warrant to be cancelled_163_Volume 1_358",
+        "Effect of cancellation etc. on criminal justice visa_164_Volume 1_359"
+      ]
+    },
+    "Enforcement visas_360": [
+      "Definitions_164A_Volume 1_361",
+      "Grant of enforcement visas (fisheries matters)_164B_Volume 1_362",
+      "Grant of enforcement visas (environment matters)_164BA_Volume 1_363",
+      "When enforcement visa ceases to be in effect_164C_Volume 1_364",
+      "Applying for other visas_164D_Volume 1_365"
+    ],
+    "Immigration clearance_366": [
+      "Interpretation_165_Volume 1_367",
+      "Persons entering to present certain evidence of identity etc._166_Volume 1_368",
+      "When and where evidence to be presented_167_Volume 1_369",
+      "Section 166 not to apply_168_Volume 1_370",
+      "Section 166 not usually to apply_169_Volume 1_371",
+      "Certain persons to present evidence of identity_170_Volume 1_372",
+      "Assistance with evidence_171_Volume 1_373",
+      "Immigration clearance_172_Volume 1_374",
+      "Visa ceases if holder enters in way not permitted_173_Volume 1_375",
+      "Visa ceases if holder remains without immigration clearance_174_Volume 1_376",
+      "Departing person to present certain evidence etc_175_Volume 1_377",
+      "Determinations relating to kinds of passports_175A_Volume 1_378",
+      "Collection, access and disclosure of information_175B_Volume 1_379"
+    ],
+    "Certain non-citizens to be kept in immigration detention_380": [
+      "Reason for Division_176_Volume 1_381",
+      "Interpretation_177_Volume 1_382",
+      "Designated persons to be in immigration detention_178_Volume 1_383",
+      "Beginning of immigration detention of certain designated persons_179_Volume 1_384",
+      "Detention of designated person_180_Volume 1_385",
+      "Removal from Australia of designated persons_181_Volume 1_386",
+      "No immigration detention or removal after certain period_182_Volume 1_387",
+      "Courts must not release designated persons_183_Volume 1_388",
+      "Effect of Division on status etc._185_Volume 1_389",
+      "Division applies despite other laws_186_Volume 1_390",
+      "Evidence_187_Volume 1_391"
+    ],
+    "Detention of unlawful non-citizens_392": {
+      "General provisions_393": [
+        "Lawful non-citizen to give evidence of being so_188_Volume 1_394",
+        "Detention of unlawful non-citizens_189_Volume 1_395",
+        "Non-compliance with immigration clearance or requirement to provide personal identifier_190_Volume 1_396",
+        "End of certain detention_191_Volume 1_397",
+        "Detention of visa holders whose visas liable to cancellation_192_Volume 1_398",
+        "Application of law to certain non-citizens while they remain in immigration detention_193_Volume 1_399",
+        "Detainee to be told of consequences of detention_194_Volume 1_400",
+        "Detainee may apply for visa_195_Volume 1_401",
+        "Minister may grant detainee visa (whether or not on application)_195A_Volume 1_402",
+        "Duration of detention_196_Volume 1_403",
+        "Effect of escape from immigration detention_197_Volume 1_404"
+      ],
+      "Residence determinations_405": [
+        "Persons to whom Subdivision applies_197AA_Volume 1_406",
+        "Minister may determine that person is to reside at a specified place rather than being held in detention centre etc_197AB_Volume 1_407",
+        "Effect of residence determination_197AC_Volume 1_408",
+        "Revocation or variation of residence determination_197AD_Volume 1_409",
+        "Minister not under duty to consider whether to exercise powers_197AE_Volume 1_410",
+        "Minister to exercise powers personally_197AF_Volume 1_411",
+        "Tabling of information relating to the making of residence determinations_197AG_Volume 1_412"
+      ]
+    },
+    "Offences relating to immigration detention_413": [
+      "Detainees must not escape from detention_197A_Volume 1_414",
+      "Manufacture, possession etc. of weapons by detainees_197B_Volume 1_415"
+    ],
+    "Removal of unlawful non-citizens etc._416": {
+      "Removal_417": [
+        "Relevance of Australia’s non-refoulement obligations to removal of unlawful non-citizens under section 198_197C_Volume 1_418",
+        "Decision that protection finding would no longer be made_197D_Volume 1_419",
+        "Relevance of Ministerial intervention powers to removal of unlawful non-citizens under section 198_197E_Volume 1_420",
+        "Removal from Australia of unlawful non-citizens_198_Volume 1_421",
+        "Collection, use and disclosure of information to foreign countries_198AAA_Volume 1_422"
+      ],
+      "Regional processing_423": [
+        "Reason for Subdivision 334 198ABRegional processing country_198AA_Volume 1_424",
+        "Documents to be laid before Parliament_198AC_Volume 1_425",
+        "Taking unauthorised maritime arrivals to a regional processing country_198AD_Volume 1_426",
+        "Ministerial determination that section 198AD does not apply_198AE_Volume 1_427",
+        "No regional processing country_198AF_Volume 1_428",
+        "Non-acceptance by regional processing country_198AG_Volume 1_429",
+        "Application of section 198AD to certain transitory persons_198AH_Volume 1_430",
+        "Power to take action etc. in relation to arrangement or regional processing functions of a country_198AHA_Volume 1_431",
+        "Power to take action etc. in relation to third country reception arrangement_198AHB_Volume 1_432",
+        "Relevance of Ministerial intervention powers to transfer of unauthorised maritime arrivals_198AHC_Volume 1_433",
+        "Ministerial report_198AI_Volume 1_434",
+        "Reports about unauthorised maritime arrivals_198AJ_Volume 1_435"
+      ],
+      "Transitory persons etc._436": [
+        "Power to bring transitory persons to Australia_198B_Volume 1_437",
+        "Dependants of removed non-citizens_199_Volume 1_438"
+      ],
+      "Duty to cooperate in relation to removal and removal concern countries_439": [
+        "Reason for Subdivision_199A_Volume 1_440",
+        "Removal pathway non-citizens—protection findings etc._199B_Volume 1_441",
+        "Minister may give removal pathway directions_199C_Volume 1_442",
+        "Circumstances in which Minister must not give a removal pathway direction_199D_Volume 1_443",
+        "Offence for non-compliance with removal pathway direction_199E_Volume 1_444",
+        "Designation of removal concern country_199F_Volume 1_445",
+        "Visa applications by certain nationals of a removal concern country_199G_Volume 1_446"
+      ]
+    },
+    "Deportation_447": [
+      "Deportation of certain non-citizens_200_Volume 1_448",
+      "Deportation of non-citizens in Australia for less than 10 years who are convicted of crimes_201_Volume 1_449",
+      "Deportation of non-citizens upon security grounds_202_Volume 1_450",
+      "Deportation of non-citizens who are convicted of certain serious offences_203_Volume 1_451",
+      "Determination of time for sections 201 and 202_204_Volume 1_452",
+      "Dependants of deportee_205_Volume 1_453",
+      "Deportation order to be executed_206_Volume 1_454",
+      "Relevance of Ministerial intervention powers to deportation_206A_Volume 1_455"
+    ],
+    "Costs etc. of removal and deportation_456": [
+      "Interpretation_207_Volume 1_457",
+      "Removed or deported non-citizen liable for costs of removal or deportation_210_Volume 1_458",
+      "Costs of removed or deported spouses, de facto partners and dependants_212_Volume 1_459",
+      "Carriers may be liable for costs of removal and deportation_213_Volume 1_460",
+      "Non-citizens and carriers jointly liable_214_Volume 1_461",
+      "Costs are debts due to the Commonwealth_215_Volume 1_462",
+      "Use of existing ticket for removal or deportation_216_Volume 1_463",
+      "Vessels required to convey certain removees_217_Volume 1_464",
+      "Vessels required to convey deportees or other removees_218_Volume 1_465",
+      "Exemption from complying_219_Volume 1_466",
+      "Waiver of requirement_220_Volume 1_467",
+      "Cost of removal under notice_221_Volume 1_468",
+      "Orders restraining certain non-citizens from disposing etc. of property_222_Volume 1_469",
+      "Secretary or Australian Border Force Commissioner may give direction about valuables of detained non-citizens_223_Volume 1_470",
+      "Dealing with seized valuables_224_Volume 1_471"
+    ],
+    "Duties of masters in relation to crews_472": [
+      "Production of identity documents and mustering of crew_225_Volume 1_473",
+      "Production of identity documents by persons on board resources installation_226_Volume 1_474",
+      "Production of identity documents by persons on board sea installation_227_Volume 1_475",
+      "Master to report absences_228_Volume 1_476"
+    ],
+    "Offences etc. in relation to entry into, and remaining in, Australia_477": {
+      "People smuggling and related offences_478": [
+        "Application of Subdivision_228A_Volume 1_479",
+        "Circumstances in which a non-citizen has no lawful right to come to Australia_228B_Volume 1_480",
+        "Carriage of non-citizens to Australia without documentation_229_Volume 1_481",
+        "Carriage of concealed persons to Australia_230_Volume 1_482",
+        "Master of vessel to comply with certain requests_231_Volume 1_483",
+        "Penalty on master, owner, agent and charterer of vessel_232_Volume 1_484",
+        "Offence of people smuggling_233A_Volume 1_485",
+        "Aggravated offence of people smuggling (danger of death or serious harm etc.)_233B_Volume 1_486",
+        "Aggravated offence of people smuggling (at least 5 people)_233C_Volume 1_487",
+        "Supporting the offence of people smuggling_233D_Volume 1_488",
+        "Concealing and harbouring non-citizens etc._233E_Volume 1_489",
+        "False documents and false or misleading information etc. relating to non-citizens_234_Volume 1_490",
+        "Aggravated offence of false documents and false or misleading information etc. relating to non-citizens (at least 5 people)_234A_Volume 1_491",
+        "Offences relating to visas_236_Volume 1_492",
+        "No discharge without conviction for certain offences_236A_Volume 1_493",
+        "Mandatory minimum penalties for certain offences_236B_Volume 1_494",
+        "Time in immigration detention counts for sentencing etc._236C_Volume 1_495",
+        "Burden and standard of proof in relation to age_236D_Volume 1_496",
+        "Evidentiary certificates in proceedings for offences_236E_Volume 1_497",
+        "Evidentiary certificates—procedural matters_236F_Volume 1_498"
+      ],
+      "Offences relating to abuse of laws allowing spouses etc. of Australian citizens or of permanent residents to become permanent residents_499": [
+        "Reason for Subdivision_237_Volume 1_500",
+        "Interpretation_238_Volume 1_501",
+        "Application of Subdivision_239_Volume 1_502",
+        "Offence to arrange marriage to obtain permanent residence_240_Volume 1_503",
+        "Offence to arrange pretended de facto relationship to obtain permanent residence_241_Volume 1_504",
+        "Offences relating to application for permanent residence because of marriage or de facto relationship_243_Volume 1_505",
+        "Offences of making false or unsupported statements_245_Volume 1_506"
+      ],
+      "Offences and civil penalties in relation to work by non-citizens_507": [
+        "Overview_245AA_Volume 1_508",
+        "Coercing etc. a lawful non-citizen to work in breach of work-related conditions_245AAA_Volume 1_509",
+        "Coercing etc. an unlawful non-citizen to work— adverse effect on presence in Australia_245AAB_Volume 1_510",
+        "Coercing etc. a lawful non-citizen to work— adverse effect on status etc_245AAC_Volume 1_511",
+        "Allowing an unlawful non-citizen to work_245AB_Volume 1_512",
+        "Allowing a lawful non-citizen to work in breach of a work-related condition_245AC_Volume 1_513",
+        "Aggravated offences if a person allows, or continues to allow, another person to work_245AD_Volume 1_514",
+        "Referring an unlawful non-citizen for work_245AE_Volume 1_515",
+        "Referring a lawful non-citizen for work in breach of a work-related condition_245AEA_Volume 1_516",
+        "Aggravated offences if a person refers another person to a third person for work_245AEB_Volume 1_517",
+        "Circumstances in which this Subdivision does not apply_245AF_Volume 1_518",
+        "Meaning of work and allows to work_245AG_Volume 1_519",
+        "Meaning of arrangement in relation to work_245AGA_Volume 1_520",
+        "Meaning of exploited_245AH_Volume 1_521",
+        "Criminal liability of executive officers of bodies corporate_245AJ_Volume 1_522",
+        "Civil liability of executive officers of bodies corporate_245AK_Volume 1_523",
+        "Contravening civil penalty provisions_245AL_Volume 1_524",
+        "Enforceable undertakings_245ALA_Volume 1_525",
+        "Geographical scope of offence and civil penalty provisions_245AM_Volume 1_526",
+        "Charge and trial for an aggravated offence_245AN_Volume 1_527",
+        "Treatment of partnerships_245AO_Volume 1_528",
+        "Treatment of unincorporated associations_245AP_Volume 1_529",
+        "Effect of this Subdivision on the validity of certain contracts is to be disregarded_245APA_Volume 1_530"
+      ],
+      "Offences and civil penalties in relation to sponsored visas_531": [
+        "Definitions_245AQ_Volume 1_532",
+        "Prohibition on asking for or receiving a benefit in return for the occurrence of a sponsorship-related event_245AR_Volume 1_533",
+        "Prohibition on offering to provide or providing a benefit in return for the occurrence of a sponsorship-related event_245AS_Volume 1_534",
+        "Criminal liability of executive officers of bodies corporate_245AT_Volume 1_535",
+        "Civil liability of executive officers of bodies corporate_245AU_Volume 1_536",
+        "Contravening civil penalty provisions_245AV_Volume 1_537",
+        "Geographical scope of offence and civil penalty provisions_245AW_Volume 1_538",
+        "Treatment of partnerships_245AX_Volume 1_539",
+        "Treatment of unincorporated associations_245AY_Volume 1_540"
+      ],
+      "Prohibited employers_541": [
+        "Objects of this Subdivision_245AYAA_Volume 1_542",
+        "Overview_245AYA_Volume 1_543",
+        "Definitions_245AYB_Volume 1_544",
+        "Meaning of allows a non-citizen to begin work_245AYC_Volume 1_545",
+        "Meaning of prohibited employer_245AYD_Volume 1_546",
+        "When a person is subject to a migrant worker sanction—bar placed on approved work sponsor etc._245AYE_Volume 1_547",
+        "When a person is subject to a migrant worker sanction—conviction of work-related offence etc._245AYF_Volume 1_548",
+        "When a person is subject to a migrant worker sanction—contravention of certain civil penalty provisions etc_245AYG_Volume 1_549",
+        "When a person is subject to a migrant worker sanction—contravention of certain civil remedy provisions of the Fair Work Act 2009_245AYH_Volume 1_550",
+        "When a person is subject to a migrant worker sanction—contravention of term of enforceable undertaking etc._245AYI_Volume 1_551",
+        "When a person is subject to a migrant worker sanction—failure to comply with certain compliance notices_245AYJ_Volume 1_552",
+        "Declaration of person as prohibited employer_245AYK_Volume 1_553",
+        "Prohibition on allowing additional non-citizens to begin work_245AYL_Volume 1_554",
+        "Publishing information about prohibited employers_245AYM_Volume 1_555",
+        "Former prohibited employers to give certain information_245AYN_Volume 1_556",
+        "Contravening civil penalty provisions_245AYO_Volume 1_557"
+      ],
+      "Compliance notices for work-related breaches_558": [
+        "Compliance notices_245AYP_Volume 1_559"
+      ]
+    },
+    "Chasing, boarding etc. aircraft_560": [
+      "Definitions_245A_Volume 1_561",
+      "Identifying an aircraft and requesting it to land for boarding_245E_Volume 1_562",
+      "Power to board and search etc. aircraft_245F_Volume 1_563",
+      "Searches of people on certain ships or aircraft_245FA_Volume 1_564"
+    ],
+    "Reporting on passengers and crew of aircraft and ships_565": [
+      "Definitions_245I_Volume 1_566",
+      "Approval of primary reporting systems_245J_Volume 1_567",
+      "Approval of fall-back reporting systems_245K_Volume 1_568",
+      "Obligation to report on persons arriving in Australia_245L_Volume 1_569",
+      "Obligation to report on persons departing from Australia_245LA_Volume 1_570",
+      "Dealing with information collected under this Division etc_245LB_Volume 1_571",
+      "Approved fall-back reporting systems may be used in certain circumstances_245M_Volume 1_572",
+      "Offence for failure to comply with reporting obligations_245N_Volume 1_573"
+    ],
+    "Examination, search, detention and identification_574": [
+      "Appointment of boarding stations_246_Volume 1_575",
+      "Vessels to enter ports and be brought to boarding stations_247_Volume 1_576",
+      "Exemption_248_Volume 1_577",
+      "Certain persons may be prevented from entering or landing_249_Volume 1_578",
+      "Detention of suspected offenders_250_Volume 1_579",
+      "Powers of entry and search_251_Volume 1_580",
+      "Searches of persons_252_Volume 1_581",
+      "Power to conduct a screening procedure_252AA_Volume 1_582",
+      "Power to conduct a strip search_252A_Volume 1_583",
+      "Rules for conducting a strip search_252B_Volume 1_584",
+      "Possession and retention of certain things obtained during a screening procedure or strip search_252C_Volume 1_585",
+      "Authorised officer may apply for a thing to be retained for a further period_252D_Volume 1_586",
+      "Magistrate may order that thing be retained_252E_Volume 1_587",
+      "Detainees held in State or Territory prisons or remand centres_252F_Volume 1_588",
+      "Powers concerning entry to a detention centre_252G_Volume 1_589",
+      "Detention of deportee_253_Volume 1_590",
+      "Removees and deportees held in other custody_254_Volume 1_591",
+      "Prescribed authorities_255_Volume 1_592",
+      "Person in immigration detention may have access to certain advice, facilities etc._256_Volume 1_593",
+      "Persons may be required to answer questions_257_Volume 1_594",
+      "Person may be required to provide personal identifiers_257A_Volume 1_595",
+      "Minister may determine that specified persons are not to be required to provide personal identifiers etc._258_Volume 1_596",
+      "When detainees must not be required to provide personal identifiers under section 257A_258A_Volume 1_597",
+      "Information to be provided—authorised officers carrying out identification tests_258B_Volume 1_598",
+      "Regulations may prescribe manner for carrying out identification tests_258D_Volume 1_599",
+      "General rules for carrying out identification tests_258E_Volume 1_600",
+      "Person must not be required to provide personal identifiers in a cruel, inhuman or degrading way etc._258F_Volume 1_601",
+      "Authorised officer may get help to carry out identification tests_258G_Volume 1_602",
+      "Detention of vessel for purpose of search_259_Volume 1_603",
+      "Detention of vessel pending recovery of penalty_260_Volume 1_604",
+      "Disposal of dilapidated vessels etc_261_Volume 1_605"
+    ],
+    "Identification of immigration detainees_606": {
+      "Provision of personal identifiers_607": [
+        "Immigration detainees must provide personal identifiers_261AA_Volume 1_608",
+        "Authorised officers must require and carry out identification tests_261AB_Volume 1_609",
+        "Information to be provided before carrying out identification tests_261AC_Volume 1_610"
+      ],
+      "How identification tests are carried out_611": [
+        "General rules for carrying out identification tests_261AD_Volume 1_612",
+        "Use of force in carrying out identification tests_261AE_Volume 1_613",
+        "Identification tests not to be carried out in cruel, inhuman or degrading manner etc._261AF_Volume 1_614",
+        "Authorised officer may get help to carry out identification tests_261AG_Volume 1_615",
+        "Identification tests to be carried out by authorised officer of same sex as non-citizen_261AH_Volume 1_616",
+        "Independent person to be present_261AI_Volume 1_617",
+        "Recording of identification tests_261AJ_Volume 1_618",
+        "Retesting_261AK_Volume 1_619"
+      ],
+      "Obligations relating to video recordings of identification tests_620": [
+        "Definitions_261AKA_Volume 1_621",
+        "Accessing video recordings_261AKB_Volume 1_622",
+        "Authorising access to video recordings_261AKC_Volume 1_623",
+        "Providing video recordings_261AKD_Volume 1_624",
+        "Unauthorised modification of video recordings_261AKE_Volume 1_625",
+        "Unauthorised impairment of video recordings_261AKF_Volume 1_626",
+        "Meanings of unauthorised modification and unauthorised impairment etc_261AKG_Volume 1_627",
+        "Destroying video recordings_261AKH_Volume 1_628"
+      ]
+    },
+    "Identification of minors and incapable persons_629": [
+      "Minors_261AL_Volume 1_630",
+      "Incapable persons_261AM_Volume 1_631"
+    ],
+    "Automatic forfeiture of things used in certain offences_632": {
+      "Automatic forfeiture_633": [
+        "Forfeiture of things used in certain offences_261A_Volume 1_634"
+      ],
+      "Seizure_635": [
+        "Seizure of things used in certain offences_261B_Volume 1_636"
+      ],
+      "Dealing with things seized as automatically forfeited_637": [
+        "Application of this Subdivision_261C_Volume 1_638",
+        "Notice of seizure_261D_Volume 1_639",
+        "Dealing with thing before it is condemned_261E_Volume 1_640",
+        "Thing condemned if not claimed in time_261F_Volume 1_641",
+        "Dealing with claim for thing_261G_Volume 1_642",
+        "What happens if thing is claimed_261H_Volume 1_643",
+        "Dealing with thing after it is condemned_261I_Volume 1_644"
+      ],
+      "Operation of Division_645": [
+        "Operation of Division_261J_Volume 1_646"
+      ],
+      "Minister’s order that a thing not be condemned as forfeited_647": [
+        "Minister’s order that a thing not be condemned_261K_Volume 1_648"
+      ]
+    },
+    "Recovery of costs from certain persons_649": [
+      "Liability to the Commonwealth for the cost of keeping, maintaining and removing certain persons_262_Volume 2_650",
+      "Secretary or Australian Border Force Commissioner able to issue notice of debt_263_Volume 2_651",
+      "Garnishee notice_264_Volume 2_652",
+      "Debt from failure to comply with garnishee notice_265_Volume 2_653",
+      "Future debts_266_Volume 2_654",
+      "Secretary or Australian Border Force Commissioner may freeze amounts to secure future debts_267_Volume 2_655",
+      "Application of Division to the Crown_268_Volume 2_656"
+    ],
+    "Monitoring compliance with student visa conditions_657": {
+      "Preliminary_658": [
+        "Definitions_268AA_Volume 2_659",
+        "Division binds the Crown_268AB_Volume 2_660",
+        "Powers conferred on magistrates in their personal capacity_268AD_Volume 2_661"
+      ],
+      "Notices requiring information and documents_662": [
+        "Production notices_268BA_Volume 2_663",
+        "Contents of the production notice_268BB_Volume 2_664",
+        "Serving production notices_268BC_Volume 2_665",
+        "Attendance notices_268BD_Volume 2_666",
+        "Contents of attendance notice_268BE_Volume 2_667",
+        "Scales of expenses_268BF_Volume 2_668",
+        "Reasonable compensation for giving copies_268BG_Volume 2_669",
+        "Offence: failing to comply with a notice_268BH_Volume 2_670",
+        "Offence: giving false or misleading information_268BI_Volume 2_671",
+        "Offence: giving false or misleading document_268BJ_Volume 2_672",
+        "Information and documents that incriminate a person_268BK_Volume 2_673",
+        "Copies of documents_268BL_Volume 2_674",
+        "Officer may retain documents_268BM_Volume 2_675",
+        "Owner of document must be given copy_268BN_Volume 2_676",
+        "Retaining documents_268BO_Volume 2_677",
+        "Officer may apply to magistrate or ART member for a further period_268BP_Volume 2_678",
+        "Magistrate or ART member may order retention for further period_268BQ_Volume 2_679"
+      ],
+      "Searching education providers’ premises_680": [
+        "Authorised officer may enter premises for a visa monitoring purpose_268CA_Volume 2_681",
+        "Being on premises with consent_268CB_Volume 2_682",
+        "Consent_268CC_Volume 2_683",
+        "Authorised officer may apply for monitoring warrant_268CD_Volume 2_684",
+        "Magistrate or ART member may issue monitoring warrant_268CE_Volume 2_685",
+        "Magistrate or ART member may require more information_268CF_Volume 2_686",
+        "Contents of monitoring warrant_268CG_Volume 2_687",
+        "Use of reasonable force and assistance_268CH_Volume 2_688",
+        "Monitoring powers of authorised officers_268CI_Volume 2_689",
+        "Authorised officer on premises with consent may ask questions_268CJ_Volume 2_690",
+        "Authorised officer on premises under warrant may ask questions_268CK_Volume 2_691",
+        "Offence: failure to answer question_268CL_Volume 2_692",
+        "Offence: giving false or misleading information_268CM_Volume 2_693",
+        "Offence: giving or showing documents that are false or misleading in material particulars_268CN_Volume 2_694",
+        "Use of electronic equipment in exercising monitoring powers_268CO_Volume 2_695",
+        "Use of electronic equipment by experts_268CP_Volume 2_696",
+        "Extension of period_268CQ_Volume 2_697",
+        "Powers without warrant in emergency situations_268CR_Volume 2_698",
+        "Retaining seized things_268CS_Volume 2_699",
+        "Authorised officer may apply for a thing to be retained for a further period_268CT_Volume 2_700",
+        "Magistrate or ART member may order that thing be retained_268CU_Volume 2_701",
+        "Occupier to provide authorised officer with all facilities and assistance_268CV_Volume 2_702",
+        "Announcement before entry_268CW_Volume 2_703",
+        "Copy of monitoring warrant to be given to occupier before entry_268CX_Volume 2_704",
+        "Compensation for damage to electronic equipment or data_268CY_Volume 2_705",
+        "Occupier entitled to be present during execution of monitoring warrant_268CZ_Volume 2_706",
+        "Identity cards_268CZA_Volume 2_707",
+        "Authorised officer must produce identity card on request_268CZB_Volume 2_708",
+        "Officer may apply for warrants by telephone etc._268CZC_Volume 2_709",
+        "Magistrate or ART member may grant warrant by telephone etc_268CZD_Volume 2_710",
+        "Procedure for issuing warrant by telephone etc._268CZE_Volume 2_711",
+        "Procedure after telephone warrant ceases or is executed_268CZF_Volume 2_712",
+        "Form of warrant authorises exercise of power_268CZG_Volume 2_713",
+        "Court to assume that exercise of power not authorised by telephone etc. warrant_268CZH_Volume 2_714"
+      ]
+    },
+    "General_715": [
+      "Securities_269_Volume 2_716",
+      "Reports of absences of crews of vessels_270_Volume 2_717",
+      "Proof of certain matters_271_Volume 2_718",
+      "Migrant centres_272_Volume 2_719",
+      "Detention centres_273_Volume 2_720",
+      "Secretary or Australian Border Force Commissioner may issue documents containing information concerning certain persons_274_Volume 2_721"
+    ]
+  },
+  "Migration agents and immigration assistance_722": {
+    "Preliminary_723": [
+      "Interpretation_275_Volume 2_724",
+      "Immigration assistance_276_Volume 2_725",
+      "Relation by employment_278_Volume 2_726",
+      "Eligibility for restricted legal practitioners_278A_Volume 2_727",
+      "Part VIIC of the Crimes Act 1914 to apply to this Part_279_Volume 2_728"
+    ],
+    "Restrictions on giving of immigration assistance and making of immigration representations_729": [
+      "Restrictions on giving of immigration assistance_280_Volume 2_730",
+      "Restriction on charging fees for immigration assistance_281_Volume 2_731",
+      "Restriction on charging fees for immigration representations_282_Volume 2_732",
+      "False representation that a person is a registered migration agent_283_Volume 2_733",
+      "Restriction on self-advertising of the giving of immigration assistance_284_Volume 2_734",
+      "Restriction on other advertising of immigration assistance_285_Volume 2_735"
+    ],
+    "Registration of migration agents_736": [
+      "Register of Migration Agents_287_Volume 2_737",
+      "Application for registration_288_Volume 2_738",
+      "Publishing requirement_288A_Volume 2_739",
+      "Requirement to provide further information etc_288B_Volume 2_740",
+      "Registration_289_Volume 2_741",
+      "Applicant must not be registered if academic and vocational requirements are not satisfied_289A_Volume 2_742",
+      "Applications by Australian legal practitioners_289B_Volume 2_743",
+      "Applicant must not be registered if not a person of integrity or not fit and proper_290_Volume 2_744",
+      "Applicant must not be registered if continuing professional development requirements are not satisfied_290A_Volume 2_745",
+      "Applicant must not be registered if any unpaid registration status charge_290B_Volume 2_746",
+      "Applicant must not be registered if registration refused in past year_291_Volume 2_747",
+      "Applicant must not be registered if suspension would be in effect_291A_Volume 2_748",
+      "Applicant must not be registered if registration cancelled in past 5 years_292_Volume 2_749",
+      "Applicant must not be registered if any barring period has not ended_292A_Volume 2_750",
+      "Applicant must not be registered unless he or she holds appropriate professional indemnity insurance_292B_Volume 2_751",
+      "Applicant under 18 must not be registered_293_Volume 2_752",
+      "Applicant must not be registered if not an Australian citizen, permanent resident or New Zealander with special visa_294_Volume 2_753",
+      "Notice of refusal of application_295_Volume 2_754",
+      "Period of registration_299_Volume 2_755",
+      "Automatic continuation of registration_300_Volume 2_756",
+      "Migration Agents Registration Authority must warn of expiry_301_Volume 2_757",
+      "Automatic deregistration_302_Volume 2_758",
+      "Cancellation of registration—Australian legal practitioners_302A_Volume 2_759",
+      "Disciplining registered migration agents_303_Volume 2_760",
+      "Period of suspension_304_Volume 2_761",
+      "Conditions for lifting cautions_304A_Volume 2_762",
+      "Notice of disciplinary decision_305_Volume 2_763",
+      "Making disciplinary details publicly available_305A_Volume 2_764",
+      "Providing disciplinary details to clients_305B_Volume 2_765",
+      "Requiring registered migration agents to give information or documents_305C_Volume 2_766",
+      "Review by the ART_306_Volume 2_767",
+      "Stay orders_306AA_Volume 2_768"
+    ],
+    "Documents relating to clients of inactive migration agents and deceased migration agents_769": [
+      "Objects of this Division_306A_Volume 2_770",
+      "Inactive migration agents_306B_Volume 2_771",
+      "Definition of client_306C_Volume 2_772",
+      "Power to obtain documents from inactive migration agent_306D_Volume 2_773",
+      "Power to obtain documents from representative of deceased inactive migration agent_306E_Volume 2_774",
+      "Power to obtain documents from representative of deceased registered migration agent_306F_Volume 2_775",
+      "Reasonable compensation_306G_Volume 2_776",
+      "Failure to comply with notice_306H_Volume 2_777",
+      "Self-incrimination_306J_Volume 2_778",
+      "Migration Agents Registration Authority to give client documents to clients_306K_Volume 2_779",
+      "Compensation—constitutional safety-net_306L_Volume 2_780"
+    ],
+    "Investigations and decision-making by the Migration Agents Registration Authority_781": [
+      "Requiring registered migration agents to give information_308_Volume 2_782",
+      "Persons may make submissions_309_Volume 2_783",
+      "Persons may appear before Migration Agents Registration Authority_310_Volume 2_784",
+      "Migration Agents Registration Authority not bound by legal forms etc._311_Volume 2_785"
+    ],
+    "Disciplining former registered migration agents_786": [
+      "Barring former registered migration agents from being registered for up to 5 years_311A_Volume 2_787",
+      "Notice of disciplinary decision_311B_Volume 2_788",
+      "Making disciplinary details publicly available_311C_Volume 2_789",
+      "Former registered migration agent may make a submission etc._311D_Volume 2_790",
+      "Authority not bound by legal forms etc_311E_Volume 2_791",
+      "Requiring former registered migration agents to give information or documents_311EA_Volume 2_792",
+      "Review by the ART_311F_Volume 2_793"
+    ],
+    "Obligations of registered migration agents_794": [
+      "Notification obligations_312_Volume 2_795",
+      "Notification of giving of immigration assistance to visa applicants_312A_Volume 2_796",
+      "Notification of giving of immigration assistance to review applicants_312B_Volume 2_797",
+      "Persons charged for services to be given detailed statement of services_313_Volume 2_798",
+      "Code of Conduct for migration agents_314_Volume 2_799"
+    ],
+    "Migration Agents Registration Authority_800": [
+      "Migration Agents Registration Authority—nature, powers and functions_315_Volume 2_801",
+      "Functions of Migration Agents Registration Authority_316_Volume 2_802",
+      "General powers of the Migration Agents Registration Authority_317_Volume 2_803",
+      "Power to refer people to mediation_318_Volume 2_804",
+      "Referral of conduct of certain migration agents to legal disciplinary authorities_319_Volume 2_805",
+      "Minister may delegate powers and functions_320_Volume 2_806",
+      "Disclosure of personal information by the Migration Agents Registration Authority_321A_Volume 2_807"
+    ],
+    "Registration application fees and registration status charges_808": [
+      "Collection of registration status charge_332A_Volume 2_809"
+    ],
+    "Other things_810": [
+      "Removing disciplinary details—registered migration agents_332C_Volume 2_811",
+      "Removing disciplinary details—former registered migration agents_332D_Volume 2_812",
+      "Protection from civil proceedings_332E_Volume 2_813",
+      "Disclosure of personal information by the Secretary_332F_Volume 2_814",
+      "Disclosure of personal information by the ART_332G_Volume 2_815",
+      "Giving of notices under this Part_332H_Volume 2_816"
+    ],
+    "Transitional arrangements for Australian legal practitioners_817": [
+      "Definitions_333_Volume 2_818",
+      "Restrictions on giving immigration assistance and making immigration representations_333A_Volume 2_819",
+      "Registered migration agents who were unrestricted legal practitioners immediately before the Division 8 commencement day_333B_Volume 2_820",
+      "Persons who were restricted legal practitioners immediately before the Division 8 commencement day_333C_Volume 2_821",
+      "Registration applications made before the Division 8 commencement day_333D_Volume 2_822",
+      "Events required to be notified under s 312(4)_333E_Volume 2_823"
+    ]
+  },
+  "Offences relating to decisions under Act_824": [
+    "Offences in relation to false or misleading statements regarding the making of decisions_334_Volume 2_825",
+    "Offence of undertaking, for reward, to cause decisions to be made etc_335_Volume 2_826",
+    "Court may order reparation for loss suffered_336_Volume 2_827"
+  ],
+  "Obligations relating to identifying information_828": {
+    "Preliminary_829": [
+      "Definitions_336A_Volume 2_830",
+      "Application_336B_Volume 2_831"
+    ],
+    "Accessing identifying information_832": [
+      "Accessing identifying information_336C_Volume 2_833",
+      "Authorising access to identifying information_336D_Volume 2_834"
+    ],
+    "Disclosing identifying information_835": [
+      "Disclosing identifying information_336E_Volume 2_836",
+      "Authorising disclosure of identifying information to foreign countries etc._336F_Volume 2_837",
+      "Disclosure of certain personal identifiers to selected individuals_336FA_Volume 2_838",
+      "Disclosure of other relevant information to selected individuals_336FB_Volume 2_839",
+      "Disclosure of certain personal identifiers to the general public_336FC_Volume 2_840",
+      "Disclosure of other relevant information to the general public_336FD_Volume 2_841"
+    ],
+    "Modifying and impairing identifying information_842": [
+      "Unauthorised modification of identifying information_336G_Volume 2_843",
+      "Unauthorised impairment of identifying information_336H_Volume 2_844",
+      "Meanings of unauthorised modification and unauthorised impairment etc_336J_Volume 2_845"
+    ],
+    "Destroying identifying information_846": [
+      "Destroying identifying information_336K_Volume 2_847",
+      "Identifying information that may be indefinitely retained_336L_Volume 2_848"
+    ]
+  },
+  "Reviewable migration decisions and reviewable protection decisions_849": {
+    "Preliminary_850": [
+      "Simplified outline of this Part_336M_Volume 2_851",
+      "Scope of this Part_336N_Volume 2_852",
+      "Interaction with the ART Act_336P_Volume 2_853",
+      "Interpretation_337_Volume 2_854",
+      "Meaning of reviewable migration decision_338_Volume 2_855",
+      "Meaning of reviewable protection decision_338A_Volume 2_856",
+      "Conclusive certificates_339_Volume 2_857"
+    ],
+    "ART review_858": [
+      "Application for ART review_347_Volume 2_859",
+      "Who can apply for ART review etc_347A_Volume 2_860",
+      "ART to review reviewable migration decisions and reviewable protection decisions_348_Volume 2_861",
+      "Parties to a proceeding for review_348A_Volume 2_862",
+      "Remittal_349_Volume 2_863",
+      "Review of assessments made under section 93_350_Volume 2_864",
+      "Minister may substitute more favourable decision_351_Volume 2_865",
+      "ART to notify Secretary of application for review_352_Volume 2_866"
+    ],
+    "ART powers_867": [
+      "ART may require Secretary to arrange for investigations etc._353_Volume 2_868"
+    ],
+    "Conduct of ART review_869": [
+      "Exhaustive statement of natural justice hearing rule_357A_Volume 2_870",
+      "Information and invitation given by ART_359A_Volume 2_871",
+      "Applicant entitled to have access to written material before Tribunal_362A_Volume 2_872",
+      "Reviews may be combined_363_Volume 2_873",
+      "Examination and cross-examination not permitted_366D_Volume 2_874",
+      "Certain bridging visa decisions—to be made within prescribed period_367_Volume 2_875",
+      "How ART is to deal with new claims or evidence in review of reviewable protection decisions_367A_Volume 2_876",
+      "Certain ART proceedings must be in private_367B_Volume 2_877"
+    ],
+    "ART decisions_878": [
+      "ART’s decision and written statement etc_368_Volume 2_879",
+      "Notification of ART’s decision_368A_Volume 2_880",
+      "Notice of dismissal and reinstatement decisions and when taken to have been made_368B_Volume 2_881",
+      "Reinstatement of application or confirmation of dismissal_368C_Volume 2_882",
+      "Identifying information relating to reviewable protection decisions not to be published_369_Volume 2_883"
+    ],
+    "Other matters_884": [
+      "How the ART must give certain notices and directions to an applicant_374_Volume 2_885",
+      "Restrictions on disclosure of certain information etc._375_Volume 2_886",
+      "Certain information only to be disclosed to ART_375A_Volume 2_887",
+      "ART’s discretion in relation to disclosure of certain information etc_376_Volume 2_888",
+      "Protected information and documents_378_Volume 2_889"
+    ],
+    "Giving and receiving documents_890": [
+      "Giving documents by ART where no requirement to do so by specified method_379AA_Volume 2_891",
+      "Methods by which ART gives documents to a person_379A_Volume 2_892",
+      "When a person other than the Secretary is taken to have received a document from the ART_379C_Volume 2_893",
+      "Giving documents by ART—combined applications_379EA_Volume 2_894",
+      "Authorised recipient_379G_Volume 2_895"
+    ]
+  },
+  "Judicial review_896": {
+    "Privative clause_897": [
+      "Decisions under Act are final_474_Volume 2_898"
+    ],
+    "Interaction with the ART Act_899": [
+      "Interaction with the ART Act_474AA_Volume 2_900"
+    ],
+    "Jurisdiction and procedure of courts_901": [
+      "Definition of ART Act migration decision_474A_Volume 2_902",
+      "This Division not to limit section 474_475_Volume 2_903",
+      "Jurisdiction of the Federal Circuit and Family Court of Australia (Division 2)_476_Volume 2_904",
+      "Limited jurisdiction of the Federal Court_476A_Volume 2_905",
+      "Remittal by the High Court_476B_Volume 2_906",
+      "Time limits on applications to the Federal Circuit and Family Court of Australia (Division 2)_477_Volume 2_907",
+      "Time limits on applications to the Federal Court_477A_Volume 2_908",
+      "Persons who may make application_478_Volume 2_909",
+      "Parties to review_479_Volume 2_910",
+      "Intervention by Attorney-General_480_Volume 2_911",
+      "Operation etc. of decision_481_Volume 2_912",
+      "Changing person holding, or performing the duties of, an office_482_Volume 2_913",
+      "Exclusive jurisdiction of High Court, Federal Court and Federal Circuit and Family Court of Australia (Division 2)_484_Volume 2_914"
+    ]
+  },
+  "Restrictions on court proceedings_915": [
+    "Time limit on applications to the High Court for judicial review_486A_Volume 2_916",
+    "Intervention by Attorney-General_486AA_Volume 2_917",
+    "Operation etc. of decision_486AB_Volume 2_918",
+    "Multiple parties in migration litigation_486B_Volume 2_919",
+    "Persons who may commence or continue proceedings in the Federal Circuit and Family Court of Australia (Division 2) or the Federal Court_486C_Volume 2_920",
+    "Disclosing other judicial review proceedings_486D_Volume 2_921"
+  ],
+  "Costs orders where proceedings have no reasonable prospect of success_922": [
+    "Obligation where there is no reasonable prospect of success_486E_Volume 2_923",
+    "Cost orders_486F_Volume 2_924",
+    "Person must be given reasonable opportunity to argue against costs order_486G_Volume 2_925",
+    "Limited waiver of legal professional privilege_486H_Volume 2_926",
+    "Lawyer’s certification_486I_Volume 2_927",
+    "Part does not limit other powers to order costs against third parties_486J_Volume 2_928",
+    "Definitions_486K_Volume 2_929"
+  ],
+  "Reports on persons in detention for more than 2 years_930": [
+    "What is the detention reporting start time for a person?_486L_Volume 2_931",
+    "What is a detention reporting time for a person?_486M_Volume 2_932",
+    "Secretary’s obligation to report to Commonwealth Ombudsman_486N_Volume 2_933",
+    "Commonwealth Ombudsman to give Minister assessment of detention arrangements_486O_Volume 2_934",
+    "Minister to table statement from Commonwealth Ombudsman_486P_Volume 2_935",
+    "Application of Ombudsman Act 1976_486Q_Volume 2_936"
+  ],
+  "Civil penalties_937": {
+    "Obtaining a civil penalty order_938": [
+      "Civil penalty orders_486R_Volume 2_939",
+      "Additional rules relating to the sponsorship civil penalty provisions_486S_Volume 2_940",
+      "Civil enforcement of penalty_486T_Volume 2_941",
+      "Conduct contravening more than one civil penalty provision_486U_Volume 2_942",
+      "Multiple contraventions_486V_Volume 2_943",
+      "Proceedings may be heard together_486W_Volume 2_944",
+      "Civil evidence and procedure rules for civil penalty orders_486X_Volume 2_945",
+      "Requirement for persons to assist in applications for civil penalty orders_486Y_Volume 2_946"
+    ],
+    "Civil proceedings and criminal proceedings_947": [
+      "Civil proceedings after criminal proceedings_486Z_Volume 2_948",
+      "Criminal proceedings during civil proceedings_486ZA_Volume 2_949",
+      "Criminal proceedings after civil proceedings_486ZB_Volume 2_950",
+      "Evidence given in civil proceedings not admissible in criminal proceedings_486ZC_Volume 2_951"
+    ],
+    "Miscellaneous_952": [
+      "Ancillary contravention of civil penalty provisions_486ZD_Volume 2_953",
+      "Mistake of fact_486ZE_Volume 2_954",
+      "State of mind_486ZF_Volume 2_955",
+      "Civil double jeopardy_486ZG_Volume 2_956"
+    ]
+  },
+  "Investigation powers relating to certain offences and provisions_957": {
+    "Preliminary_958": [
+      "Definitions_487A_Volume 2_959"
+    ],
+    "Requiring persons to give information or produce documents_960": [
+      "Secretary or Australian Border Force Commissioner may require a person to give information or produce a document_487B_Volume 2_961",
+      "Self-incrimination_487C_Volume 2_962"
+    ],
+    "Search warrants_963": {
+      "Search powers_964": [
+        "Authorised officer may enter premises by consent or under a search warrant_487D_Volume 2_965",
+        "Search powers of authorised officers_487E_Volume 2_966",
+        "Powers relating to electronic equipment_487F_Volume 2_967",
+        "Seizing evidence of the contravention of related provisions etc_487G_Volume 2_968",
+        "Persons assisting authorised officers_487H_Volume 2_969",
+        "Use of force in executing a search warrant_487J_Volume 2_970"
+      ],
+      "Powers of authorised officers to ask questions and seek production of documents_971": [
+        "Authorised officer may ask questions and seek production of documents_487K_Volume 2_972"
+      ],
+      "Obligations and incidental powers of authorised officers_973": [
+        "Consent_487L_Volume 2_974",
+        "Announcement before entry under search warrant_487M_Volume 2_975",
+        "Authorised officer to be in possession of search warrant_487N_Volume 2_976",
+        "Details of search warrant etc. to be given to occupier_487P_Volume 2_977",
+        "Completing execution of search warrant after temporary cessation_487Q_Volume 2_978",
+        "Completing execution of search warrant stopped by court order_487R_Volume 2_979",
+        "Expert assistance to operate electronic equipment_487S_Volume 2_980",
+        "Compensation for damage to electronic equipment_487T_Volume 2_981"
+      ],
+      "Occupier’s rights and responsibilities_982": [
+        "Occupier entitled to observe execution of search warrant_487U_Volume 2_983",
+        "Occupier to provide authorised officer with facilities and assistance_487V_Volume 2_984"
+      ],
+      "General provisions relating to seizure_985": [
+        "Copies of seized things to be provided_487W_Volume 2_986",
+        "Receipts for seized things_487X_Volume 2_987",
+        "Return of seized things_487Y_Volume 2_988",
+        "Issuing officer may permit a seized thing to be retained_487Z_Volume 2_989",
+        "Disposal of seized things_487ZA_Volume 2_990",
+        "Compensation for acquisition of property_487ZB_Volume 2_991"
+      ],
+      "Issue of search warrants_992": [
+        "Issue of search warrants_487ZC_Volume 2_993",
+        "Search warrants by telephone, fax etc._487ZD_Volume 2_994",
+        "Authority of search warrant_487ZE_Volume 2_995",
+        "Offence relating to search warrants by telephone, fax etc._487ZF_Volume 2_996"
+      ],
+      "Identity cards_997": [
+        "Identity cards_487ZG_Volume 2_998"
+      ],
+      "Powers of issuing officers_999": [
+        "Powers of issuing officers_487ZH_Volume 2_1000"
+      ]
+    }
+  },
+  "Miscellaneous_1001": {
+    "Bogus documents_1002": [
+      "Prohibition on, and forfeiture of, bogus documents_487ZI_Volume 2_1003",
+      "Seizure of bogus documents_487ZJ_Volume 2_1004",
+      "Document condemned as forfeited_487ZK_Volume 2_1005",
+      "Dealing with a document after it is condemned as forfeited_487ZL_Volume 2_1006"
+    ],
+    "Other_1007": [
+      "Liability for identification tests_487_Volume 2_1008",
+      "Tampering with movements records_488_Volume 2_1009",
+      "Giving information to other relevant agencies_488A_Volume 2_1010",
+      "Things seized under Crimes Act search warrant and information about such things_488AA_Volume 2_1011",
+      "Authorisation to disclose information to an officer_488B_Volume 2_1012",
+      "Notified data bases_489_Volume 2_1013",
+      "Identification card to be deemed to continue to be in a form approved by the Minister_490_Volume 2_1014",
+      "Commencement of prosecutions_492_Volume 2_1015",
+      "Conduct of directors, employees and agents_493_Volume 2_1016",
+      "Jurisdiction of courts_494_Volume 2_1017",
+      "Bar on certain legal proceedings relating to unauthorised maritime arrivals_494AA_Volume 2_1018",
+      "Bar on certain legal proceedings relating to transitory persons_494AB_Volume 2_1019",
+      "Giving documents by Minister where no requirement to do so by section 494B method_494A_Volume 2_1020",
+      "Methods by which Minister gives documents to a person_494B_Volume 2_1021",
+      "When a person is taken to have received a document from the Minister_494C_Volume 2_1022",
+      "Authorised recipient_494D_Volume 2_1023",
+      "When documents are taken to comply with content requirements_494E_Volume 2_1024",
+      "Minister may approve forms_495_Volume 2_1025",
+      "Minister may arrange for use of computer programs to make decisions etc_495A_Volume 2_1026",
+      "Minister may substitute more favourable decisions for certain computer-based decisions_495B_Volume 2_1027",
+      "Delegation_496_Volume 2_1028",
+      "Delegate not required to perform certain administrative tasks_497_Volume 2_1029",
+      "Exercise of powers under Act_498_Volume 2_1030",
+      "Minister may give directions_499_Volume 2_1031",
+      "Review of decision_500_Volume 2_1032",
+      "Applications generally cannot be made to the ART guidance and appeals panel_500AA_Volume 2_1033",
+      "Refusal or cancellation of temporary safe haven visas_500A_Volume 2_1034",
+      "Refusal or cancellation of visa on character grounds_501_Volume 2_1035",
+      "Refusal or cancellation of visa—setting aside and substitution of non-adverse decision under subsection 501(1) or (2)_501A_Volume 2_1036",
+      "Refusal or cancellation of visa—setting aside and substitution of adverse decision under subsection 501(1) or (2)_501B_Volume 2_1037",
+      "Cancellation of visa—setting aside and substitution of non-adverse decision under section 501CA_501BA_Volume 2_1038",
+      "Refusal or cancellation of visa—revocation of decision under subsection 501(3) or 501A(3)_501C_Volume 2_1039",
+      "Cancellation of visa—revocation of decision under subsection 501(3A) (person serving sentence of imprisonment)_501CA_Volume 2_1040",
+      "Refusal or cancellation of visa—method of satisfying Minister that person passes the character test_501D_Volume 2_1041",
+      "Refusal or cancellation of visa—prohibition on applying for other visas_501E_Volume 2_1042",
+      "Refusal or cancellation of visa—refusal of other visa applications and cancellation of other visas_501F_Volume 2_1043",
+      "Refusal or cancellation of visa—notification of decision_501G_Volume 2_1044",
+      "Refusal or cancellation of visa—miscellaneous provisions_501H_Volume 2_1045",
+      "Application of sections 501 to 501H to transitional (permanent) visas and transitional (temporary) visas_501HA_Volume 2_1046",
+      "Refusal or cancellation of protection visa— Minister may substitute more favourable decision_501J_Volume 2_1047",
+      "Identity of applicants for protection visas not to be published by the ART_501K_Volume 2_1048",
+      "Disclosure of information to the Minister_501L_Volume 2_1049",
+      "Collection, use and disclosure of criminal history information_501M_Volume 2_1050",
+      "Minister may decide in the national interest that certain persons are to be excluded persons_502_Volume 2_1051",
+      "Exclusion of certain persons from Australia_503_Volume 2_1052",
+      "Protection of information supplied by law enforcement agencies or intelligence agencies_503A_Volume 2_1053",
+      "Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—permanent non-disclosure orders_503B_Volume 2_1054",
+      "Protection of confidential information disclosed to Federal Court or Federal Circuit and Family Court of Australia (Division 2)—interim non-disclosure orders_503C_Volume 2_1055",
+      "Details of gazetted agency to be treated as protected information_503D_Volume 2_1056",
+      "Validation of decisions_503E_Volume 2_1057",
+      "Regulations_504_Volume 2_1058",
+      "Regulations about visa criteria_505_Volume 2_1059",
+      "Regulations about passenger cards_506_Volume 2_1060",
+      "Regulations may provide for infringement notices_506A_Volume 2_1061",
+      "Tax file numbers_506B_Volume 2_1062",
+      "Marital or relationship status_507_Volume 2_1063"
+    ]
+  }
+}
