@@ -18,10 +18,6 @@ from generate_search_term import generate_search_term_from_question
 from search_database import initialize_chromadb, get_vector
 from embed_search_term import initialize_embedding_model, embed_search_term_with_model
 
-# Initialize the chromaDB and embedding model first, as these take a bunch of time
-chromadb_collection = initialize_chromadb()
-embedding_model = initialize_embedding_model()
-
 # function to calculate cosine similarity between 2 embedded vectors 
 def calculate_cosine_similarity(vector1: Union[np.ndarray, List[float]], 
                      vector2: Union[np.ndarray, List[float]]) -> float:
@@ -66,6 +62,10 @@ def calculate_cosine_similarity(vector1: Union[np.ndarray, List[float]],
     return float(similarity)
 
 # testing the function
+
+# Initialize the chromaDB and embedding model first, as these take a bunch of time
+chromadb_collection = initialize_chromadb()
+embedding_model = initialize_embedding_model()
 
 # a sample node in the tree --> also get it pre embedded vector 
 sample_node = "Visas for non-citizens_54"
