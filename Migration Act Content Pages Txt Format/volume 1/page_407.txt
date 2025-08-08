@@ -1,5 +1,4 @@
-Migration Act 1958 407
-Compilation No. 164 Compilation date: 21/02/2025if:
+if:
 (d) the person knows that the statement or information is false or 
 misleading in a material particular; and
 (e) the statement is made, or the information is given, in a 

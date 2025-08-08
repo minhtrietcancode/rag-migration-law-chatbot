@@ -28,10 +28,18 @@ def more_clean(txt_file_path):
     with open(txt_file_path, 'w', encoding='utf-8') as f:
         f.write(remainder)
 
-START = 1
-END = 311
-
-for i in range(START, END + 1):
+# Clean vol 2
+START_VOL_2 = 1
+END_VOL_2 = 311
+for i in range(START_VOL_2, END_VOL_2 + 1):
     file_path = f"Migration Act Content Pages Txt Format/volume 2/page_{i}.txt"
+    print("Cleaning page ", i)
+    more_clean(file_path)
+
+# Clean vol 1
+START_VOL_1 = 1
+END_VOL_1 = 537
+for i in range(START_VOL_1, END_VOL_1 + 1):
+    file_path = f"Migration Act Content Pages Txt Format/volume 1/page_{i}.txt"
     print("Cleaning page ", i)
     more_clean(file_path)
