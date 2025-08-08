@@ -6,3 +6,6 @@ __pycache__
 
 # untrack database dir from now, no need to track transaction log, etc
 vector_database/
+
+# ignore my note.txt just to take some random notes
+note.txt
