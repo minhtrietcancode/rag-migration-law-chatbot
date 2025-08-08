@@ -547,16 +547,17 @@ def get_all_pages_content(hashmap, section_name_on_search_tree):
     section_code = extract_section_code(section_name_on_search_tree)
     vol_num = extract_section_vol(section_name_on_search_tree)
 
+    # add some debug few lines for displayed content
+    all_content += DEBUG_LINE + NEW_LINE_CHAR
+    all_content += f"From Page {start_page} to {end_page} of {vol_num}, Section {section_code}\n"
+    all_content += DEBUG_LINE + NEW_LINE_CHAR
+
     # then loops through the start page until hit the end page
     for page in range(start_page, end_page + 1):
         current_page_path = directory_path + "/" + "page_" + str(page) + ".txt"
         with open(current_page_path, "r", encoding="utf-8") as file:
             content = file.read()
-            all_content += DEBUG_LINE + NEW_LINE_CHAR
-            all_content += "PAGE " + str(page) + " of " +  vol_num + ", Section " + section_code + NEW_LINE_CHAR
-            all_content += DEBUG_LINE + NEW_LINE_CHAR
             all_content += content + NEW_LINE_CHAR
-            all_content += NEW_LINE_CHAR
 
     # return the formatted pages
     return all_content
@@ -564,8 +565,4 @@ def get_all_pages_content(hashmap, section_name_on_search_tree):
 # testing
 sample_section_name_on_search_tree = 'Migration Agents Registration Authority to give client documents to clients_306K_Volume 2_779'
 hashmap = load_hashmap_section_page()
-print(get_start_end_page(hashmap, sample_section_name_on_search_tree))
-print(get_directory_relative_path_section(sample_section_name_on_search_tree))
 print(get_all_pages_content(hashmap, sample_section_name_on_search_tree))
-
-
