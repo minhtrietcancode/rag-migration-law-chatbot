@@ -380,11 +380,19 @@ body {
     }
 
     .chat-header {
-        padding: 15px 0;
+        padding: 15px 4%; /* Add horizontal padding for mobile */
+        display: flex; /* Enable flexbox */
+        align-items: center; /* Vertically align items */
+        justify-content: space-between; /* Distribute items with space between them */
+        position: relative; /* Ensure proper positioning for children if needed */
     }
 
     .chat-title {
         font-size: 25px;
+        position: static; /* Remove absolute positioning */
+        margin: 0; /* Remove margin */
+        text-align: center; /* Center the title */
+        flex-grow: 1; /* Allow title to take available space */
     }
 
     .message-content {
@@ -399,8 +407,9 @@ body {
     .theme-toggle {
         width: 40px;
         height: 40px;
-        top: 25px;
-        right: 20px;
+        top: auto;
+        right: auto;
+        position: static;
     }
 
     .theme-toggle svg {
@@ -409,7 +418,8 @@ body {
     }
 
     .status-indicator {
-        top: 25px;
-        left: 20px;
+        top: auto;
+        left: auto;
+        position: static;
     }
 }
