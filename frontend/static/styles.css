@@ -223,6 +223,14 @@ body {
     background-color: #404040;
 }
 
+.welcome-title {
+    margin-bottom: 10px;
+}
+
+.welcome-content {
+    margin-bottom: 10px;
+}
+
 /* Scrollbar styling */
 .chat-messages::-webkit-scrollbar {
     width: 6px;
@@ -239,6 +247,14 @@ body {
 
 .chat-messages::-webkit-scrollbar-thumb:hover {
     background: #666;
+}
+
+.orange-text {
+    color: #ff6b35;
+}
+
+.bold-text {
+    font-weight: bold;
 }
 
 /* Mobile responsive */
