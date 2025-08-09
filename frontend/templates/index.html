@@ -7,42 +7,40 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='styles.css') }}">
 </head>
 <body>
-    <div class="chat-container">
-        <div class="chat-header">
-            <div class="status-indicator"></div>
-            <div class="chat-title">🛂 Migration Act Chatbot</div>
-            <div class="chat-subtitle">Ask me anything about Australian Migration Act!</div>
+    <div class="chat-header">
+        <div class="status-indicator"></div>
+        <div class="chat-title">🛂 Migration Act Chatbot</div>
+        <div class="chat-subtitle">Ask me anything about Australian Migration Act!</div>
+    </div>
+    
+    <div class="chat-messages" id="chatMessages">
+        <div class="welcome-message">
+            Welcome! I can help you with questions about the Australian Migration Act. 
+            Try asking something like "What visa do I need to work in Australia?" or "What happens if I overstay my visa?"
         </div>
-        
-        <div class="chat-messages" id="chatMessages">
-            <div class="welcome-message">
-                Welcome! I can help you with questions about the Australian Migration Act. 
-                Try asking something like "What visa do I need to work in Australia?" or "What happens if I overstay my visa?"
-            </div>
+    </div>
+    
+    <div class="typing-indicator" id="typingIndicator">
+        <div class="typing-dots">
+            <span></span>
+            <span></span>
+            <span></span>
         </div>
-        
-        <div class="typing-indicator" id="typingIndicator">
-            <div class="typing-dots">
-                <span></span>
-                <span></span>
-                <span></span>
-            </div>
-        </div>
-        
-        <div class="chat-input-container">
-            <div class="chat-input-wrapper">
-                <textarea 
-                    id="chatInput" 
-                    class="chat-input" 
-                    placeholder="Type your message here..."
-                    rows="1"
-                ></textarea>
-                <button id="sendButton" class="send-button">
-                    <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
-                        <path d="M2.01 21L23 12L2.01 3L2 10L17 12L2 14L2.01 21Z" fill="currentColor"/>
-                    </svg>
-                </button>
-            </div>
+    </div>
+    
+    <div class="chat-input-container">
+        <div class="chat-input-wrapper">
+            <textarea 
+                id="chatInput" 
+                class="chat-input" 
+                placeholder="Type your message here..."
+                rows="1"
+            ></textarea>
+            <button id="sendButton" class="send-button">
+                <svg width="24" height="24" viewBox="0 0 24 24" fill="none">
+                    <path d="M2.01 21L23 12L2.01 3L2 10L17 12L2 14L2.01 21Z" fill="currentColor"/>
+                </svg>
+            </button>
         </div>
     </div>
 
