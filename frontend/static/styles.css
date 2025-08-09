@@ -224,11 +224,12 @@ body {
 }
 
 .welcome-title {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
 }
 
 .welcome-content {
-    margin-bottom: 10px;
+    margin-bottom: 12px;
+    line-height: 1.5;
 }
 
 /* Scrollbar styling */
