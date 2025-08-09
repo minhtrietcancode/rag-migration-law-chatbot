@@ -9,3 +9,6 @@ vector_database/
 
 # ignore my note.txt just to take some random notes
 note.txt
+
+# ignore the video of recording demo when it runs
+records/
