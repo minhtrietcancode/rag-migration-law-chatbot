@@ -8,7 +8,7 @@ load_dotenv()
 # API Configuration
 OPENROUTER_API_KEY = os.getenv("OPENROUTER_API_KEY")
 OPENROUTER_API_BASE = "https://openrouter.ai/api/v1"
-MODEL_NAME = "deepseek/deepseek-chat-v3-0324:free"
+MODEL_NAME = "qwen/qwen2.5-vl-32b-instruct:free"
 
 # LLM Parameters
 LLM_TEMPERATURE = 0.05
