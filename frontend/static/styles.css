@@ -33,13 +33,6 @@ body {
     background-clip: text;
 }
 
-.chat-subtitle {
-    font-size: 16px;
-    color: #b3b3b3;
-    font-weight: 400;
-    letter-spacing: 0.3px;
-}
-
 .status-indicator {
     position: absolute;
     top: 20px;
@@ -220,7 +213,7 @@ body {
 }
 
 .welcome-message {
-    text-align: center;
+    text-align: justify;
     color: #b3b3b3;
     font-style: italic;
     margin: 50px 0;
