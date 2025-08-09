@@ -4,11 +4,15 @@ class MigrationChatbot {
         this.chatInput = document.getElementById('chatInput');
         this.sendButton = document.getElementById('sendButton');
         this.typingIndicator = document.getElementById('typingIndicator');
+        this.themeToggle = document.getElementById('themeToggle');
         
         this.init();
     }
 
     init() {
+        // Initialize theme
+        this.initializeTheme();
+
         // Auto-resize textarea
         this.chatInput.addEventListener('input', () => {
             this.chatInput.style.height = 'auto';
@@ -28,8 +32,36 @@ class MigrationChatbot {
             this.sendMessage();
         });
 
+        // Theme toggle click
+        this.themeToggle.addEventListener('click', () => {
+            this.toggleTheme();
+        });
+
         // Focus input on load
         this.chatInput.focus();
+    }
+
+    initializeTheme() {
+        // Check for saved theme preference or default to 'dark'
+        const savedTheme = localStorage.getItem('chatbot-theme') || 'dark';
+        this.setTheme(savedTheme);
+    }
+
+    toggleTheme() {
+        const currentTheme = document.documentElement.getAttribute('data-theme') || 'dark';
+        const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+        this.setTheme(newTheme);
+    }
+
+    setTheme(theme) {
+        document.documentElement.setAttribute('data-theme', theme);
+        localStorage.setItem('chatbot-theme', theme);
+        
+        // Add a small animation effect to the toggle button
+        this.themeToggle.style.transform = 'scale(0.9)';
+        setTimeout(() => {
+            this.themeToggle.style.transform = 'scale(1)';
+        }, 150);
     }
 
     async sendMessage() {
