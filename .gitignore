@@ -7,8 +7,5 @@ __pycache__
 # untrack database dir from now, no need to track transaction log, etc
 vector_database/
 
-# ignore my note.txt just to take some random notes
-note.txt
-
-# ignore the video of recording demo when it runs
-records/
+# ignore the video of recording demo when it run
+demo/Migration Act Assistant - Google Chrome 2025-08-10 11-18-35.mp4
