@@ -348,15 +348,33 @@ body {
     opacity: 0.8;
 }
 
-.suggested-questions {
+.suggested-questions-container {
     display: flex;
-    gap: 30px; /* Increased gap between cards */
-    margin-top: 45px; /* Increased margin-top from welcome message */
-    margin-bottom: 36px;
-    max-width: 900px; /* Increased max-width for the row */
+    flex-direction: column;
+    gap: 16px; /* Gap between rows */
+    margin-top: 20px; /* Adjusted margin-top to bring header and cards closer */
+    margin-bottom: 40px; /* Increased bottom margin to input field */
+    max-width: 900px; /* Increased max-width for the container */
     margin-left: auto;
     margin-right: auto;
     padding: 0 5%;
+}
+
+.common-questions-header {
+    font-size: 16px;
+    color: #888888;
+    font-weight: 500;
+    text-align: center;
+    /* margin-top: 20px; */
+    /* margin-bottom: 10px; */
+}
+
+.suggested-questions {
+    display: flex;
+    gap: 20px; /* Column gap between cards */
+    max-width: 900px; /* Keep max-width for each row */
+    width: 100%;
+    /* Remove margin-top, margin-bottom, margin-left, margin-right, padding from here */
 }
 
 .question-card {
@@ -389,10 +407,19 @@ body {
 
 /* Mobile responsive for suggested questions */
 @media (max-width: 768px) {
+    .suggested-questions-container {
+        flex-direction: column;
+        gap: 20px; /* Increased mobile gap between stacked rows */
+        padding: 0 4%;
+    }
+
     .suggested-questions {
         flex-direction: column;
         gap: 20px; /* Increased mobile gap between stacked cards */
-        padding: 0 4%;
+    }
+
+    .question-card {
+        width: 100%; /* Ensure full width on mobile */
     }
 }
 

@@ -6,6 +6,7 @@ class MigrationChatbot {
         this.typingIndicator = document.getElementById('typingIndicator');
         this.themeToggle = document.getElementById('themeToggle');
         this.suggestedQuestions = document.getElementById('suggestedQuestions');
+        this.suggestedQuestionsRow2 = document.getElementById('suggestedQuestionsRow2');
         
         this.init();
     }
@@ -47,7 +48,10 @@ class MigrationChatbot {
 
     animateSuggestedQuestions() {
         const questionCards = this.suggestedQuestions.querySelectorAll('.question-card');
-        questionCards.forEach((card, index) => {
+        const questionCardsRow2 = this.suggestedQuestionsRow2.querySelectorAll('.question-card');
+        const allQuestionCards = [...questionCards, ...questionCardsRow2];
+
+        allQuestionCards.forEach((card, index) => {
             setTimeout(() => {
                 card.style.opacity = '1';
                 card.style.transform = 'scale(1)';
@@ -149,6 +153,9 @@ class MigrationChatbot {
         // Remove suggested questions if they exist
         if (this.suggestedQuestions) {
             this.suggestedQuestions.remove();
+        }
+        if (this.suggestedQuestionsRow2) {
+            this.suggestedQuestionsRow2.remove();
         }
         
         this.chatMessages.appendChild(messageDiv);
