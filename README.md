@@ -32,9 +32,16 @@ An intelligent chatbot specializing in the Australian Migration Act 1958, design
 
 ## Ideas and Approach
 
-The core idea behind this chatbot is to overcome the limitations of traditional LLMs in accessing specific, up-to-date, and authoritative legal documents. By pre-processing the Migration Act 1958 and structuring its content into a searchable format, the chatbot can "retrieve" relevant sections before "generating" a response, ensuring accuracy and factual grounding.
+The core idea behind this chatbot is to overcome the limitations of traditional LLMs in accessing specific, up-to-date, and authoritative legal documents. Rather than embedding the entire Migration Act 1958—which would be prohibitively resource-intensive—this project uses an **index-based retrieval approach**.
 
-Instead of embedding the entirety of the Migration Act, which would be prohibitively resource-intensive, this project simulates a human-like agentic searching approach. The system navigates a hierarchical tree structure, intelligently choosing the most relevant branch to explore at each step (e.g., going through a specific part, then a division, and so on). This significantly decreases the time complexity for searching, achieving logarithmic time complexity, O(log N), or even better, as each node in the tree can have multiple children. This approach is particularly intelligent for scalability; if the project were to expand to include hundreds of related legal documents, a brute-force embedding and search strategy would be extremely slow and resource-consuming. The current tree structure is designed to be extensible, potentially serving as a directory within a much larger, more comprehensive knowledge tree in future expansions.
+**Key points (index-first):**
+* We pre-process the Migration Act and extract its internal index (table-of-contents style structure): Parts → Divisions → Subdivisions → Sections.
+* Instead of embedding whole pages or entire Acts, we build a **map of short index labels** (the names/ids of nodes). These index labels are compact (few words) and are what get embedded into the vector store for semantic matching.
+* At query time we search the embedded index (the map) to find the most relevant node(s). Only after identifying a node do we fetch the associated full content (O(1) lookup via a final hashmap) and, if necessary, embed that much smaller subset to generate an answer.
+* Because the searchable items are short index labels (not whole pages), the number of tokens to embed is **orders of magnitude smaller**—this yields major improvements in speed, cost, and scalability.
+* The system navigates a hierarchical tree structure step-by-step, selecting the most relevant branch at each level. This simulates a human-like agentic searching approach, intelligently choosing the most relevant branch to explore at each step (e.g., going through a specific part, then a division, and so on). This reduces search complexity to logarithmic time complexity, O(log N), or even better, and keeps runtime and footprint tiny compared to brute-force embedding of all content.
+
+This index-first, content-later approach balances accuracy and efficiency: we retain factual grounding (by pulling the exact legal text when needed) while keeping embedding and search overhead minimal. When scaling up to hundreds of legal documents, this approach becomes incredibly efficient — the same indexing pattern can be applied across multiple documents to create a massive knowledge tree without the exponential cost of embedding every page. The current tree structure is designed to be extensible, potentially serving as a directory within a much larger, more comprehensive knowledge tree in future expansions.
 
 ## Workflow and Structure
 
