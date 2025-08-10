@@ -1,5 +1,18 @@
 # Migration Act Chatbot
 
+## Table of Contents
+
+*   [Demo](#demo)
+*   [Ideas and Approach](#ideas-and-approach)
+*   [Workflow and Structure](#workflow-and-structure)
+    *   [Repository Hierarchy](#repository-hierarchy)
+    *   [1. Data Preparation (`data_preparation/`)](#1-data-preparation-data_preparation)
+    *   [2. Chatbot Application (`src/`)](#2-chatbot-application-src)
+*   [Installation](#installation)
+*   [How to Run](#how-to-run)
+*   [Limitation and Contributing](#limitation-and-contributing)
+*   [License](#license)
+
 ## Demo
 
 Here's a glimpse of the Migration Act Chatbot in action:
