@@ -7,6 +7,7 @@ class MigrationChatbot {
         this.themeToggle = document.getElementById('themeToggle');
         this.suggestedQuestions = document.getElementById('suggestedQuestions');
         this.suggestedQuestionsRow2 = document.getElementById('suggestedQuestionsRow2');
+        this.commonQuestionsHeader = document.querySelector('.common-questions-header');
         
         this.init();
     }
@@ -157,6 +158,9 @@ class MigrationChatbot {
         if (this.suggestedQuestionsRow2) {
             this.suggestedQuestionsRow2.remove();
         }
+        if (this.commonQuestionsHeader) {
+            this.commonQuestionsHeader.remove();
+        }
         
         this.chatMessages.appendChild(messageDiv);
         this.scrollToBottom();
@@ -172,6 +176,15 @@ class MigrationChatbot {
         // Remove suggested questions if they exist
         if (this.suggestedQuestions) {
             this.suggestedQuestions.remove();
+        }
+
+        // Remove suggested questions if they exist
+        if (this.suggestedQuestionsRow2) {
+            this.suggestedQuestionsRow2.remove();
+        }
+
+        if (this.commonQuestionsHeader) {
+            this.commonQuestionsHeader.remove();
         }
         
         this.typingIndicator.style.display = 'block';
