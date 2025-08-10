@@ -12,6 +12,10 @@
     --shadow-color: rgba(255, 107, 53, 0.15);
     --scrollbar-thumb: #555;
     --scrollbar-thumb-hover: #666;
+    --card-bg-dark: #3a3a3a;
+    --card-border-dark: rgba(255, 107, 53, 0.2);
+    --card-text-dark: #e8e8e8;
+    --card-shadow-dark: rgba(0, 0, 0, 0.3);
 }
 
 /* Light theme colors */
@@ -28,6 +32,10 @@
     --shadow-color: rgba(255, 107, 53, 0.15);
     --scrollbar-thumb: #cbd5e0;
     --scrollbar-thumb-hover: #a0aec0;
+    --card-bg-light: #f8f9fa;
+    --card-border-light: rgba(255, 107, 53, 0.15);
+    --card-text-light: #2d3748;
+    --card-shadow-light: rgba(0, 0, 0, 0.1);
 }
 
 * {
@@ -338,6 +346,54 @@ body {
 
 .welcome-content a:hover {
     opacity: 0.8;
+}
+
+.suggested-questions {
+    display: flex;
+    gap: 30px; /* Increased gap between cards */
+    margin-top: 45px; /* Increased margin-top from welcome message */
+    margin-bottom: 36px;
+    max-width: 900px; /* Increased max-width for the row */
+    margin-left: auto;
+    margin-right: auto;
+    padding: 0 5%;
+}
+
+.question-card {
+    flex: 1;
+    background-color: var(--card-bg-dark);
+    border: 1px solid var(--card-border-dark);
+    color: var(--card-text-dark);
+    border-radius: 16px;
+    padding: 25px 20px; /* Increased padding to make cards bigger */
+    font-size: 16px; /* Increased font size */
+    font-weight: 500;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    line-height: 1.4;
+    box-shadow: 0 2px 8px var(--card-shadow-dark);
+    background-image: linear-gradient(135deg, transparent 0%, rgba(255, 107, 53, 0.05) 100%);
+    transition: opacity 0.6s ease-out, transform 0.6s ease-out;
+    opacity: 0;
+    transform: scale(0.95);
+}
+
+[data-theme="light"] .question-card {
+    background-color: var(--card-bg-light);
+    border: 1px solid var(--card-border-light);
+    color: var(--card-text-light);
+    box-shadow: 0 2px 8px var(--card-shadow-light);
+}
+
+/* Mobile responsive for suggested questions */
+@media (max-width: 768px) {
+    .suggested-questions {
+        flex-direction: column;
+        gap: 20px; /* Increased mobile gap between stacked cards */
+        padding: 0 4%;
+    }
 }
 
 /* Scrollbar styling */

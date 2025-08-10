@@ -5,6 +5,7 @@ class MigrationChatbot {
         this.sendButton = document.getElementById('sendButton');
         this.typingIndicator = document.getElementById('typingIndicator');
         this.themeToggle = document.getElementById('themeToggle');
+        this.suggestedQuestions = document.getElementById('suggestedQuestions');
         
         this.init();
     }
@@ -39,6 +40,19 @@ class MigrationChatbot {
 
         // Focus input on load
         this.chatInput.focus();
+
+        // Animate suggested questions on load
+        this.animateSuggestedQuestions();
+    }
+
+    animateSuggestedQuestions() {
+        const questionCards = this.suggestedQuestions.querySelectorAll('.question-card');
+        questionCards.forEach((card, index) => {
+            setTimeout(() => {
+                card.style.opacity = '1';
+                card.style.transform = 'scale(1)';
+            }, 200 * (index + 1)); // Staggered delay
+        });
     }
 
     initializeTheme() {
@@ -132,6 +146,11 @@ class MigrationChatbot {
             welcomeMessage.remove();
         }
         
+        // Remove suggested questions if they exist
+        if (this.suggestedQuestions) {
+            this.suggestedQuestions.remove();
+        }
+        
         this.chatMessages.appendChild(messageDiv);
         this.scrollToBottom();
     }
@@ -141,6 +160,11 @@ class MigrationChatbot {
         const welcomeMessage = this.chatMessages.querySelector('.welcome-message');
         if (welcomeMessage) {
             welcomeMessage.remove();
+        }
+
+        // Remove suggested questions if they exist
+        if (this.suggestedQuestions) {
+            this.suggestedQuestions.remove();
         }
         
         this.typingIndicator.style.display = 'block';
