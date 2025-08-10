@@ -171,6 +171,8 @@ To run the chatbot application, ensure you have completed the [Installation](#in
 
 The current search approach utilizes a greedy algorithm during tree traversal. While highly efficient (approaching O(log N) time complexity), this greedy nature introduces a trade-off with the correctness of the search results, as it may sometimes "skip" a potentially relevant node if its immediate similarity score isn't the highest. This limitation can be optimized in future iterations by exploring more sophisticated algorithms, such as introducing backpropagation or backtracking steps based on similarity thresholds or confidence scores during traversal.
 
+Additionally, this project currently uses the API key of a free Qwen model, which may not be fully optimized for speed or response quality. For best results, you can use API keys from more advanced models (e.g., Claude 4.1 Sonnet from Anthropic or GPT-5 from OpenAI). Simply update the model name in `src/config.py` and you’re good to go.
+
 Contributions to improve the search algorithm, expand the knowledge base, or enhance the user interface are highly welcome. Feel free to open issues or submit pull requests!
 
 ## License
