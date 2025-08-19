@@ -81,6 +81,13 @@ rag-migration-law-chatbot/
 └── requirements.txt
 ```
 
+### Workflow Diagram
+
+Here's a diagram illustrating the overall architecture and data flow of the Migration Act Chatbot:
+![Workflow Diagram](project_structure_diagram.png)
+
+*This diagram was generated using [GitDiagram](https://gitdiagram.com/) by [Ahmed Khaleel](https://ahmedkhaleel.dev/). Many thanks to Ahmed Khaleel for creating such a useful tool!* 
+
 ### 1. Data Preparation (`data_preparation/`)
 
 This phase focuses on processing the raw Migration Act PDF files, extracting and structuring their content, and creating vector embeddings. This pre-processing ensures that the chatbot has a well-organized and semantically searchable knowledge base. The steps are executed in a specific order:
