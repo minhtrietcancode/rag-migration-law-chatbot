@@ -1,6 +1,19 @@
 #!/bin/bash
-# Initialize vector database
-mkdir -p vector_database
-python data_preparation/embedding_optimized_tree/embed_save_chromadb.py
-# Start the Flask app
+
+echo "🚀 Starting Migration Act Assistant deployment..."
+
+# Step 1: Setup vector database
+echo "📁 Setting up vector database..."
+python src/download_vector_db.py
+
+# Check if vector database setup was successful
+if [ $? -eq 0 ]; then
+    echo "✅ Vector database ready!"
+else
+    echo "❌ Vector database setup failed!"
+    exit 1
+fi
+
+# Step 2: Start Flask application
+echo "🌐 Starting Flask application..."
 python src/app.py
