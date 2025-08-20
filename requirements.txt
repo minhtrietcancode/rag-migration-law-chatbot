@@ -8,3 +8,5 @@ flask
 torch # PyTorch
 matplotlib
 pypdf2
+requests
+tqdm
