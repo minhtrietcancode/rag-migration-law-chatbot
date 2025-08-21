@@ -4,7 +4,7 @@ echo "🚀 Starting Migration Act Assistant deployment..."
 
 # Step 1: Setup vector database
 echo "📁 Setting up vector database..."
-python src/download_vector_db.py
+python download_vector_db.py
 
 # Check if vector database setup was successful
 if [ $? -eq 0 ]; then
