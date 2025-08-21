@@ -16,5 +16,4 @@ fi
 
 # Step 2: Start Flask application
 echo "🌐 Starting Flask application..."
-cd src
 gunicorn --bind 0.0.0.0:${PORT:-5000} app:app
