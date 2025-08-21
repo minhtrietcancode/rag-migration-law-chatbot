@@ -5,15 +5,8 @@ import requests
 import config
 
 HF_TOKEN = config.HF_TOKEN
-
-API_URL = (
-    "https://router.huggingface.co/"
-    "hf-inference/models/sentence-transformers/all-MiniLM-L6-v2/pipeline/feature-extraction"
-)
-HEADERS = {
-    "Authorization": f"Bearer {HF_TOKEN}",
-    "Content-Type": "application/json",
-}
+API_URL = config.API_URL
+HEADERS = config.HEADERS
 
 def mean_pool_token_embeddings(token_matrix):
     # token_matrix: list[list[float]] with shape [num_tokens, hidden_size]
