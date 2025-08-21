@@ -1,12 +1,8 @@
 langchain_openai
 langchain
-sentence-transformers
 chromadb
 numpy
 python-dotenv
 flask
-torch # PyTorch
-matplotlib
-pypdf2
 requests
 tqdm
