@@ -35,3 +35,6 @@ END_PAGE_KEY = "end_page"
 
 # Tree Structure
 MIGRATION_ACT_ROOT = "Migration Act 1958"
+
+# HF token 
+HF_TOKEN = os.getenv("HF_TOKEN")
