@@ -4,10 +4,11 @@ import time
 from typing import Optional
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
-from sentence_transformers import SentenceTransformer
 import sys
 sys.path.append('./')
 import config
+from search_term_handler_package.embed_search_term_via_api import get_embedding
+
 
 class SearchTermHandler:
     """Handles search term generation and embedding"""
@@ -15,7 +16,6 @@ class SearchTermHandler:
     def __init__(self):
         self.llm = None
         self.search_term_chain = None
-        self.embedding_model = None
         self._initialize_llm()
     
     def _initialize_llm(self):
@@ -116,20 +116,13 @@ Return only the single search term now."""
             print(f"❌ System failed to generate search term: {str(e)} for question: '{user_question[:50]}...'")
             return None
     
-    def initialize_embedding_model(self):
-        """Initialize the sentence transformer model"""
-        start_model = time.time()
-        self.embedding_model = SentenceTransformer(config.EMBEDDING_MODEL_NAME)
-        end_model = time.time()
-        print(f"Model initialization took {end_model - start_model:.4f} seconds")
-    
     def embed_search_term(self, search_term: str):
         """Embed a search term using the sentence transformer model"""
-        if self.embedding_model is None:
-            self.initialize_embedding_model()
+        # if self.embedding_model is None:
+        #     self.initialize_embedding_model()
         
         start_embed = time.time()
-        embedding = self.embedding_model.encode(search_term)
+        embedding = get_embedding(search_term)
         end_embed = time.time()
         print(f"Embedding took {end_embed - start_embed:.8f} seconds")
         return embedding

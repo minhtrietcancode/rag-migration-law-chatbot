@@ -75,9 +75,3 @@ def get_embedding(text, retries=5, backoff=2.0):
         raise RuntimeError(
             f"HF API error (status {r.status_code}): {json.dumps(err, ensure_ascii=False)}"
         )
-
-if __name__ == "__main__":
-    text = "Migration law can be complex in Australia."
-    vec = get_embedding(text)
-    print("Vector length:", len(vec))
-    print("First 10 dims:", [round(x, 6) for x in vec[:10]])

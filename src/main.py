@@ -37,8 +37,8 @@ class MigrationActChatbot:
         """Pre-initialize search components"""
         print("\n📋 Loading search components...")
         
-        print("1. Loading embedding model...")
-        self.search_term_handler.initialize_embedding_model()
+        # print("1. Loading embedding model...")
+        # self.search_term_handler.initialize_embedding_model()
         
         print("2. Loading ChromaDB collection...")
         collection = self.database_admin.initialize_chromadb()
