@@ -28,6 +28,10 @@ Here's a glimpse of the Migration Act Chatbot in action:
 
 (A video demonstration is available at [Migration Act Assistant Demo](https://drive.google.com/file/d/1ZhROV9B09qwlQ5uMPdAlr5F1PSXkPMIw/view?usp=sharing))
 
+You can also try the deployed tool here: [Migration Act Assistant](https://smart-migration-assistant.onrender.com/)
+
+**Note**: Due to the use of Render's free plan, the link might sometimes take a while to respond or might not respond at all. Please be patient.
+
 An intelligent chatbot specializing in the Australian Migration Act 1958, designed to provide accurate and relevant information from the Act based on user queries. This project demonstrates a Retrieval-Augmented Generation (RAG) approach, combining a custom-built hierarchical search tree with vector embeddings and a Language Model (LLM) for efficient information retrieval and conversational response generation.
 
 ## Ideas and Approach
