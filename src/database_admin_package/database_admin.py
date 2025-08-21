@@ -3,6 +3,8 @@ import time
 import numpy as np
 from chromadb import PersistentClient
 from chromadb.config import Settings
+import sys
+sys.path.append('./')
 import config
 
 class DatabaseAdmin:

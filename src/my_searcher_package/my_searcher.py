@@ -2,6 +2,8 @@
 import json
 import numpy as np
 from typing import Dict, Any, List, Union
+import sys
+sys.path.append('./')
 import config
 
 class MySearcher:

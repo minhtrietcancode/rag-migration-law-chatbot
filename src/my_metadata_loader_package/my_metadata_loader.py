@@ -2,6 +2,8 @@
 import json
 import os
 from typing import Tuple
+import sys
+sys.path.append('./')
 import config
 
 class MyMetadataLoader:

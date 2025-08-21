@@ -5,6 +5,8 @@ from typing import Optional
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 from sentence_transformers import SentenceTransformer
+import sys
+sys.path.append('./')
 import config
 
 class SearchTermHandler:

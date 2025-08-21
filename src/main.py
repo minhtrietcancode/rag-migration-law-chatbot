@@ -6,6 +6,8 @@ from my_metadata_loader_package.my_metadata_loader import MyMetadataLoader
 from langchain_openai import ChatOpenAI
 from langchain.prompts import ChatPromptTemplate
 import time
+import sys
+sys.path.append('.')
 import config
 
 class MigrationActChatbot:
